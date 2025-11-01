@@ -1,0 +1,172 @@
+{
+  "schema": {
+    "product": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "generic_name": { "type": "string", "required": false },
+        "brand": { "type": "string", "required": false },
+        "price": { "type": "float" },
+        "original_price": { "type": "float", "required": false },
+        "unit": { "type": "string", "required": false },
+        "unit_count": { "type": "float", "required": false },
+        "package": { "type": "string", "required": false },
+        "discount_description": { "type": "string", "required": false },
+        "lidl_plus_only": { "type": "boolean", "default": false },
+        "tags": {
+          "type": "array",
+          "items": { "type": "string" },
+          "required": false
+        },
+        "category": { "type": "string", "required": false },
+        "start_date": { "type": "string", "format": "date", "required": false },
+        "end_date": { "type": "string", "format": "date", "required": false }
+      }
+    }
+  },
+  "allowed_tags": [
+    "vegánske",
+    "vegetariánske",
+    "bezlepkové",
+    "mliečne",
+    "bezlaktózové",
+    "bio",
+    "organické",
+    "lokálne",
+    "alkohol",
+    "nealkoholicke",
+    "bez cukru",
+    "bez pridaného cukru",
+    "celozrnné"
+  ],
+  "categories": [
+    "vegetariánske a vegánske",
+    "pekárenské výrobky",
+    "mliečne výrobky",
+    "mäso",
+    "ryby a morské plody",
+    "ovocie a zelenina",
+    "mrazené potraviny",
+    "trvanlivé potraviny",
+    "nápoje",
+    "alkoholické nápoje",
+    "sladkosti a snacky",
+    "oblečenie a obuv",
+    "drogéria",
+    "domácnosť",
+    "osobná starostlivosť",
+    "záhrada a hobby",
+    "elektronika a príslušenstvo"
+  ],
+  "extra_instructions": "Používaj kategórie výlučne zo zoznamu vyššie. Ak je produkt jasne vegánsky, pridaj 'vegánske'. Ak má piktogram 'gluten free', pridaj 'bezlepkové'. Ak ide o klasické mliečne výrobky (mlieko, jogurt, syr, smotana, maslo), pridaj 'mliečne'. Ak ide o náhrady mlieka (rastlinné nápoje) a sú označené ako 'dairy free' alebo 'lactose free', použij 'bezmliečne' alebo 'bezlaktózové'. Do discount_description zahrn aj podmienky zlavy.",
+  "few_shot_examples": [
+    {
+      "input_note": "Dlaždica: 'Vegánske tofu natural 180 g, -25% s Lidl Plus, teraz 1.49 € (pôv. 1.99 €)'",
+      "output": [
+        {
+          "name": "Tofu natural",
+          "generic_name": "tofu",
+          "brand": "Lunter",
+          "price": 1.49,
+          "original_price": 1.99,
+          "unit": "g",
+          "unit_count": 180,
+          "package": "180g/ balenie",
+          "discount_description": "-25%",
+          "lidl_plus_only": true,
+          "tags": ["vegánske"],
+          "category": "vegetariánske a vegánske",
+          "start_date": "2024-10-01",
+          "end_date": "2024-10-07"
+        }
+      ]
+    },
+    {
+      "input_note": "Dlaždica: 'Bezlepkový chlieb 400 g, 2.29 €', piktogram 'gluten free'",
+      "output": [
+        {
+          "name": "Bezlepkový chlieb 400 g",
+          "generic_name": "chlieb",
+          "price": 2.29,
+          "unit": "g",
+          "unit_count": 400,
+          "package": "400g/ kus",
+          "tags": ["bezlepkové"],
+          "category": "pekárenské výrobky",
+          "start_date": "2024-10-01",
+          "end_date": "2024-10-07"
+        }
+      ]
+    },
+    {
+      "input_note": "Dlaždica: 'Rastlinný nápoj mandľový 1 l, 1.79 €', piktogram 'dairy free'",
+      "output": [
+        {
+          "name": "Rastlinný nápoj mandľový 1 l",
+          "generic_name": "rastlinný nápoj",
+          "price": 1.79,
+          "unit": "L",
+          "unit_count": 1,
+          "package": "1L/ kus",
+          "tags": ["bezlaktózové", "vegánske"],
+          "category": "nápoje",
+          "start_date": "2024-10-01",
+          "end_date": "2024-10-07"
+        }
+      ]
+    },
+    {
+      "input_note": "Dlaždica: 'Syr Eidam 30% plátky 150 g, -20% s Lidl Plus, teraz 1.59 € (pôv. 1.99 €)'",
+      "output": [
+        {
+          "name": "Syr Eidam 30% plátky 150 g",
+          "generic_name": "eidam",
+          "brand": "Pilos",
+          "price": 1.59,
+          "original_price": 1.99,
+          "unit": "g",
+          "unit_count": 150,
+          "package": "150g/ balenie",
+          "discount_description": "-20%",
+          "lidl_plus_only": true,
+          "tags": ["mliečne"],
+          "category": "mliečne výrobky",
+          "start_date": "2024-10-01",
+          "end_date": "2024-10-07"
+        }
+      ]
+    },
+    {
+      "input_note": "Dlaždica: 'Coca-Cola/Fanta  2 l, 1.33 €'",
+      "output": [
+        {
+          "name": "Coca-Cola 2L",
+          "generic_name": "kolová limonáda",
+          "price": 1.33,
+          "original_price": 1.99,
+          "unit": "L",
+          "unit_count": 2,
+          "package": "2L/ kus",
+          "tags": ["nealkoholicke"],
+          "category": "nápoje",
+          "start_date": "2024-10-01",
+          "end_date": "2024-10-07"
+        },
+        {
+          "name": "Fanta 2L",
+          "generic_name": "pomarančová limonáda",
+          "price": 1.33,
+          "original_price": 1.99,
+          "unit": "L",
+          "unit_count": 2,
+          "package": "2L/ kus",
+          "tags": ["nealkoholicke"],
+          "category": "nápoje",
+          "start_date": "2024-10-01",
+          "end_date": "2024-10-07"
+        }
+      ]
+    }
+  
+  ]
+}
