@@ -396,8 +396,14 @@ def build_default_output_filename(store: str, start_date: Optional[str], end_dat
     store_part = sanitize_filename_part(store)
     suffix = ''.join(random.choices(string.ascii_lowercase + string.digits, k=6))
     if start_date and end_date:
-        return f"output/{store_part}_{start_date}_to_{end_date}_{suffix}.json"
-    return f"output/{store_part}_{suffix}_products.json"
+        return os.path.join("output", f"{store_part}_{start_date}_to_{end_date}_{suffix}.json")
+    return os.path.join("output", f"{store_part}_{suffix}_products.json")
+
+def ensure_output_dir(path: str) -> None:
+    """Ensure directory for output file exists."""
+    directory = os.path.dirname(path)
+    if directory:
+        os.makedirs(directory, exist_ok=True)
 
 # -------------------- Parallel extraction with context refresh --------------------
 def _process_single_page(page_index: int,
@@ -423,7 +429,9 @@ def _process_single_page(page_index: int,
         print(f"   ❌ Chyba na strane {page_index}: {e}")
         return []
 
-def extract_from_pdf(pdf_path: str, store: str, out_path: str, start_date: str, end_date: str, poppler_path: str | None = None) -> list:
+def extract_from_pdf(pdf_path: str, store: str, out_path: str,
+                     start_date: Optional[str], end_date: Optional[str],
+                     poppler_path: str | None = None) -> list:
     print(f"📄 Spracovávam PDF: {pdf_path}")
     if not os.path.exists(pdf_path):
         raise FileNotFoundError(f"Súbor neexistuje: {pdf_path}")
@@ -468,14 +476,19 @@ def extract_from_pdf(pdf_path: str, store: str, out_path: str, start_date: str, 
                 items = fut.result() or []
                 with lock:
                     all_items.extend(items)
+                    ensure_output_dir(tmp_path)
                     with open(tmp_path, "w", encoding="utf-8") as f:
                         json.dump(all_items, f, indent=2, ensure_ascii=False)
                 print(f"   ✅ dokončená strana {page_no}; priebežný počet položiek: {len(all_items)}")
 
     return all_items
 
-# -------------------- CLI --------------------
-def main(pdf_path: str, store: str, out_path: Optional[str] = None, poppler_path: str | None = None):
+# -------------------- Single-PDF processing --------------------
+def process_pdf(pdf_path: str,
+                store: str,
+                out_path: Optional[str] = None,
+                poppler_path: str | None = None) -> None:
+    """Process a single PDF and write its JSON output."""
     # Build filename using quick cover pass + priming to capture dates
     tmp_pages = convert_from_path(pdf_path, dpi=PAGE_DPI, first_page=1, last_page=1)
     base_ctx = prime_context(store)
@@ -483,6 +496,8 @@ def main(pdf_path: str, store: str, out_path: Optional[str] = None, poppler_path
 
     if not out_path:
         out_path = build_default_output_filename(store, sd, ed)
+
+    ensure_output_dir(out_path)
 
     extracted = extract_from_pdf(pdf_path, store, out_path, sd, ed, poppler_path=poppler_path)
 
@@ -494,11 +509,40 @@ def main(pdf_path: str, store: str, out_path: Optional[str] = None, poppler_path
     if os.path.exists(tmp_path):
         os.remove(tmp_path)
 
+# -------------------- CLI --------------------
+def main(path: str, store: str, out_path: Optional[str] = None, poppler_path: str | None = None):
+    """
+    If 'path' is a file: process that single PDF (optionally with explicit out_path).
+    If 'path' is a directory: process all *.pdf files inside, each into its own output file.
+    """
+    if os.path.isdir(path):
+        print(f"📁 Detekoval som priečinok: {path}")
+        pdf_files = [
+            os.path.join(path, f)
+            for f in os.listdir(path)
+            if f.lower().endswith(".pdf")
+        ]
+        pdf_files.sort()
+        if not pdf_files:
+            print("⚠️ V priečinku som nenašiel žiadne PDF súbory.")
+            return
+
+        print(f"🔎 Našiel som {len(pdf_files)} PDF súborov na spracovanie.")
+        for idx, pdf in enumerate(pdf_files, start=1):
+            print("\n" + "=" * 80)
+            print(f"📄 ({idx}/{len(pdf_files)}) Spracovávam: {pdf}")
+            # always auto-generate out_path for each flyer
+            process_pdf(pdf, store, out_path=None, poppler_path=poppler_path)
+
+    else:
+        # Single PDF path (original behavior)
+        process_pdf(path, store, out_path=out_path, poppler_path=poppler_path)
+
 if __name__ == "__main__":
     if len(sys.argv) < 3:
-        print("Použitie: python price_parser.py letak.pdf obchod [vystup.json]")
+        print("Použitie: python price_parser.py cesta_k_pdf_ale_bo_priecinok obchod [vystup.json_len_pre_jedno_pdf]")
         sys.exit(1)
-    pdf = sys.argv[1]
+    path = sys.argv[1]
     store = sys.argv[2]
     out = sys.argv[3] if len(sys.argv) >= 4 else None
-    main(pdf, store, out_path=out, poppler_path=None)
+    main(path, store, out_path=out, poppler_path=None)
