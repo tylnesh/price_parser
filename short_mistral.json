@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Mascarpone Pilos",
+    "generic_name": "mascarpone",
+    "brand": "Pilos",
+    "price": 2.99,
+    "original_price": 5.98,
+    "unit_count": 0.5,
+    "package": "500g/ kus",
+    "discount_description": "-42%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Pšeničná múka Retro Hladká 00 Extra",
+    "generic_name": "pšeničná múka",
+    "price": 0.45,
+    "unit_count": 1.0,
+    "package": "1kg/ balenie",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Pšeničná múka Retro Polohrubá Výberová",
+    "generic_name": "pšeničná múka",
+    "price": 0.45,
+    "unit_count": 1.0,
+    "package": "1kg/ balenie",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Klasik Pečenie je UM",
+    "generic_name": "alkoholický nápoj na pečenie",
+    "brand": "Klasik",
+    "price": 3.99,
+    "original_price": 4.98,
+    "unit_count": 0.5,
+    "package": "500ml/ balenie",
+    "discount_description": "-20%",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Kyslá smotana 16% tuku",
+    "generic_name": "kyslá smotana",
+    "brand": "Pils",
+    "price": 0.4,
+    "original_price": 0.59,
+    "unit_count": 200.0,
+    "package": "200g/ kus",
+    "discount_description": "2+1, cena za kus pri kúpe 3 kusov = 0,4 €",
+    "lidl_plus_only": true,
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Pomaranče",
+    "generic_name": "pomaranč",
+    "price": 0.99,
+    "original_price": 2.29,
+    "unit": "kg",
+    "discount_description": "-36%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Čučoriedky",
+    "generic_name": "čučoriedka",
+    "price": 3.39,
+    "original_price": 5.99,
+    "unit": "g",
+    "unit_count": 400.0,
+    "discount_description": "-43%",
+    "category": "ovocie a zelenina",
+    "package": "400g/ kus",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Bravčové karé",
+    "generic_name": "bravčové karé",
+    "price": 3.79,
+    "original_price": 6.85,
+    "unit": "kg",
+    "discount_description": "-45%",
+    "lidl_plus_only": true,
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Perwoll Tekutý prací gél",
+    "generic_name": "prací gél",
+    "price": 14.99,
+    "original_price": 20.75,
+    "unit_count": 80.0,
+    "discount_description": "-28%",
+    "category": "domácnosť",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Pilsner Urquell",
+    "generic_name": "svetlý ležiak",
+    "brand": "Pilsner Urquell",
+    "price": 6.99,
+    "original_price": 10.0,
+    "unit_count": 3.5,
+    "package": "7 x 0,5 l/ balenie",
+    "discount_description": "-31%",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Prosecco Treviso DOC Frizzante",
+    "generic_name": "prosekko",
+    "brand": "Treviso",
+    "price": 2.89,
+    "original_price": 4.33,
+    "unit_count": 0.75,
+    "package": "0,75 l/ kus",
+    "discount_description": "-33%",
+    "lidl_plus_only": true,
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Fidorka",
+    "generic_name": "róžene druhy",
+    "brand": "Opavia",
+    "price": 0.46,
+    "original_price": 0.68,
+    "unit_count": 30.0,
+    "package": "1 kus/ balenie",
+    "discount_description": "-25%",
+    "lidl_plus_only": true,
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Tatranské mlieko plnotučné",
+    "generic_name": "mlieko",
+    "brand": "Lait",
+    "price": 0.79,
+    "original_price": 1.18,
+    "unit_count": 1.0,
+    "package": "1 l/ balenie",
+    "discount_description": "-34%",
+    "lidl_plus_only": true,
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Bercoff Brasil Mélange",
+    "generic_name": "zrnkova káva",
+    "brand": "Bercoff",
+    "price": 9.99,
+    "original_price": 15.89,
+    "unit_count": 0.9,
+    "package": "900 g/ balenie",
+    "discount_description": "-37%",
+    "tags": [
+      "bezmliečne"
+    ],
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Silan aviváž Aromatherapy Fascinating Frangipani/Fascinating Jungle v ponuke aj Silan aviváž Fresh Sky",
+    "generic_name": "aviváž",
+    "brand": "Silán",
+    "price": 4.89,
+    "original_price": 10.23,
+    "unit_count": 126.0,
+    "package": "126 práni/ balenie",
+    "discount_description": "-52%",
+    "category": "domácnosť",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Toaletný papier Deli Family 3-ply soft and strong",
+    "generic_name": "toaletný papier",
+    "brand": "Deli Family",
+    "price": 5.99,
+    "original_price": 11.27,
+    "unit_count": 24.0,
+    "package": "24 kotúčikov/ balenie",
+    "discount_description": "-47%",
+    "category": "domácnosť",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Bellosan with Beef",
+    "generic_name": "suché krmivo pre psy",
+    "brand": "Bellosan",
+    "price": 9.99,
+    "unit_count": 13000.0,
+    "package": "13 kg/ balenie",
+    "category": "záhrada a hobby",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Pomaranče",
+    "generic_name": "pomaranč",
+    "price": 0.99,
+    "original_price": 2.29,
+    "unit": "kg",
+    "discount_description": "-56%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Čučoriedky",
+    "generic_name": "čučoriedka",
+    "price": 3.39,
+    "original_price": 5.99,
+    "unit_count": 400.0,
+    "package": "balenie",
+    "discount_description": "-43%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Pomaranče",
+    "generic_name": "pomaranč",
+    "price": 0.99,
+    "original_price": 2.29,
+    "unit": "kg",
+    "discount_description": "-56%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Koktejlové paradajky strapcové",
+    "generic_name": "paradajky",
+    "price": 1.99,
+    "original_price": 4.18,
+    "unit": "g",
+    "unit_count": 600.0,
+    "package": "balenie",
+    "discount_description": "-52%",
+    "tags": [
+      "lokálne"
+    ],
+    "category": "ovocie a zelenina",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Cibula",
+    "generic_name": "cibule",
+    "price": 1.45,
+    "original_price": 4.83,
+    "unit": "kg",
+    "unit_count": 5000.0,
+    "package": "balenie",
+    "discount_description": "-70%",
+    "tags": [
+      "lokálne"
+    ],
+    "category": "ovocie a zelenina",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Šalátové uhorky",
+    "generic_name": "uhorky",
+    "price": 0.69,
+    "original_price": 0.99,
+    "unit": "kus",
+    "discount_description": "-30%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Biela kapusta",
+    "generic_name": "kapusta",
+    "price": 0.49,
+    "original_price": 0.98,
+    "unit": "kg",
+    "discount_description": "-50%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  },
+  {
+    "name": "Šalátové srdiecka",
+    "generic_name": "salát",
+    "price": 0.99,
+    "unit": "kusy v balení",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-07"
+  }
+]

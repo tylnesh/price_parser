@@ -1,0 +1,270 @@
+[
+  {
+    "name": "Eidam tehla",
+    "generic_name": "syr eidam",
+    "price": 0.59,
+    "original_price": 0.89,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100 g/ kus",
+    "discount_description": "-35%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Bezlaktózové maslo 82%",
+    "generic_name": "maslo",
+    "brand": "ToMu Ver",
+    "price": 1.59,
+    "original_price": 2.47,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250 g / kus",
+    "discount_description": "-36%",
+    "tags": [
+      "bezlaktózové"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Kurča čerstvé",
+    "generic_name": "kurča",
+    "price": 2.49,
+    "original_price": 4.5,
+    "unit_count": 1.0,
+    "discount_description": "-44%",
+    "category": "mäso",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Zipsier šunka Originál",
+    "generic_name": "šunka",
+    "price": 0.99,
+    "original_price": 1.5,
+    "unit_count": 100.0,
+    "discount_description": "-34%",
+    "category": "mäso",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Maslo rajo",
+    "generic_name": "maslo",
+    "price": 1.69,
+    "original_price": 3.25,
+    "unit_count": 0.25,
+    "discount_description": "-45%",
+    "category": "mliečne výrobky",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Raffaello dezert",
+    "generic_name": "dezert",
+    "price": 3.99,
+    "original_price": 4.8,
+    "unit_count": 150.0,
+    "discount_description": "-20%",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Banány",
+    "generic_name": "banán",
+    "price": 1.19,
+    "original_price": 2.04,
+    "unit_count": 1.0,
+    "discount_description": "-41%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Sardinky Baltické",
+    "generic_name": "sardinky",
+    "brand": "Radoma",
+    "price": 1.49,
+    "original_price": 2.16,
+    "unit": "g",
+    "unit_count": 230.0,
+    "package": "230 g/ balenie",
+    "discount_description": "-31%",
+    "coop_club_only": true,
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Prešovský kabanos",
+    "generic_name": "kabanos",
+    "price": 0.69,
+    "original_price": 0.89,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100 g/ kus",
+    "discount_description": "-24%",
+    "category": "mäso",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Mascarpone",
+    "generic_name": "mascarpone",
+    "brand": "Galbani",
+    "price": 2.49,
+    "original_price": 3.86,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250 g / balenie",
+    "discount_description": "-37%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Živý jogurt biely",
+    "generic_name": "jogurt",
+    "brand": "Mamičkine dobroty",
+    "price": 0.37,
+    "original_price": 0.49,
+    "unit": "g",
+    "unit_count": 150.0,
+    "package": "150 g / balenie",
+    "discount_description": "-24%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Aljašská treska Exklusiv",
+    "generic_name": "treska filety bez kože hlbokozmrazené",
+    "brand": "Radoma",
+    "price": 3.49,
+    "original_price": 4.65,
+    "unit": "g",
+    "unit_count": 400.0,
+    "package": "400g/ balenie",
+    "discount_description": "-25%",
+    "tags": [
+      "bezlepkové"
+    ],
+    "category": "ryby a morské plody",
+    "start_date": "2023-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Paprika lahódkova",
+    "generic_name": "paprika",
+    "brand": "Mazoma",
+    "price": 1.19,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Mattoni ochutená 3 druhy",
+    "generic_name": "ochutený minerálny nápoj",
+    "brand": "Mattoni",
+    "price": 1.19,
+    "unit": "L",
+    "unit_count": 1.5,
+    "package": "1,5 L/ kus",
+    "discount_description": "+ záloha za obal 0,15 €",
+    "coop_club_only": false,
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Priedušky a plúca",
+    "generic_name": "bylinný čaj",
+    "brand": "Slovanská biológia",
+    "price": 1.49,
+    "original_price": 1.82,
+    "unit": "g",
+    "unit_count": 20.0,
+    "discount_description": "-19%",
+    "tags": [
+      "bio"
+    ],
+    "category": "osobná starostlivosť",
+    "package": "20g/ kus",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Relax 100% džús",
+    "generic_name": "džus",
+    "brand": "Relax",
+    "price": 1.29,
+    "unit_count": 1.0,
+    "package": "1l/ balenie",
+    "tags": [
+      "nealkoholicke"
+    ],
+    "category": "nápoje",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Targa Tonica Kusa Florio",
+    "brand": "Florio",
+    "price": 0.99,
+    "original_price": 1.29,
+    "unit_count": 0.33,
+    "discount_description": "-23%",
+    "tags": [
+      "nealkoholicke"
+    ],
+    "category": "nápoje",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Pálava",
+    "generic_name": "biele víno",
+    "price": 4.99,
+    "original_price": 6.98,
+    "unit": "l",
+    "unit_count": 0.5,
+    "package": "0,5 l/ kus",
+    "discount_description": "-29%",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "BiRell Citrón & Mata",
+    "generic_name": "nápoj bez alkoholu",
+    "brand": "Birell",
+    "price": 0.85,
+    "original_price": 1.7,
+    "unit": "l",
+    "unit_count": 0.5,
+    "package": "jednotková cena",
+    "discount_description": "-25%",
+    "tags": [
+      "nealkoholicke"
+    ],
+    "category": "nápoje",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  }
+]

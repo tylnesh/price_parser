@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Pomaranče volné",
+    "generic_name": "pomaranče",
+    "price": 1.39,
+    "original_price": 2.2,
+    "unit": "kg",
+    "discount_description": "-39%",
+    "billa_bonus_only": true,
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Chute Slovenska jablká Evelina ukladané",
+    "generic_name": "jablká",
+    "price": 1.99,
+    "original_price": 2.59,
+    "unit": "kg",
+    "discount_description": "-23%",
+    "billa_bonus_only": true,
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Avokádo zrelé",
+    "generic_name": "avokádo",
+    "price": 1.59,
+    "original_price": 2.79,
+    "unit": "kus",
+    "discount_description": "-43%",
+    "billa_bonus_only": true,
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Kaleráb s vňaťou",
+    "generic_name": "kaleráb",
+    "price": 0.59,
+    "original_price": 0.79,
+    "unit": "kus",
+    "discount_description": "-25%",
+    "billa_bonus_only": true,
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Cuketa voľná",
+    "generic_name": "cukety",
+    "price": 1.99,
+    "original_price": 3.0,
+    "unit": "kg",
+    "discount_description": "-50%",
+    "billa_bonus_only": true,
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Paprika kapia",
+    "generic_name": "papriky",
+    "price": 2.49,
+    "original_price": 3.0,
+    "unit_count": 500.0,
+    "unit": "g/1 bal.",
+    "discount_description": "-16%",
+    "billa_bonus_only": true,
+    "package": "500g/1 bal./ kus",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Garnier deosprey rôzne druhy",
+    "brand": "Garnier mineral",
+    "price": 3.89,
+    "unit_count": 150.0,
+    "package": "ml/ balenie",
+    "category": "osobná starostlivosť",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "name": "Šalát Little Gem",
+    "generic_name": "salát",
+    "price": 0.99,
+    "original_price": 1.49,
+    "unit_count": 2.0,
+    "package": "ks/balenie",
+    "discount_description": "-33%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17"
+  },
+  {
+    "name": "Bravčový bok",
+    "generic_name": "bok",
+    "price": 4.89,
+    "original_price": 6.85,
+    "unit": "kg",
+    "discount_description": "-29%",
+    "category": "mäso",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17"
+  },
+  {
+    "name": "Kačacia stehná s kožou",
+    "generic_name": "stehná",
+    "price": 0.99,
+    "original_price": 1.54,
+    "unit": "kg",
+    "discount_description": "-36%",
+    "category": "mäso",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17"
+  },
+  {
+    "name": "Kačica mladá bez drobkov",
+    "generic_name": "kačica",
+    "price": 3.29,
+    "original_price": 5.68,
+    "unit": "kg",
+    "discount_description": "-42%",
+    "category": "mäso",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17"
+  },
+  {
+    "name": "Kuracie rezne Hyza",
+    "generic_name": "hyza",
+    "price": 5.69,
+    "original_price": 7.68,
+    "unit": "kg",
+    "discount_description": "-26%",
+    "category": "mäso",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17"
+  },
+  {
+    "name": "Cisársky syr 45 % údený, neúdený",
+    "generic_name": "syr",
+    "price": 0.99,
+    "original_price": 1.28,
+    "unit_count": 100.0,
+    "discount_description": "-23%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17"
+  },
+  {
+    "name": "Madeta Mlieko trvanlivé plnotučné",
+    "generic_name": "mlieko",
+    "brand": "Madeta Jihočeská",
+    "price": 0.69,
+    "original_price": 1.28,
+    "unit": "l",
+    "unit_count": 1.0,
+    "package": "1L/ balenie",
+    "discount_description": "-46%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17"
+  },
+  {
+    "name": "Bask ryža gulatozrnná",
+    "generic_name": "ryža",
+    "brand": "BASK",
+    "price": 1.49,
+    "unit_count": 1000.0,
+    "package": "1 kg/ balenie",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17"
+  },
+  {
+    "name": "Staropramen světlé pivo",
+    "generic_name": "svetle pivo",
+    "brand": "Staropramen",
+    "price": 0.45,
+    "original_price": 0.82,
+    "unit": "l",
+    "unit_count": 0.5,
+    "package": "flaska",
+    "discount_description": "-45%",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17"
+  },
+  {
+    "name": "Gemerka Magnézium a vápnik",
+    "generic_name": "minerálna voda, perlivá",
+    "price": 0.45,
+    "original_price": 0.61,
+    "unit_count": 2.0,
+    "package": "1,5L/ kus",
+    "discount_description": "-26%",
+    "tags": [
+      "nealkoholicke"
+    ],
+    "category": "nápoje",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17"
+  },
+  {
+    "name": "Tchibo Rista Caffè Crema",
+    "generic_name": "zrnková káva",
+    "brand": "Tchibo",
+    "price": 3.99,
+    "original_price": 4.0,
+    "unit_count": 250.0,
+    "package": "250g/ balenie",
+    "discount_description": "-20%",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17"
+  },
+  {
+    "name": "1906 vodka",
+    "generic_name": "vodka",
+    "brand": "1906",
+    "price": 7.99,
+    "original_price": 9.54,
+    "unit": "L",
+    "unit_count": 0.7,
+    "package": "0,7 L/ balenie",
+    "discount_description": "-16%",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  }
+]

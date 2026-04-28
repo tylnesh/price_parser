@@ -1,0 +1,214 @@
+[
+  {
+    "name": "Hrozno biele bezjadierkové",
+    "generic_name": "hrozno",
+    "price": 1.89,
+    "original_price": 3.2,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500 g/ balenie",
+    "discount_description": "-42%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24"
+  },
+  {
+    "name": "Zipser šunka",
+    "generic_name": "šunka",
+    "price": 0.99,
+    "original_price": 1.89,
+    "unit_count": 100.0,
+    "discount_description": "-47%",
+    "category": "mäso",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24"
+  },
+  {
+    "name": "Milko Maťko tvarohový dezert rôzne druhy",
+    "generic_name": "tvarohový dezert",
+    "price": 0.59,
+    "original_price": 0.79,
+    "unit_count": 130.0,
+    "package": "2 ks/ balenie",
+    "discount_description": "-25%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24"
+  },
+  {
+    "name": "Kivi gold",
+    "price": 0.49,
+    "original_price": 0.98,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-50%",
+    "category": "ovocie a zelenina",
+    "package": "1kg/ kus",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24"
+  },
+  {
+    "name": "Redkovka červená",
+    "price": 0.49,
+    "original_price": 0.98,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "discount_description": "-50%",
+    "category": "ovocie a zelenina",
+    "package": "1kus/ kus",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24"
+  },
+  {
+    "name": "Clever cibula",
+    "price": 0.55,
+    "original_price": 1.19,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-53%",
+    "category": "ovocie a zelenina",
+    "package": "1kg/ kus",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24"
+  },
+  {
+    "name": "Karička chrievko klasik",
+    "price": 0.82,
+    "original_price": 1.64,
+    "unit": "g",
+    "unit_count": 100.0,
+    "discount_description": "-50%",
+    "category": "sladkosti a snacky",
+    "package": "100g/ kus",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24"
+  },
+  {
+    "name": "BILLA Lovečská saláma",
+    "price": 0.92,
+    "original_price": 1.84,
+    "unit": "g",
+    "unit_count": 75.0,
+    "discount_description": "-50%",
+    "category": "mäso",
+    "package": "75g/ kus",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24"
+  },
+  {
+    "name": "Kmotr Kmotriva klobása trio",
+    "price": 0.99,
+    "original_price": 1.98,
+    "unit": "g",
+    "unit_count": 75.0,
+    "discount_description": "-50%",
+    "category": "mäso",
+    "package": "75g/ kus",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24"
+  },
+  {
+    "name": "Rajo tvaroh odtučený hrudkovitý",
+    "price": 0.99,
+    "original_price": 1.98,
+    "unit": "g",
+    "unit_count": 180.0,
+    "discount_description": "-50%",
+    "category": "mliečne výrobky",
+    "package": "180g/ kus",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24"
+  },
+  {
+    "name": "Danone Actimel jogurtový nápoj",
+    "price": 3.29,
+    "original_price": 6.58,
+    "unit": "g",
+    "unit_count": 100.0,
+    "discount_description": "-50%",
+    "category": "nápoje",
+    "package": "100g/ kus",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24"
+  },
+  {
+    "name": "Lunter nátierka Maxi rastlinná",
+    "generic_name": "nátierka",
+    "brand": "Lunter",
+    "price": 0.79,
+    "unit": "g",
+    "unit_count": 120.0,
+    "package": "120 g / kus",
+    "tags": [
+      "vegánske"
+    ],
+    "category": "vegetariánske a vegánske",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24"
+  },
+  {
+    "name": "Finlandia vodka, 40 %",
+    "generic_name": "vodka",
+    "brand": "Finlandia",
+    "price": 11.99,
+    "original_price": 17.28,
+    "unit": "l",
+    "unit_count": 0.7,
+    "package": "0,7 l / balenie",
+    "discount_description": "-31%",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24"
+  },
+  {
+    "name": "Mattoni minerálna voda perlivá, jemne perlivá, neperlivá",
+    "generic_name": "minerálna voda",
+    "brand": "Mattoni",
+    "price": 0.49,
+    "original_price": 0.85,
+    "unit": "l",
+    "unit_count": 1.5,
+    "package": "2ks/ balenie",
+    "discount_description": "-42%",
+    "tags": [
+      "nealkoholicke"
+    ],
+    "category": "nápoje",
+    "start_date": "2023-10-01",
+    "end_date": "2023-10-07"
+  },
+  {
+    "name": "Zlatý Bažant Citrón",
+    "generic_name": "nealkoholický radler",
+    "brand": "Zlatý Bažant",
+    "price": 0.85,
+    "original_price": 1.26,
+    "unit": "l",
+    "unit_count": 0.5,
+    "package": "plechovka",
+    "discount_description": "-32%",
+    "tags": [
+      "nealkoholicke"
+    ],
+    "category": "nápoje",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24"
+  },
+  {
+    "name": "Ariel prací gel XL ekonomik",
+    "generic_name": "prací gel",
+    "brand": "Ariel",
+    "price": 12.99,
+    "unit_count": 50.0,
+    "package": "64 pranie/ks",
+    "category": "domácnosť",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24"
+  }
+]

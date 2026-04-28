@@ -1,0 +1,568 @@
+[
+  {
+    "name": "Pološtiepok údený",
+    "generic_name": "pološtiepok",
+    "brand": "Mamičkiné dobroty",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 190.0,
+    "package": "190 g / balenie",
+    "discount_description": "-26%",
+    "category": "mäso",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Pražská šunka",
+    "generic_name": "šunka",
+    "brand": "Leroy",
+    "price": 0.99,
+    "original_price": 1.29,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100 g / kus",
+    "discount_description": "-23%",
+    "category": "mäso",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Kurcie stehna chladené",
+    "generic_name": "kurcie stehna",
+    "price": 2.99,
+    "original_price": 4.31,
+    "unit": "kg",
+    "discount_description": "-30%",
+    "category": "mäso",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Bezlaktózový smotanový jogurt Tomu Ver",
+    "generic_name": "jogurt",
+    "price": 0.39,
+    "original_price": 0.58,
+    "unit_count": 145.0,
+    "package": "145g/ kus",
+    "discount_description": "-33%",
+    "tags": [
+      "bezlaktózové"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Maslo tradičné 250 g",
+    "generic_name": "maslo",
+    "price": 1.29,
+    "original_price": 1.76,
+    "unit_count": 250.0,
+    "package": "250g/ balenie",
+    "discount_description": "-27%",
+    "category": "mliečne výrobky",
+    "unit": "g",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Mlieko plnotučne 3.5% 1 l",
+    "generic_name": "mlieko",
+    "price": 0.85,
+    "unit_count": 1000.0,
+    "package": "1L/ balenie",
+    "category": "mliečne výrobky",
+    "unit": "L",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Mandarinky volne 1 kg",
+    "generic_name": "mandarinky",
+    "price": 1.49,
+    "original_price": 2.3,
+    "unit_count": 1000.0,
+    "package": "1kg/ balenie",
+    "discount_description": "-35%",
+    "category": "ovocie a zelenina",
+    "unit": "kg",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Smotana trvanlivá 33% tuk, 250 ml",
+    "generic_name": "smotana_trvanliva",
+    "brand": null,
+    "price": 1.49,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "package": "250 ml/ balenie",
+    "discount_description": "",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Čerstvé mlieko polotučné 1,5% tuk, 1 l",
+    "generic_name": "cerstve_mlieko_polotuene",
+    "brand": null,
+    "price": 0.89,
+    "original_price": 1.09,
+    "unit": "l",
+    "unit_count": 1.0,
+    "package": "1 l/ balenie",
+    "discount_description": "-18%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Fazula farebná",
+    "generic_name": "fazule",
+    "brand": "Tradičná kvalita",
+    "price": 1.09,
+    "unit": "g",
+    "unit_count": 400.0,
+    "package": "400g/ kus",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Šošovica",
+    "generic_name": "šošovica",
+    "brand": "Tradičná kvalita",
+    "price": 1.19,
+    "unit": "g",
+    "unit_count": 400.0,
+    "package": "400g/ kus",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Toaletný papier",
+    "generic_name": "toaletný papier",
+    "package": "30 m/ balenie",
+    "brand": "Dobrá cena",
+    "price": 0.39,
+    "unit_count": 1.0,
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Hygienické vreckovky",
+    "generic_name": "hygienické vreckovky",
+    "package": "10 ks/ balenie",
+    "brand": "Dobrá cena",
+    "price": 0.99,
+    "unit_count": 3.0,
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Grep červený",
+    "generic_name": "grapfruit",
+    "price": 1.59,
+    "original_price": 2.49,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "1 kg/ kus",
+    "discount_description": "-37%",
+    "tags": [],
+    "category": "ovocie a zelenina",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Extra Berto Šunka",
+    "generic_name": "šunka",
+    "brand": "Berto",
+    "price": 0.95,
+    "original_price": 1.2,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100 g / kus",
+    "discount_description": "-20%",
+    "coop_club_only": false,
+    "category": "mäso",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Tekovská tehla 45%",
+    "generic_name": "tehla",
+    "price": 0.99,
+    "original_price": 1.8,
+    "unit_count": 100.0,
+    "discount_description": "-44% zľava",
+    "category": "mliečne výrobky",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Rodinná tehla",
+    "generic_name": "tehla",
+    "price": 0.89,
+    "original_price": 1.2,
+    "unit_count": 100.0,
+    "discount_description": "-23% zľava",
+    "category": "mliečne výrobky",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Hríňovec údený",
+    "generic_name": "hríňovec",
+    "price": 0.85,
+    "original_price": 1.1,
+    "unit_count": 100.0,
+    "discount_description": "-22% zľava",
+    "category": "mäso",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Levická tehla na výprážanie",
+    "generic_name": "tehla",
+    "price": 1.39,
+    "original_price": 1.7,
+    "unit_count": 100.0,
+    "discount_description": "-17% zľava",
+    "category": "mliečne výrobky",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Oštiepok parenicový",
+    "generic_name": "oštiepok",
+    "price": 1.09,
+    "original_price": 1.5,
+    "unit_count": 100.0,
+    "discount_description": "-27% zľava",
+    "category": "mäso",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Leerdammer plátky",
+    "generic_name": "syr",
+    "brand": "Leerdammer",
+    "price": 1.59,
+    "original_price": 2.38,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100 g / balenie",
+    "discount_description": "-33%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Sýr a Krúp 4 x 35 g",
+    "generic_name": "syr a krupy",
+    "brand": "Lunter",
+    "price": 2.19,
+    "original_price": 3.17,
+    "unit_count": 140.0,
+    "package": "balenie",
+    "discount_description": "-31%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "sladkosti a snacky",
+    "unit": "g",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Matko tvorohový dezert",
+    "generic_name": "tvorohový dezert",
+    "brand": "Matko",
+    "price": 0.69,
+    "original_price": 0.82,
+    "unit_count": 130.0,
+    "package": "g/ kus",
+    "discount_description": "-16%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "sladkosti a snacky",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Junior Jogurtík s čokoládovým drezom",
+    "generic_name": "jogurt s drezom",
+    "brand": "Coop Junior",
+    "price": 0.49,
+    "original_price": 0.78,
+    "unit_count": 135.0,
+    "package": "g/ kus",
+    "discount_description": "-37%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "sladkosti a snacky",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Pribináček Kapsík",
+    "generic_name": "pribinacek kapsik",
+    "brand": "Kapsík",
+    "price": 0.99,
+    "original_price": 1.27,
+    "unit_count": 70.0,
+    "package": "g/ kus",
+    "discount_description": "-22%",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "category": "sladkosti a snacky",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Termix do vrecka",
+    "generic_name": "termix",
+    "brand": "Nika",
+    "price": 0.69,
+    "original_price": 0.89,
+    "unit_count": 80.0,
+    "package": "g/ kus",
+    "discount_description": "-22%",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "category": "sladkosti a snacky",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "BeBe Dobré ráno",
+    "generic_name": "dobre rano",
+    "brand": "BeBe",
+    "price": 0.5,
+    "unit_count": 50.0,
+    "package": "g/ kus",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "category": "sladkosti a snacky",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Ghee prepustené maslo",
+    "generic_name": "maslo",
+    "price": 7.99,
+    "unit": "g",
+    "unit_count": 400.0,
+    "package": "400 g / balenie",
+    "discount_description": "",
+    "coop_club_only": false,
+    "tags": [
+      "mliečne"
+    ],
+    "category": null,
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Zott Hungry? chocolate",
+    "generic_name": "nápoj na báze mlieka",
+    "brand": "Zott",
+    "price": 2.59,
+    "original_price": 3.46,
+    "unit": "ml",
+    "unit_count": 500.0,
+    "package": "500 ml/ balenie",
+    "discount_description": "-25%",
+    "coop_club_only": false,
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Bezgluténové chlebíčky kukuričné s morskou sóľou",
+    "generic_name": "chlebíčky",
+    "brand": "ToMu Ver",
+    "price": 0.69,
+    "unit": "g",
+    "unit_count": 110.0,
+    "package": "balenie",
+    "tags": [
+      "bezlepkové"
+    ],
+    "category": "pekárenské výrobky",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Bezgluténové chlebíčky rýžové",
+    "generic_name": "chlebíčky",
+    "brand": "ToMu Ver",
+    "price": 0.69,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "balenie",
+    "tags": [
+      "bezlepkové"
+    ],
+    "category": "pekárenské výrobky",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Bezlaktózová smotana kyslá",
+    "generic_name": "smotana",
+    "brand": "ToMu Ver",
+    "price": 0.59,
+    "original_price": 0.89,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "kus",
+    "tags": [
+      "bezlaktózové"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Bezgluténové piškóty kukuričné",
+    "generic_name": "piškóty",
+    "brand": "ToMu Ver",
+    "price": 1.29,
+    "unit": "g",
+    "unit_count": 120.0,
+    "package": "balenie",
+    "tags": [
+      "bezlepkové"
+    ],
+    "category": "pekárenské výrobky",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Activia jogurt 2 druhy 165 g",
+    "generic_name": "jogurt",
+    "brand": "Activia",
+    "price": 0.99,
+    "original_price": 1.34,
+    "unit": "g",
+    "unit_count": 165.0,
+    "package": "165 g/ balenie",
+    "discount_description": "-26%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Princezky sušenky",
+    "generic_name": "sušenky",
+    "brand": "Lido",
+    "price": 0.65,
+    "original_price": 0.85,
+    "unit": "g",
+    "unit_count": 80.0,
+    "package": "80 g / balenie",
+    "discount_description": "-23%",
+    "tags": [],
+    "category": "sladkosti a snacky",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Coca-Cola Original Taste",
+    "generic_name": "cola",
+    "brand": "Coca-Cola",
+    "price": 1.49,
+    "original_price": 1.99,
+    "unit": "L",
+    "unit_count": 1.5,
+    "package": "1,5 L/ balenie",
+    "discount_description": "-25%",
+    "tags": [
+      "nealkoholicke"
+    ],
+    "category": "nápoje",
+    "start_date": "2024-10-08",
+    "end_date": "2024-10-14"
+  },
+  {
+    "name": "Sirup 3 druhy",
+    "generic_name": "sirupy",
+    "brand": "Coop",
+    "price": 2.29,
+    "original_price": 3.27,
+    "unit": "l",
+    "unit_count": 0.7,
+    "package": "0,7 l/ balenie",
+    "discount_description": "-18%",
+    "tags": [
+      "nealkoholicke"
+    ],
+    "category": "nápoje",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Popradský ovocný čaj Citrón",
+    "generic_name": "čaj citrónový",
+    "brand": "Popradský",
+    "price": 1.49,
+    "original_price": 1.89,
+    "unit": "g",
+    "unit_count": 36.0,
+    "discount_description": "-21%",
+    "coop_club_only": false,
+    "package": "36g/ kus",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Jägermeister",
+    "generic_name": "alkoholický nápoj",
+    "brand": "Jägermeister",
+    "price": 12.99,
+    "unit": "l",
+    "unit_count": 0.7,
+    "package": "0,7 l/ balenie",
+    "discount_description": "",
+    "coop_club_only": false,
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "name": "Pilsner Urquell",
+    "generic_name": "pivo",
+    "brand": "Pilsner Urquell",
+    "price": 0.99,
+    "original_price": 1.38,
+    "unit": "l",
+    "unit_count": 0.5,
+    "discount_description": "-28%",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "package": "0.5l/ kus",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "name": "Plesnivec",
+    "generic_name": "plesnivec",
+    "price": 0.79,
+    "original_price": 1.46,
+    "unit_count": 90.0,
+    "discount_description": "-46%",
+    "end_date": "2026-03-14",
+    "start_date": "2026-03-12"
+  },
+  {
+    "name": "Smotánový jogurt",
+    "generic_name": "jogurt",
+    "price": 0.35,
+    "original_price": 0.49,
+    "unit_count": 150.0,
+    "discount_description": "-28%",
+    "end_date": "2026-03-14",
+    "start_date": "2026-03-12"
+  },
+  {
+    "name": "Zemiaky žité neskore prané šalátové",
+    "generic_name": "zemiaky",
+    "price": 0.99,
+    "original_price": 1.58,
+    "unit_count": 2000.0,
+    "discount_description": "-37%",
+    "end_date": "2026-03-14",
+    "start_date": "2026-03-12"
+  },
+  {
+    "name": "Kuracie rezne chladené",
+    "generic_name": "kuracie maso",
+    "price": 5.49,
+    "original_price": 8.78,
+    "unit_count": 1000.0,
+    "discount_description": "-38%",
+    "end_date": "2026-03-14",
+    "start_date": "2026-03-12"
+  },
+  {
+    "name": "Lahodka z karé udená",
+    "generic_name": "lahodka",
+    "price": 5.99,
+    "original_price": 8.78,
+    "unit_count": 1000.0,
+    "discount_description": "-32%",
+    "end_date": "2026-03-14",
+    "start_date": "2026-03-12"
+  },
+  {
+    "name": "Hellmann's Originálná majónzá Tatarská omáčka",
+    "generic_name": "majonéza",
+    "price": 1.99,
+    "original_price": 3.58,
+    "unit_count": 405.0,
+    "discount_description": "-44%",
+    "end_date": "2026-03-14",
+    "start_date": "2026-03-12"
+  },
+  {
+    "name": "Extra Berto šunka",
+    "generic_name": "šunka",
+    "brand": "Tempo",
+    "price": 0.95,
+    "original_price": 1.2,
+    "unit_count": 100.0,
+    "discount_description": "-20%",
+    "coop_club_only": false,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Lahôdkové zavináce",
+    "generic_name": "zavinace",
+    "price": 0.99,
+    "unit_count": 150.0,
+    "discount_description": "-31%",
+    "category": "mrazené potraviny",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Maslo tradičné",
+    "generic_name": "maslo",
+    "price": 1.49,
+    "original_price": 2.76,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250 g/ balenie",
+    "discount_description": "-56%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Recký biely jogurt",
+    "generic_name": "jogurt",
+    "brand": "",
+    "price": 0.59,
+    "unit": "g",
+    "unit_count": 140.0,
+    "package": "140 g/ balenie",
+    "discount_description": "-16%",
+    "coop_club_only": false,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Eldam salámový syr neúdený 45% 100 g",
+    "price": 0.99,
+    "original_price": 1.28,
+    "unit_count": 100.0,
+    "discount_description": "-23%",
+    "category": "mliečne výrobky",
+    "unit": "g",
+    "package": "100g/ kus",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Holandske kakao Dr.Oetker",
+    "generic_name": "kakao",
+    "brand": "Dr. Oetker",
+    "price": 2.39,
+    "unit_count": 100.0,
+    "package": "100g/ balenie",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Kinder mliečny rez",
+    "generic_name": "rez",
+    "brand": "Kindera",
+    "price": 0.59,
+    "original_price": 0.72,
+    "unit": "g",
+    "unit_count": 28.0,
+    "package": "28 g / kus",
+    "discount_description": "-18%",
+    "coop_club_only": false,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Hell Classic",
+    "generic_name": "pivo",
+    "brand": "Tempo",
+    "price": 0.99,
+    "original_price": 1.35,
+    "unit": "l",
+    "unit_count": 0.5,
+    "package": "0,5 l/ kus",
+    "discount_description": "-26%",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2024-10-08",
+    "end_date": "2024-10-15"
+  },
+  {
+    "name": "Rajec nesýtený",
+    "generic_name": "voda",
+    "brand": "RAJEC",
+    "price": 0.79,
+    "original_price": 1.05,
+    "unit": "l",
+    "unit_count": 0.75,
+    "package": "0,75 l/ kus",
+    "discount_description": "-24%",
+    "category": "nápoje",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Mamičkiné dobroty Kuracie horné stehná 1 kg + korenie zadarmo 1 bal.",
+    "generic_name": "kuracie horne stehno",
+    "price": 3.49,
+    "original_price": 4.16,
+    "unit_count": 1000.0,
+    "unit": "g",
+    "discount_description": "-16%",
+    "tags": [
+      "bezlepkové"
+    ],
+    "category": "mäso",
+    "package": "1000g/ kus",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Šalát vlašský",
+    "generic_name": "salad",
+    "price": 0.79,
+    "original_price": 1.14,
+    "unit_count": 140.0,
+    "discount_description": "-31%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Kuracie štvrte stehenné chladené",
+    "generic_name": "kuracie stehno",
+    "price": 2.59,
+    "unit_count": 1000.0,
+    "unit": "g",
+    "discount_description": "-31%",
+    "category": "mäso",
+    "package": "1000g/ kus",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Rasca celá",
+    "generic_name": "rascová mliečna tyčinka",
+    "brand": "Milka",
+    "price": 0.33,
+    "unit_count": 28.0,
+    "unit": "g",
+    "package": "28g/ kus",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Lacey Swiss syr",
+    "generic_name": "syr",
+    "price": 0.99,
+    "unit_count": 100.0,
+    "discount_description": "-19%",
+    "tags": [
+      "bezlaktózové"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Tuniak kúsky v olivovom oleji",
+    "generic_name": "tuniak",
+    "price": 5.49,
+    "unit": "g",
+    "unit_count": 300.0,
+    "package": "pevný podiel 195 g, jednotková cena 28,15 EUR/kg",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Xixo Tutti Fruity",
+    "generic_name": "limonáda",
+    "brand": "Xixo",
+    "price": 0.59,
+    "unit_count": 0.25,
+    "unit": "l",
+    "package": "0.25l/ kus",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Slovakia šošovicové lupienky morská soľ",
+    "generic_name": "šošovicové lupienky",
+    "brand": "Slovakia",
+    "price": 1.59,
+    "original_price": 1.99,
+    "unit_count": 65.0,
+    "discount_description": "-20%",
+    "coop_club_only": false,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Savo praci gel",
+    "generic_name": "prací gél",
+    "price": 4.99,
+    "original_price": 7.68,
+    "unit_count": 20.0,
+    "package": "1 pracia dávka/ balenie",
+    "discount_description": "-37%",
+    "coop_club_only": false,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Haribo Bunny & Friends",
+    "brand": "Haribo",
+    "generic_name": "sladkosti",
+    "price": 0.69,
+    "unit_count": 80.0,
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Štrúdlová jablková",
+    "generic_name": "štrúdla",
+    "price": 0.79,
+    "original_price": 1.22,
+    "unit_count": 100.0,
+    "discount_description": "-35%",
+    "category": "pekárenské výrobky",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  }
+]

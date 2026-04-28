@@ -1,0 +1,746 @@
+[
+  {
+    "name": "Hrozno biele",
+    "generic_name": "hrozno",
+    "price": 1.89,
+    "original_price": 3.99,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-52%",
+    "category": "ovocie a zelenina",
+    "start_date": "2025-09-17",
+    "end_date": "2025-10-07",
+    "package": "1kg/ kus"
+  },
+  {
+    "name": "Natur farm mandarinky",
+    "generic_name": "mandarinky",
+    "brand": "Natur farm",
+    "price": 0.94,
+    "original_price": 1.88,
+    "unit": "g",
+    "unit_count": 312.0,
+    "package": "312g/ balenie",
+    "discount_description": "-50%",
+    "tags": [
+      "bio"
+    ],
+    "category": "ovocie a zelenina",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Hrozno červené bezjadierkové",
+    "generic_name": "hrozno",
+    "price": 1.49,
+    "original_price": 2.98,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ balenie",
+    "discount_description": "-50%",
+    "tags": [
+      "bio",
+      "organické"
+    ],
+    "category": "ovocie a zelenina",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Anglická slanina",
+    "generic_name": "slanina",
+    "price": 2.14,
+    "original_price": 4.29,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ kus",
+    "discount_description": "1+1",
+    "billa_bonus_only": true,
+    "category": "mäso",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Kukkonia bravčové plece bez kosti XXL",
+    "generic_name": "bravčové plece",
+    "price": 4.39,
+    "original_price": 6.69,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-34%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Chute Slovenska rajčiaky kokteilové strapcové",
+    "generic_name": "rajčiaky kokteilové",
+    "brand": "Chute Slovenska",
+    "price": 1.29,
+    "original_price": 1.99,
+    "unit": "g",
+    "unit_count": 400.0,
+    "package": "400g/1 bal.",
+    "discount_description": "-35%",
+    "category": "ovocie a zelenina",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Chute Slovenska rajčiaky cherry",
+    "generic_name": "rajčiaky cherry",
+    "price": 1.29,
+    "original_price": 2.19,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ balenie",
+    "discount_description": "-41%",
+    "category": "ovocie a zelenina",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Brokolica",
+    "generic_name": "brokolica",
+    "price": 1.39,
+    "original_price": 1.99,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ balenie",
+    "discount_description": "-30%",
+    "category": "ovocie a zelenina",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Uhorka šalátová",
+    "generic_name": "uhorka",
+    "price": 0.59,
+    "original_price": 0.99,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-40%",
+    "category": "ovocie a zelenina",
+    "package": "1kg/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Chute Slovenska zemiaky",
+    "generic_name": "zemiak",
+    "price": 0.59,
+    "original_price": 0.89,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-33%",
+    "category": "ovocie a zelenina",
+    "package": "1kg/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Chute Slovenska cibula žltá",
+    "generic_name": "cibula",
+    "price": 0.79,
+    "original_price": 1.19,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-33%",
+    "category": "ovocie a zelenina",
+    "package": "1kg/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Chute Slovenska kaleráb s vňatou",
+    "generic_name": "kaleráb",
+    "price": 0.49,
+    "original_price": 0.78,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-37%",
+    "category": "ovocie a zelenina",
+    "package": "1kg/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Nice bites to go pistácie",
+    "generic_name": "pistácie",
+    "price": 2.29,
+    "original_price": 2.74,
+    "unit": "g",
+    "unit_count": 70.0,
+    "package": "70g/ balenie",
+    "discount_description": "-17%",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Nice bites kešu",
+    "generic_name": "kešu",
+    "price": 5.99,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Poctivé párky",
+    "generic_name": "párky",
+    "price": 2.99,
+    "original_price": 3.69,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "1 kg",
+    "discount_description": "-18%",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Orion Koko",
+    "generic_name": "čokoládová tyčinka",
+    "price": 0.45,
+    "unit": "kg",
+    "unit_count": 0.035,
+    "package": "35 g",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Orion Margot",
+    "generic_name": "čokoládová tyčinka",
+    "price": 0.69,
+    "unit": "kg",
+    "unit_count": 0.08,
+    "package": "80 g",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Orion lentilky",
+    "generic_name": "rózne druhy",
+    "price": 0.69,
+    "unit": "kg",
+    "unit_count": 0.028,
+    "package": "28 g",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Orion Banány XXL",
+    "generic_name": "želé v čokoláde",
+    "price": 0.79,
+    "unit": "kg",
+    "unit_count": 0.08,
+    "package": "80 g",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Lindt Excellence",
+    "generic_name": "čokoláda",
+    "price": 2.99,
+    "unit": "kg",
+    "unit_count": 0.1,
+    "package": "100 g",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Franz Josef tuniakový salát",
+    "generic_name": "rózne druhy",
+    "price": 1.59,
+    "unit": "kg",
+    "unit_count": 0.16,
+    "package": "160 g",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Orion Granko",
+    "generic_name": "instantné kakao",
+    "price": 3.99,
+    "unit": "kg",
+    "unit_count": 0.4,
+    "package": "400 g",
+    "tags": [
+      "trvanlivé potraviny"
+    ],
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Elmex",
+    "generic_name": "zubná pasta",
+    "price": 3.79,
+    "unit": "l",
+    "unit_count": 0.075,
+    "package": "75 ml",
+    "tags": [
+      "osobná starostlivosť"
+    ],
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Špaldová bageta",
+    "price": 0.75,
+    "original_price": 0.99,
+    "unit": "g",
+    "unit_count": 123.0,
+    "discount_description": "-24%",
+    "category": "pekárenské výrobky",
+    "package": "123g/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Rustikálny semolinový chlieb",
+    "price": 1.35,
+    "original_price": 1.69,
+    "unit": "g",
+    "unit_count": 405.0,
+    "discount_description": "-20%",
+    "category": "pekárenské výrobky",
+    "package": "405g/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Croissant s maslom",
+    "price": 0.39,
+    "original_price": 0.49,
+    "unit": "g",
+    "unit_count": 54.0,
+    "discount_description": "-20%",
+    "category": "pekárenské výrobky",
+    "package": "54g/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Šiška s marhúľovou náplňou",
+    "price": 0.55,
+    "original_price": 0.69,
+    "unit": "g",
+    "unit_count": 70.0,
+    "discount_description": "-20%",
+    "category": "pekárenské výrobky",
+    "package": "70g/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "XL puding granátové jablko",
+    "price": 0.65,
+    "original_price": 0.78,
+    "unit": "g",
+    "unit_count": 85.0,
+    "discount_description": "-17%",
+    "category": "sladkosti a snacky",
+    "package": "85g/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Donut s čokoládovou polevou Milka",
+    "price": 0.79,
+    "original_price": 0.99,
+    "unit": "g",
+    "unit_count": 55.0,
+    "discount_description": "-20%",
+    "category": "sladkosti a snacky",
+    "package": "55g/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Schär Pan multigrano",
+    "price": 1.65,
+    "original_price": 2.29,
+    "unit": "g",
+    "unit_count": 250.0,
+    "discount_description": "-27%",
+    "category": "pekárenské výrobky",
+    "package": "250g/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Tekvicová bulka z kamennej pece",
+    "price": 0.39,
+    "original_price": 0.49,
+    "unit": "g",
+    "unit_count": 65.0,
+    "discount_description": "-20%",
+    "category": "pekárenské výrobky",
+    "package": "65g/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Nika ementalér",
+    "price": 1.19,
+    "original_price": 1.69,
+    "unit": "kg",
+    "unit_count": 100.0,
+    "discount_description": "-29%",
+    "category": "mliečne výrobky",
+    "package": "100kg/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Karička Maxi",
+    "price": 2.69,
+    "unit": "kg",
+    "unit_count": 240.0,
+    "category": "mliečne výrobky",
+    "package": "240kg/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Wellness šunka",
+    "generic_name": "šunka",
+    "brand": "Leicht",
+    "price": 1.85,
+    "original_price": 2.55,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "100g/ kus",
+    "discount_description": "-27%",
+    "tags": [
+      "lokálne"
+    ],
+    "category": "mäso",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Kačacia pečen foie gras",
+    "generic_name": "foie gras",
+    "price": 3.39,
+    "original_price": 4.62,
+    "unit": "g",
+    "unit_count": 100.0,
+    "discount_description": "-27%",
+    "category": "mäso",
+    "package": "100g/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Kofola originál",
+    "generic_name": "kofola",
+    "price": 1.19,
+    "original_price": 1.89,
+    "unit": "L",
+    "unit_count": 1.5,
+    "package": "1.5L/ fláška",
+    "discount_description": "-37%",
+    "tags": [
+      "nealkoholicke"
+    ],
+    "category": "nápoje",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Korunný cukor krystalový",
+    "generic_name": "cukor",
+    "price": 0.75,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "1kg/ balenie",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Merci Milk Selection",
+    "generic_name": "desert",
+    "brand": "Merci",
+    "price": 4.49,
+    "original_price": 17.96,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Popradská Crema espresso",
+    "generic_name": "káva",
+    "brand": "Popradská",
+    "price": 15.99,
+    "original_price": 23.9,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-33%",
+    "category": "trvanlivé potraviny",
+    "package": "1kg/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Budweiser Budvar",
+    "generic_name": "svetlé pivo",
+    "brand": "Budweiser Budvar",
+    "price": 0.59,
+    "original_price": 0.99,
+    "unit": "l",
+    "unit_count": 0.5,
+    "package": "0.5l/ plechovka",
+    "discount_description": "-40%",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "BILLA Easy šunková bageta",
+    "generic_name": "šunková bageta",
+    "brand": "BILLA",
+    "price": 1.99,
+    "original_price": 2.4,
+    "unit": "g",
+    "unit_count": 220.0,
+    "discount_description": "-20%",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-18",
+    "package": "220g/ kus"
+  },
+  {
+    "name": "Kuschelweich Oriental Dubai Deluxe",
+    "generic_name": "aviváž",
+    "brand": "Kuschelweich",
+    "price": 2.99,
+    "original_price": 3.99,
+    "unit": "l",
+    "unit_count": 1.0,
+    "package": "1/38 práni",
+    "discount_description": "-25%",
+    "billa_bonus_only": true,
+    "category": "domácnosť",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Ročná pauza",
+    "price": 20000.0,
+    "unit": "eur",
+    "unit_count": 1.0,
+    "package": "1x",
+    "discount_description": "Ročná pauza za 20 000 €",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "category": "sladkosti a snacky",
+    "start_date": "2025-09-01",
+    "end_date": "2025-11-30"
+  },
+  {
+    "name": "Týždenná pauza",
+    "price": 600.0,
+    "unit": "eur",
+    "unit_count": 1.0,
+    "package": "26x",
+    "discount_description": "Týždenná pauza za 600 €",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "category": "sladkosti a snacky",
+    "start_date": "2025-09-01",
+    "end_date": "2025-11-30"
+  },
+  {
+    "name": "Brilante Prosecco",
+    "generic_name": "šampanské víno",
+    "brand": "Brilante",
+    "price": 2.49,
+    "unit": "balenie",
+    "unit_count": 0.75,
+    "category": "alkoholické nápoje",
+    "tags": [
+      "alkohol"
+    ],
+    "package": "0.75balenie/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Niva original",
+    "generic_name": "sýr",
+    "brand": "Niva",
+    "price": 1.29,
+    "unit": "kus",
+    "unit_count": 200.0,
+    "category": "mliečne výrobky",
+    "tags": [
+      "mliečne"
+    ],
+    "package": "200kus/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Mortadella Bologna",
+    "generic_name": "mortadela",
+    "brand": "Mortadella Bologna",
+    "price": 2.19,
+    "unit": "kus",
+    "unit_count": 150.0,
+    "category": "mäso",
+    "tags": [],
+    "package": "150kus/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Týnečka so zeleným olivovým",
+    "generic_name": "saláma",
+    "brand": "Týnečka",
+    "price": 0.85,
+    "unit": "kus",
+    "unit_count": 100.0,
+    "category": "mäso",
+    "tags": [],
+    "package": "100kus/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Školský box A4",
+    "price": 5.99,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "category": "domácnosť",
+    "package": "1kus/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Školský box A4",
+    "price": 10.99,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "category": "domácnosť",
+    "package": "1kus/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Perašníky 2-poschodové",
+    "price": 11.99,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "category": "domácnosť",
+    "package": "1kus/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Detská taška",
+    "price": 5.99,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "category": "domácnosť",
+    "package": "1kus/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Lacnejšie",
+    "price": 1.6,
+    "original_price": 2.2,
+    "discount_description": "-37%",
+    "tags": [
+      "nový v Billa"
+    ],
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Super cena",
+    "price": 1.29,
+    "discount_description": "-37%",
+    "tags": [
+      "super cena"
+    ],
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Chuť Slovenska minerálna voda",
+    "brand": "Billa",
+    "price": 0.41,
+    "unit": "L",
+    "unit_count": 1.5,
+    "category": "nápoje",
+    "package": "1.5L/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Schwarzwälder Schinken",
+    "brand": "Billa",
+    "price": 3.99,
+    "unit": "g",
+    "unit_count": 150.0,
+    "category": "mäso",
+    "package": "150g/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Tiramisu",
+    "brand": "Billa",
+    "price": 3.99,
+    "unit": "g",
+    "unit_count": 200.0,
+    "category": "sladkosti a snacky",
+    "package": "200g/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  },
+  {
+    "name": "Camembert",
+    "brand": "Billa",
+    "price": 1.39,
+    "unit": "g",
+    "unit_count": 200.0,
+    "category": "mliečne výrobky",
+    "package": "200g/ kus",
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-23"
+  }
+]

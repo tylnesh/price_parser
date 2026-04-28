@@ -1,0 +1,1258 @@
+[
+  {
+    "name": "Mrkva",
+    "generic_name": "mrkva",
+    "price": 0.69,
+    "original_price": 1.04,
+    "unit": "g",
+    "unit_count": 750.0,
+    "package": "balenie",
+    "discount_description": "-34%",
+    "tags": [],
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Kuracie stehná dolné cena za 1 kg",
+    "generic_name": "kuracie stehná",
+    "price": 2.79,
+    "original_price": 3.99,
+    "unit_count": 1000.0,
+    "package": "kg",
+    "discount_description": "-30%",
+    "tags": [
+      "Chov Welfare"
+    ],
+    "category": "mäso",
+    "unit": "kg",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Bravčová krkovička s kostou, plátky",
+    "generic_name": "bravčová krkovička",
+    "price": 3.49,
+    "original_price": 4.99,
+    "unit_count": 1000.0,
+    "package": "kg",
+    "discount_description": "-30%",
+    "tags": [],
+    "category": "mäso",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Čučoriedky",
+    "generic_name": "čučoriedka",
+    "price": 1.99,
+    "original_price": 2.99,
+    "unit": "g",
+    "unit_count": 130.0,
+    "package": "balenie",
+    "discount_description": "-33%",
+    "tags": [
+      "bio"
+    ],
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Citróny",
+    "generic_name": "citrón",
+    "price": 1.59,
+    "unit": "g",
+    "unit_count": 750.0,
+    "package": "balenie",
+    "discount_description": "-23%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Šampiňóny biele",
+    "generic_name": "šampiňón",
+    "price": 1.89,
+    "unit": "g",
+    "unit_count": 700.0,
+    "package": "balenie",
+    "discount_description": "-23%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Cibula žltá",
+    "generic_name": "cibuľa",
+    "price": 1.99,
+    "original_price": 2.49,
+    "unit": "kg",
+    "unit_count": 5000.0,
+    "package": "balenie",
+    "discount_description": "-42%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Trvanlivé mlieko 1,5 %",
+    "generic_name": "mlieko",
+    "price": 0.45,
+    "unit_count": 1.0,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Marakuja",
+    "generic_name": "passion fruit",
+    "price": 0.99,
+    "original_price": 1.35,
+    "unit_count": 1.0,
+    "package": "kus",
+    "discount_description": "-26%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Kivi",
+    "generic_name": "kiwi",
+    "price": 0.29,
+    "original_price": 0.49,
+    "unit_count": 1.0,
+    "package": "kus",
+    "discount_description": "-40%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Dyňa červená",
+    "generic_name": "watermelon",
+    "price": 1.69,
+    "original_price": 2.49,
+    "unit_count": 1000.0,
+    "package": "kg",
+    "discount_description": "-32%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Cibuľka lahodková",
+    "generic_name": "onion",
+    "price": 0.59,
+    "original_price": 0.89,
+    "unit_count": 1.0,
+    "package": "zvazok",
+    "discount_description": "-33%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Petržlen praný",
+    "generic_name": "parsley root",
+    "price": 1.69,
+    "original_price": 2.59,
+    "unit_count": 1000.0,
+    "package": "kg",
+    "discount_description": "-34%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Kuracie rezne prsné",
+    "generic_name": "kuracie maso",
+    "price": 4.69,
+    "original_price": 6.49,
+    "unit": "kg",
+    "discount_description": "-27%",
+    "category": "mäso",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Kuracie zadné štvrtky",
+    "generic_name": "kuracie maso",
+    "brand": "Purland",
+    "price": 1.99,
+    "original_price": 3.39,
+    "unit": "kg",
+    "discount_description": "-41%",
+    "category": "mäso",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Kačica s drobami čerstvá, mladá",
+    "generic_name": "kačacia pečenie",
+    "price": 3.19,
+    "original_price": 5.15,
+    "unit": "kg",
+    "discount_description": "-38%",
+    "category": "mäso",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Kurča bez drobov",
+    "generic_name": "kuracie maso",
+    "brand": "Purland",
+    "price": 2.49,
+    "original_price": 2.99,
+    "unit": "kg",
+    "discount_description": "-16%",
+    "category": "mäso",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Údené bravčové rebierka z káre a krkovičky pultový predaj",
+    "generic_name": "hovädzie maso",
+    "price": 0.25,
+    "original_price": 0.35,
+    "unit_count": 100.0,
+    "discount_description": "-28%",
+    "category": "mäso",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Bravčový bočík bez kosti, v celku pultový predaj",
+    "generic_name": "hovädzie maso",
+    "price": 3.19,
+    "original_price": 6.59,
+    "unit": "kg",
+    "discount_description": "-51%",
+    "category": "mäso",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Pletenec s pekanovými orechmi",
+    "generic_name": "pletenec",
+    "price": 0.49,
+    "original_price": 0.62,
+    "unit": "g",
+    "unit_count": 85.0,
+    "package": "85 g/ kus",
+    "discount_description": "-20%",
+    "category": "pekárenské výrobky",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Bravčové mleté maso",
+    "generic_name": "mleté maso",
+    "brand": "Chov WELÁRE",
+    "price": 3.89,
+    "original_price": 4.29,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "1 kg/ balenie",
+    "discount_description": "-12%",
+    "tags": [
+      "mäso"
+    ],
+    "category": "mäso",
+    "start_date": "2026-3-15",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Morčacia krídla cena za 1 kg",
+    "price": 2.79,
+    "original_price": 3.99,
+    "unit_count": 1000.0,
+    "discount_description": "-30%",
+    "category": "mäso",
+    "unit": "kg",
+    "package": "1000kg/ kus",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Kačacie stehno s kostou a kožou cena za 100 g",
+    "price": 0.79,
+    "original_price": 1.29,
+    "unit_count": 100.0,
+    "discount_description": "-38%",
+    "category": "mäso",
+    "unit": "g",
+    "package": "100g/ kus",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Kačacie prsia bez kosti, s kožou cena za 100 g",
+    "price": 0.79,
+    "original_price": 1.29,
+    "unit_count": 100.0,
+    "discount_description": "-38%",
+    "category": "mäso",
+    "unit": "g",
+    "package": "100g/ kus",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Bravčové rebierka z bočika pultový predaj",
+    "price": 3.39,
+    "original_price": 4.59,
+    "unit_count": 1000.0,
+    "discount_description": "-26%",
+    "category": "mäso",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Smotana na varenie",
+    "generic_name": "smotana",
+    "brand": "K classic",
+    "price": 0.59,
+    "original_price": 0.79,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200 g/ balenie",
+    "discount_description": "-25%",
+    "k_card_only": true,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Hovädzie špikové kosti",
+    "generic_name": "špikové kosti",
+    "price": 3.99,
+    "original_price": 4.99,
+    "unit_count": 1000.0,
+    "discount_description": "-20%",
+    "category": "mäso",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Hamburger z hovädzieho mäsa",
+    "generic_name": "hamburger",
+    "price": 3.99,
+    "original_price": 4.89,
+    "unit_count": 150.0,
+    "package": "2 kusy/ balenie",
+    "discount_description": "-18%",
+    "category": "mäso",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Prešovský kabanos",
+    "generic_name": "kabanos",
+    "price": 0.55,
+    "original_price": 0.69,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100 g/ kus",
+    "discount_description": "-20%",
+    "k_card_only": true,
+    "category": "mäso",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Mlynček s korením",
+    "generic_name": "mlynček na korenie",
+    "price": 1.75,
+    "original_price": 2.99,
+    "unit_count": 24.0,
+    "discount_description": "-41%",
+    "k_card_only": false,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Vajcia M z podstielkového chovu",
+    "generic_name": "vajcia",
+    "price": 7.19,
+    "original_price": 8.49,
+    "unit": "kus",
+    "unit_count": 30.0,
+    "package": "30 kusov/ balenie",
+    "discount_description": "-15%",
+    "k_card_only": false,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Lindt Excellence Sea Salt Caramel Milk Chocolate",
+    "generic_name": "čokoláda",
+    "brand": "Lindt",
+    "price": 3.39,
+    "original_price": 4.74,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100 g / balenie",
+    "discount_description": "-28%",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Pflanzliches Streichfett zum Backen",
+    "generic_name": "Rastlinný tuk",
+    "price": 0.98,
+    "unit_count": 250.0,
+    "package": "2 kusy/ balenie",
+    "discount_description": "-1+1",
+    "k_card_only": false,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Tvarohový dezert rôzne druhy vanilka",
+    "generic_name": "tvarohový dezert",
+    "price": 0.75,
+    "unit_count": 90.0,
+    "package": "2 kusy/ balenie",
+    "discount_description": "-1+1",
+    "k_card_only": false,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Maslo / Maslo",
+    "generic_name": "maslo",
+    "price": 0.99,
+    "original_price": 1.59,
+    "unit_count": 250.0,
+    "package": "kus/ balenie",
+    "discount_description": "-37%",
+    "k_card_only": false,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Grécky jogurt s trstinovým cukrom",
+    "generic_name": "grécky jogurt",
+    "price": 0.98,
+    "original_price": 1.59,
+    "unit_count": 320.0,
+    "package": "kus/ balenie",
+    "discount_description": "-38%",
+    "k_card_only": false,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Puding rôzne druhy vanilka & čokoláda",
+    "generic_name": "puding",
+    "price": 1.69,
+    "original_price": 2.19,
+    "unit_count": 450.0,
+    "package": "kus/ balenie",
+    "discount_description": "-22%",
+    "k_card_only": false,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Paštéta rôzne druhy",
+    "generic_name": "paštéta",
+    "price": 2.99,
+    "original_price": 3.99,
+    "unit_count": 300.0,
+    "package": "kus/ balenie",
+    "discount_description": "-25%",
+    "k_card_only": false,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Syr na panvici alebo gril 45 %",
+    "generic_name": "syr na gril",
+    "price": 2.99,
+    "original_price": 4.09,
+    "unit_count": 200.0,
+    "package": "kus/ balenie",
+    "discount_description": "-26%",
+    "k_card_only": false,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Jogurt rôzne druhy",
+    "generic_name": "jogurt",
+    "brand": "Hollandia Original",
+    "price": 0.5,
+    "original_price": 0.75,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200 g/ balenie",
+    "discount_description": "-33%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Kačacia mast",
+    "generic_name": "kačacia mast",
+    "price": 1.0,
+    "original_price": 1.58,
+    "unit": "g",
+    "unit_count": 150.0,
+    "package": "150 g/ balenie",
+    "discount_description": "-36%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Šalát Parížsky + Feferónový",
+    "generic_name": "salat",
+    "brand": "Radoma",
+    "price": 0.5,
+    "original_price": 0.99,
+    "unit": "g",
+    "unit_count": 140.0,
+    "package": "140 g/ balenie",
+    "discount_description": "-49%",
+    "tags": [
+      "vegetariánske"
+    ],
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Zeleninová zmes s kukuricou",
+    "generic_name": "zelenina",
+    "brand": "Vinica",
+    "price": 0.5,
+    "original_price": 0.68,
+    "unit": "g",
+    "unit_count": 350.0,
+    "package": "350 g/ balenie",
+    "discount_description": "-26%",
+    "tags": [
+      "vegetariánske"
+    ],
+    "category": "mrazené potraviny",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Bravčová šunka 95 % podiel mäsa",
+    "generic_name": "šunka",
+    "brand": "Le&Co",
+    "price": 1.0,
+    "original_price": 1.59,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100 g/ balenie",
+    "discount_description": "-37%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mäso",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Veganer Tomatenbasilikum Sauce",
+    "generic_name": "tomato basil sauce",
+    "brand": "take it. veggie",
+    "price": 1.55,
+    "original_price": 1.97,
+    "unit": "g",
+    "unit_count": 180.0,
+    "package": "180 g / jar",
+    "discount_description": "-21%",
+    "k_card_only": true,
+    "tags": [
+      "vegánske"
+    ],
+    "category": "vegetariánske a vegánske",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Veganer Pesto Verde mit Basilikum",
+    "generic_name": "pesto verde with basil",
+    "brand": "take it. veggie",
+    "price": 1.19,
+    "original_price": 1.49,
+    "unit": "g",
+    "unit_count": 190.0,
+    "package": "190 g / jar",
+    "discount_description": "-20%",
+    "k_card_only": true,
+    "tags": [
+      "vegánske"
+    ],
+    "category": "vegetariánske a vegánske",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Vegane Nuggets",
+    "generic_name": "nuggets",
+    "brand": "take it. veggie",
+    "price": 1.55,
+    "original_price": 1.97,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200 g / bag",
+    "discount_description": "-21%",
+    "k_card_only": true,
+    "tags": [
+      "vegánske"
+    ],
+    "category": "vegetariánske a vegánske",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Vegane Schnitzel",
+    "generic_name": "schnitzel",
+    "brand": "take it. veggie",
+    "price": 1.55,
+    "original_price": 1.97,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200 g / bag",
+    "discount_description": "-21%",
+    "k_card_only": true,
+    "tags": [
+      "vegánske"
+    ],
+    "category": "vegetariánske a vegánske",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Vegane Steinofenpizza Classic",
+    "generic_name": "stone oven pizza classic",
+    "brand": "take it. veggie",
+    "price": 2.35,
+    "original_price": 2.99,
+    "unit": "g",
+    "unit_count": 300.0,
+    "package": "300 g / frozen pizza",
+    "discount_description": "-21%",
+    "k_card_only": true,
+    "tags": [
+      "vegánske"
+    ],
+    "category": "vegetariánske a vegánske",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Veganer Bio Kochcreme",
+    "generic_name": "kuchynská krémová omáčka",
+    "brand": "Take it Veggie",
+    "price": 0.78,
+    "original_price": 0.98,
+    "unit": "ml",
+    "unit_count": 200.0,
+    "package": "200 ml/ balenie",
+    "discount_description": "-20%",
+    "k_card_only": true,
+    "tags": [
+      "vegánske"
+    ],
+    "category": "vegetariánske a vegánske",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Karička",
+    "generic_name": "karička",
+    "price": 1.09,
+    "original_price": 1.55,
+    "unit_count": 180.0,
+    "discount_description": "-29%",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Rýžové chlebíčky",
+    "generic_name": "chlebíčky",
+    "price": 0.99,
+    "original_price": 1.32,
+    "unit_count": 100.0,
+    "discount_description": "-25%",
+    "tags": [
+      "pekárenské výrobky"
+    ],
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Napoleonky",
+    "generic_name": "napoleonky",
+    "price": 5.49,
+    "original_price": 7.19,
+    "unit_count": 300.0,
+    "discount_description": "-23%",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Syrové nite",
+    "generic_name": "syrové nite",
+    "price": 3.79,
+    "original_price": 5.05,
+    "unit_count": 250.0,
+    "discount_description": "-24%",
+    "tags": [
+      "vegetariánske a vegánske"
+    ],
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Treska cottage",
+    "generic_name": "treska cottage",
+    "price": 1.35,
+    "original_price": 1.79,
+    "unit_count": 140.0,
+    "discount_description": "-24%",
+    "tags": [
+      "mliečne výrobky"
+    ],
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Jogurt",
+    "generic_name": "jogurt",
+    "price": 0.44,
+    "original_price": 0.59,
+    "unit_count": 121.0,
+    "discount_description": "-25%",
+    "tags": [
+      "mliečne výrobky"
+    ],
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Jogurtový nápoj",
+    "generic_name": "jogurtový nápoj",
+    "price": 0.99,
+    "original_price": 1.35,
+    "unit_count": 430.0,
+    "discount_description": "-26%",
+    "tags": [
+      "mliečne výrobky"
+    ],
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Hrozienka sultánky",
+    "generic_name": "sultánky",
+    "brand": "K Classic",
+    "price": 1.39,
+    "original_price": 1.79,
+    "unit_count": 250.0,
+    "package": "250g/ balenie",
+    "discount_description": "-22%",
+    "tags": [
+      "vegánske"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2024-10-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Ochutenaná minerálna voda Malina 1,5 l",
+    "generic_name": "minerálna voda",
+    "brand": "Magnesia",
+    "price": 1.09,
+    "original_price": 1.25,
+    "unit": "l",
+    "unit_count": 1.5,
+    "discount_description": "-18%",
+    "k_card_only": true,
+    "package": "1.5l/ kus",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Dubajská čokoláda",
+    "generic_name": "čokoláda",
+    "brand": "Germiyan",
+    "price": 2.89,
+    "original_price": 3.65,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100 g / balenie",
+    "discount_description": "-20%",
+    "tags": [],
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Dubajský čokoládový krém",
+    "generic_name": "čokoládový krém",
+    "brand": "DellaSante",
+    "price": 3.99,
+    "original_price": 5.14,
+    "unit": "g",
+    "unit_count": 190.0,
+    "package": "190 g / balenie",
+    "discount_description": "-22%",
+    "tags": [],
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Dubajská čokoládová tyčinka",
+    "generic_name": "tyčinka",
+    "brand": "Bolci",
+    "price": 1.19,
+    "original_price": 1.54,
+    "unit": "g",
+    "unit_count": 30.0,
+    "package": "30 g / kus",
+    "discount_description": "-22%",
+    "tags": [],
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Pistáciový krém",
+    "generic_name": "krém",
+    "brand": "Gustibus",
+    "price": 3.19,
+    "original_price": 3.99,
+    "unit": "g",
+    "unit_count": 190.0,
+    "package": "190 g / balenie",
+    "discount_description": "-20%",
+    "tags": [],
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Santos Dumont XO Elixir Likér",
+    "generic_name": "likér",
+    "brand": "Santos Dumont",
+    "price": 29.99,
+    "original_price": 39.99,
+    "unit": "l",
+    "unit_count": 0.71,
+    "package": "0,7 l/ balenie",
+    "discount_description": "-25%",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2023-12-03",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Naturella Clean & Fresh",
+    "generic_name": "hygienic pads",
+    "brand": "Naturella",
+    "price": 2.49,
+    "original_price": 3.15,
+    "unit_count": 12.0,
+    "package": "12 - 20 kusov (≈1 kus od 0,13)",
+    "discount_description": "-20%",
+    "category": "osobná starostlivosť",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Pronto Economy Pack multi-surface cleaner",
+    "generic_name": "čističi prostriedok",
+    "brand": "Pronto",
+    "price": 2.99,
+    "original_price": 3.99,
+    "unit": "ml",
+    "unit_count": 300.0,
+    "package": "300 ml / balenie",
+    "discount_description": "-25%",
+    "k_card_only": true,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Čajník",
+    "brand": "Spice&Soul",
+    "price": 8.99,
+    "original_price": 11.99,
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "discount_description": "-16%",
+    "category": "domácnosť",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Kuchynský nôž",
+    "brand": "Spice&Soul",
+    "price": 3.99,
+    "original_price": 7.29,
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "discount_description": "-45%",
+    "category": "domácnosť",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Sitko",
+    "price": 5.99,
+    "original_price": 7.99,
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "discount_description": "-25%",
+    "category": "domácnosť",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Súprava pohárov",
+    "brand": "Spice&Soul",
+    "price": 8.99,
+    "original_price": 13.49,
+    "unit_count": 6.0,
+    "package": "1 balenie (=1 kus)",
+    "discount_description": "-33%",
+    "category": "domácnosť",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Doska na krájanie",
+    "brand": "Spice&Soul",
+    "price": 4.99,
+    "original_price": 6.99,
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "discount_description": "-28%",
+    "category": "domácnosť",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Termoska",
+    "brand": "Newcentral",
+    "price": 6.99,
+    "original_price": 11.49,
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "discount_description": "-39%",
+    "category": "domácnosť",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Súprava misiek",
+    "price": 3.99,
+    "original_price": 7.29,
+    "unit_count": 5.0,
+    "package": "1 balenie",
+    "discount_description": "-45%",
+    "category": "domácnosť",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Súprava hrncov",
+    "generic_name": "hrnce a pokrievky",
+    "brand": "BLAUMANN",
+    "price": 34.99,
+    "original_price": 49.99,
+    "unit_count": 1.0,
+    "package": "1 balenie",
+    "discount_description": "-30%",
+    "tags": [],
+    "category": "domácnosť",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "NEWCENTIAL Trekingové ponožky",
+    "generic_name": "ponožky",
+    "brand": "Newcentral",
+    "price": 2.99,
+    "original_price": 3.99,
+    "unit_count": 1.0,
+    "package": "1 pár",
+    "discount_description": "-25%",
+    "tags": [
+      "premiová kvalita"
+    ],
+    "category": "oblečenie a obuv",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Forma na pečenie Spice&Soul",
+    "generic_name": "forma na pečenie",
+    "brand": "Spice&Soul",
+    "price": 4.99,
+    "original_price": 8.19,
+    "unit_count": 2.0,
+    "package": "2 kusy / balenie",
+    "discount_description": "-39%",
+    "tags": [],
+    "category": "domácnosť",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Držiaky na truhlicu",
+    "brand": "PARKSIDE",
+    "price": 2.49,
+    "original_price": 3.99,
+    "unit_count": 1.0,
+    "package": "1 kus v balení",
+    "discount_description": "-37%",
+    "category": "záhrada a hobby",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Kúpeľňová predložka",
+    "generic_name": "predložka",
+    "price": 9.99,
+    "unit_count": 50.0,
+    "package": "75 cm x kus",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "K-CLASSIC Mop na podlahu s rozprašovacou funkciou",
+    "generic_name": "mop",
+    "price": 8.99,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Súprava na umývanie Magic Hook",
+    "brand": "Spontex",
+    "original_price": 16.99,
+    "discount_description": "-2,-",
+    "k_card_only": true,
+    "price": 14.99,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Sušiak na bielizeň",
+    "generic_name": "sušák",
+    "original_price": 29.99,
+    "discount_description": "-33%",
+    "k_card_only": true,
+    "price": 19.99,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Vinylové rukavice nepudrované vel.: M - XL",
+    "generic_name": "rukavice",
+    "original_price": 4.99,
+    "discount_description": "-20%",
+    "k_card_only": true,
+    "price": 3.99,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "SWITCH ON Aku čistič okien",
+    "generic_name": "čistič okien",
+    "original_price": 24.99,
+    "discount_description": "-20%",
+    "k_card_only": true,
+    "price": 19.99,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "K-CLASSIC Regál s úložnými boxami",
+    "price": 19.99,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "PARKSIDE Tlakový rozprašovač",
+    "generic_name": "rozprašovač",
+    "price": 4.99,
+    "original_price": 5.99,
+    "unit_count": 2.0,
+    "package": "1 kus/ balenie",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Majonéza, Majonéza light alebo Tatárska omáčka",
+    "unit_count": 400.0,
+    "unit": "ml",
+    "price": 1.99,
+    "original_price": 2.65,
+    "package": "400ml/ kus",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Hungaria saláma",
+    "generic_name": "saláma",
+    "brand": "HUNGARIA",
+    "unit_count": 400.0,
+    "price": 6.99,
+    "original_price": 8.73,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Krémový syr",
+    "generic_name": "syr",
+    "brand": "EK Classic",
+    "unit_count": 200.0,
+    "price": 1.49,
+    "original_price": 1.86,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Sledové filety v ponuke aj sledové filety v oleji",
+    "generic_name": "sledové filety",
+    "price": 0.99,
+    "original_price": 1.39,
+    "unit": "g",
+    "unit_count": 200.0,
+    "discount_description": "-28%",
+    "k_card_only": true,
+    "package": "200g/ kus",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Slovenské farmárske rezne prsné",
+    "generic_name": "rezne maso",
+    "price": 5.99,
+    "original_price": 8.99,
+    "unit_count": 1000.0,
+    "discount_description": "-33%",
+    "category": "mäso",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Banány",
+    "generic_name": "banán",
+    "price": 1.09,
+    "original_price": 1.59,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-31%",
+    "tags": [
+      "bio"
+    ],
+    "category": "ovocie a zelenina",
+    "package": "1kg/ kus",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Bravčové stehno bez kosti, v celku pultový predaj",
+    "generic_name": "bravčové stehno",
+    "price": 2.99,
+    "original_price": 4.99,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-40%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Trubičky rôzne druhy",
+    "generic_name": "trubičky",
+    "price": 0.95,
+    "original_price": 1.4,
+    "unit": "g",
+    "unit_count": 280.0,
+    "discount_description": "-32%",
+    "tags": [
+      "vegetariánske"
+    ],
+    "package": "280g/ kus",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Kaizerka",
+    "generic_name": "chlieb",
+    "price": 0.08,
+    "original_price": 0.13,
+    "unit": "g",
+    "unit_count": 55.0,
+    "discount_description": "-38%",
+    "category": "pekárenské výrobky",
+    "package": "55g/ kus",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Pirohy",
+    "generic_name": "pirohy",
+    "price": 2.99,
+    "original_price": 4.39,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-31%",
+    "category": "mrazené potraviny",
+    "package": "1kg/ kus",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Ovocný nápoj rôzne druhy",
+    "generic_name": "nápoj",
+    "price": 1.49,
+    "original_price": 2.59,
+    "unit_count": 2.0,
+    "discount_description": "-34%",
+    "k_card_only": true,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Celer sananasom",
+    "generic_name": "zeler s ananásom",
+    "brand": "Elko",
+    "price": 1.89,
+    "original_price": 2.49,
+    "unit_count": 340.0,
+    "package": "340g/ balenie",
+    "discount_description": "-24%",
+    "k_card_only": true,
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  }
+]

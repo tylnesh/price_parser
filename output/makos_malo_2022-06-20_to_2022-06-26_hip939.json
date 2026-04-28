@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Nescafe Classic",
+    "generic_name": "káva",
+    "brand": "Nescafe",
+    "price": 3.99,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ balenie",
+    "start_date": "2025-06-20",
+    "end_date": "2025-06-26"
+  },
+  {
+    "name": "Chlieb Koliba",
+    "generic_name": "chlieb",
+    "brand": "Koliba",
+    "price": 1.1,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ kus",
+    "category": "pekárenské výrobky",
+    "start_date": "2025-06-20",
+    "end_date": "2025-06-26"
+  }
+]

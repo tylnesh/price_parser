@@ -1,0 +1,206 @@
+[
+  {
+    "name": "Čučoriedky",
+    "unit": "g",
+    "price": 3.19,
+    "package": "200 g balenie (≈1 kg 15,95)",
+    "discount_description": "",
+    "k_card_only": false,
+    "start_date": "2026-03-01",
+    "end_date": "2026-03-31"
+  },
+  {
+    "name": "Jablko Crimson Snow",
+    "generic_name": "jablka",
+    "brand": null,
+    "price": 1.59,
+    "original_price": 2.39,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "1kg/ kus",
+    "discount_description": "-33%",
+    "k_card_only": false,
+    "tags": [],
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-01",
+    "end_date": "2026-03-31"
+  },
+  {
+    "name": "Ochutené trvanlivé mlieko",
+    "generic_name": "trvanlive mlieko",
+    "brand": null,
+    "price": 0.62,
+    "original_price": 0.79,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "package": "250ml/ kus",
+    "discount_description": "-21%",
+    "k_card_only": false,
+    "tags": [
+      "mliečne"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-03-01",
+    "end_date": "2026-03-31"
+  },
+  {
+    "name": "Baby párky so syrom",
+    "generic_name": "párky",
+    "brand": "Cimbalak",
+    "price": 1.89,
+    "original_price": 2.39,
+    "unit": "g",
+    "unit_count": 240.0,
+    "package": "240 g / balenie",
+    "discount_description": "-20%",
+    "category": "mäso",
+    "start_date": "2026-03-01",
+    "end_date": "2026-03-31"
+  },
+  {
+    "name": "BIO Džem rôzne druhy",
+    "generic_name": "džem",
+    "brand": "FlorFrutta Bio",
+    "price": 4.79,
+    "original_price": 5.99,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250 g/ balenie",
+    "discount_description": "-20%",
+    "tags": [
+      "bio"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2024-10-08",
+    "end_date": "2024-10-14"
+  },
+  {
+    "name": "Paradajky strapcové",
+    "generic_name": "paradajky",
+    "brand": "Bio",
+    "price": 1.79,
+    "original_price": 2.59,
+    "unit_count": 0.5,
+    "package": "500g/ balenie",
+    "discount_description": "-30%",
+    "tags": [
+      "bio"
+    ],
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-01",
+    "end_date": "2026-03-31"
+  },
+  {
+    "name": "Mozzarella Light MINI",
+    "generic_name": "mozzarella",
+    "brand": "Galbani",
+    "price": 1.49,
+    "original_price": 1.89,
+    "unit_count": 0.285,
+    "package": "285g/ balenie",
+    "discount_description": "-21%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2026-03-01",
+    "end_date": "2026-03-31"
+  },
+  {
+    "name": "Dóza na desiatu",
+    "generic_name": "lunch box",
+    "price": 7.99,
+    "original_price": 9.99,
+    "unit_count": 3.0,
+    "package": "1 kus",
+    "discount_description": "-20%",
+    "category": "domácnosť",
+    "start_date": "2026-03-01",
+    "end_date": "2026-03-31"
+  },
+  {
+    "name": "Thunfisch Salat Mexikan Style",
+    "generic_name": "tuniový šalát",
+    "brand": "K Classic",
+    "price": 1.69,
+    "original_price": 2.17,
+    "unit": "g",
+    "unit_count": 220.0,
+    "package": "220 g/ balenie",
+    "discount_description": "-22%",
+    "tags": [
+      "ryby a morské plody"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-03-01",
+    "end_date": "2026-03-31"
+  },
+  {
+    "name": "Tavený syr rôzne druhy",
+    "generic_name": "tavený syr",
+    "price": 0.99,
+    "original_price": 1.25,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100 g / kus",
+    "discount_description": "-20%",
+    "category": "mliečne výrobky",
+    "start_date": "2026-03-01",
+    "end_date": "2026-03-31"
+  },
+  {
+    "name": "Detský krém",
+    "generic_name": "krém",
+    "brand": "Nivea",
+    "price": 2.39,
+    "original_price": 3.06,
+    "unit": "ml",
+    "unit_count": 200.0,
+    "package": "200 ml/ balenie",
+    "discount_description": "-21%",
+    "category": "osobná starostlivosť",
+    "start_date": "2026-03-01",
+    "end_date": "2026-03-31"
+  },
+  {
+    "name": "Detská kozmetika",
+    "generic_name": "kozmetika",
+    "price": 3.99,
+    "original_price": 4.99,
+    "unit": "ml",
+    "unit_count": 500.0,
+    "package": "500 ml/ balenie",
+    "discount_description": "-20%",
+    "category": "osobná starostlivosť",
+    "start_date": "2026-03-01",
+    "end_date": "2026-03-31"
+  },
+  {
+    "name": "Člověče, nehnevaj sa!",
+    "generic_name": "spoločenská hra",
+    "price": 3.99,
+    "original_price": 5.99,
+    "package": "1 balenie",
+    "discount_description": "-33%",
+    "category": "záhrada a hobby",
+    "start_date": "2026-03-01",
+    "end_date": "2026-03-31"
+  },
+  {
+    "name": "Čistič do kuchyne",
+    "generic_name": "čistič na kuchynské povrchy",
+    "brand": "Tierra Verde",
+    "price": 3.99,
+    "original_price": 4.99,
+    "unit": "ml",
+    "unit_count": 750.0,
+    "package": "1 kus/ balenie",
+    "discount_description": "-20%",
+    "tags": [
+      "bio"
+    ],
+    "category": "domácnosť",
+    "start_date": "2026-03-01",
+    "end_date": "2026-03-31"
+  }
+]

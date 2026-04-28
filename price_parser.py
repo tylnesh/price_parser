@@ -19,6 +19,8 @@ import string
 # -------------------- Config --------------------
 OLLAMA_URL = "http://localhost:11434/api/generate"
 MODEL_NAME = "mistral-small3.2"  # VLM capable model
+# MODEL_NAME = "qwen3.5:27b"
+# MODEL_NAME = "gemma4:26b"
 REQUEST_TIMEOUT = 550  # seconds
 PAGE_DPI = 200         # speed vs readability
 CONTEXT_REFRESH_EVERY = 4  # re-prime every N pages to avoid drift

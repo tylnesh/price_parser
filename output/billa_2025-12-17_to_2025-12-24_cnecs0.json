@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Zázvor",
+    "generic_name": "zázvor",
+    "price": 0.45,
+    "original_price": 0.69,
+    "unit": "g",
+    "unit_count": 100.0,
+    "discount_description": "-34%",
+    "billa_bonus_only": true,
+    "category": "ovocie a zelenina",
+    "package": "100g/ kus",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Chute Slovenska jablká Evelina",
+    "generic_name": "jablká",
+    "price": 1.79,
+    "original_price": 2.79,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-35%",
+    "billa_bonus_only": true,
+    "category": "ovocie a zelenina",
+    "package": "1kg/ kus",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Chute Slovenska rajčiaká cherry strapcové Cerinka, Tramezzino",
+    "generic_name": "rajčiaká cherry",
+    "price": 1.99,
+    "original_price": 2.79,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "1 balenie",
+    "discount_description": "-28%",
+    "billa_bonus_only": true,
+    "category": "ovocie a zelenina",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Kuracie krídla Másiarov výber",
+    "generic_name": "kuracie krídla",
+    "price": 2.99,
+    "original_price": 3.39,
+    "discount_description": "-11%",
+    "billa_bonus_only": true,
+    "category": "mäso",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Kuracie stehná bez kosti a kože Domáško",
+    "generic_name": "kuracie stehná",
+    "price": 5.59,
+    "original_price": 6.89,
+    "discount_description": "-18%",
+    "billa_bonus_only": true,
+    "category": "mäso",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Zemiaky ružové neskoré prané",
+    "generic_name": "zemiaky",
+    "price": 2.29,
+    "original_price": 3.49,
+    "unit": "kg",
+    "unit_count": 2.0,
+    "discount_description": "-34%",
+    "billa_bonus_only": true,
+    "category": "ovocie a zelenina",
+    "package": "2kg/ kus",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Babička delakto kefír",
+    "generic_name": "kefír",
+    "brand": "Babička",
+    "price": 1.19,
+    "original_price": 1.49,
+    "unit": "g",
+    "unit_count": 450.0,
+    "discount_description": "-20%",
+    "billa_bonus_only": true,
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "package": "450g/ kus",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Nowaco obalovaný sýr",
+    "generic_name": "obalovaný sýr",
+    "brand": "Nowaco",
+    "price": 3.99,
+    "original_price": 4.99,
+    "unit": "g",
+    "unit_count": 400.0,
+    "package": "400g/ kus",
+    "discount_description": "-14%",
+    "billa_bonus_only": true,
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Tokaji Furmint, Sárgamuskotály",
+    "brand": "Tokaji",
+    "price": 2.99,
+    "unit": "L",
+    "unit_count": 0.75,
+    "package": "0.75L/ balenie",
+    "billa_bonus_only": true,
+    "category": "alkoholické nápoje",
+    "tags": [
+      "alkohol"
+    ],
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Vitamin Soodda Lemon",
+    "generic_name": "limonáda",
+    "brand": "Vitamin Soodda",
+    "price": 0.89,
+    "original_price": 1.09,
+    "unit": "l",
+    "unit_count": 0.33,
+    "package": "plechovka",
+    "discount_description": "-18%",
+    "billa_bonus_only": true,
+    "tags": [
+      "nealkoholicke"
+    ],
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Seditky mini piškoty",
+    "generic_name": "piškoty",
+    "brand": "Seditky",
+    "price": 0.99,
+    "original_price": 1.65,
+    "unit": "g",
+    "unit_count": 120.0,
+    "discount_description": "-40%",
+    "billa_bonus_only": true,
+    "category": "sladkosti a snacky",
+    "package": "120g/ kus",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Sweet Family práškový cukor",
+    "generic_name": "cukor",
+    "brand": "Sweet Family",
+    "price": 0.89,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ balenie",
+    "billa_bonus_only": true,
+    "category": "trvanlivé potraviny",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "BILLA toaletný papier",
+    "generic_name": "toaletný papier",
+    "price": 4.29,
+    "original_price": 4.99,
+    "unit": "kus",
+    "unit_count": 10.0,
+    "package": "10 ks/ balenie",
+    "discount_description": "-14%",
+    "billa_bonus_only": true,
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Pilsner Urquell Čiapka",
+    "brand": "Pilsner Urquell",
+    "price": 9.99,
+    "original_price": 11.99,
+    "unit": "l",
+    "unit_count": 0.5,
+    "package": "0.5l/ balenie",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2023-11-15",
+    "end_date": "2023-11-11"
+  },
+  {
+    "name": "Gillette Mach 3 & Old Spice Set",
+    "brand": "Gillette",
+    "price": 12.99,
+    "unit_count": 1.0,
+    "package": "1/ kus",
+    "tags": [
+      "osobná starostlivosť"
+    ],
+    "category": "osobná starostlivosť",
+    "start_date": "2023-11-15",
+    "end_date": "2023-11-11"
+  },
+  {
+    "name": "Anjel's LED",
+    "price": 14.99,
+    "unit_count": 1.0,
+    "package": "1/ kus",
+    "category": "záhrada a hobby",
+    "start_date": "2023-11-15",
+    "end_date": "2023-11-11"
+  },
+  {
+    "name": "Jack Daniels + Coca Cola",
+    "generic_name": "alkoholický koktail",
+    "brand": "Jack Daniels",
+    "price": 10.99,
+    "unit": "ml",
+    "unit_count": 330.0,
+    "package": "330 ml/ balenie",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2023-12-10",
+    "end_date": "2023-12-31"
+  },
+  {
+    "name": "Kvaskový orechový chlieb",
+    "generic_name": "orechový chlieb",
+    "price": 2.75,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500 g/ kus",
+    "tags": [
+      "bezlepkové"
+    ],
+    "category": "pekárenské výrobky",
+    "start_date": "2023-12-10",
+    "end_date": "2023-12-31"
+  },
+  {
+    "name": "Leerdammer Original Maxi",
+    "generic_name": "syr",
+    "price": 2.99,
+    "unit": "g",
+    "unit_count": 160.0,
+    "package": "160 g/ kus",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2023-12-10",
+    "end_date": "2023-12-31"
+  },
+  {
+    "name": "Domáca udená krkovička",
+    "generic_name": "krkovička",
+    "price": 1.29,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100 g/ kus",
+    "tags": [
+      "mäso"
+    ],
+    "category": "mäso",
+    "start_date": "2023-12-10",
+    "end_date": "2023-12-31"
+  },
+  {
+    "name": "Lacnejšie",
+    "price": 1.6,
+    "original_price": 2.2,
+    "discount_description": "-28%",
+    "tags": [
+      "nový v Billa"
+    ],
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Super cena",
+    "price": 1.29,
+    "discount_description": "-37%",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium prosecco Superiore D.O.C.G. Extra dry",
+    "brand": "BILLA Premium",
+    "price": 9.99,
+    "unit": "L",
+    "unit_count": 0.75,
+    "tags": [
+      "alkohol"
+    ],
+    "start_date": "2023-10-29",
+    "end_date": "2023-12-23",
+    "package": "0.75L/ kus"
+  },
+  {
+    "name": "BILLA Premium tiramisu",
+    "brand": "BILLA Premium",
+    "price": 5.59,
+    "unit": "g",
+    "unit_count": 500.0,
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "start_date": "2023-10-29",
+    "end_date": "2023-12-23",
+    "package": "500g/ kus"
+  },
+  {
+    "name": "BILLA Premium fuet ibérico",
+    "brand": "BILLA Premium",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 150.0,
+    "tags": [
+      "mäso"
+    ],
+    "start_date": "2023-10-29",
+    "end_date": "2023-12-23",
+    "package": "150g/ kus"
+  },
+  {
+    "name": "BILLA Premium burrata",
+    "brand": "BILLA Premium",
+    "price": 1.49,
+    "unit": "g",
+    "unit_count": 100.0,
+    "tags": [
+      "mliečne výrobky"
+    ],
+    "start_date": "2023-10-29",
+    "end_date": "2023-12-23",
+    "package": "100g/ kus"
+  }
+]

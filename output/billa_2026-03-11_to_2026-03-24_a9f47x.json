@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Kaleráb s vňatou",
+    "generic_name": "kaleráb",
+    "price": 0.59,
+    "original_price": 0.79,
+    "unit": "kg",
+    "discount_description": "-25%",
+    "billa_bonus_only": true,
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Brokolica balená",
+    "generic_name": "brokolica",
+    "price": 1.19,
+    "original_price": 1.98,
+    "unit_count": 0.5,
+    "package": "balené",
+    "discount_description": "-40%",
+    "billa_bonus_only": true,
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Avokádó zrelé",
+    "generic_name": "avokádo",
+    "price": 1.59,
+    "original_price": 2.79,
+    "unit_count": 0.3846,
+    "discount_description": "-43%",
+    "billa_bonus_only": true,
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Chute Slovenska jablká Evelina",
+    "generic_name": "jablka",
+    "price": 1.99,
+    "original_price": 2.58,
+    "unit_count": 0.3746,
+    "discount_description": "-23%",
+    "billa_bonus_only": true,
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Kuracie krídla Hyza, Domáško",
+    "generic_name": "kuracie kridlo",
+    "price": 2.99,
+    "original_price": 3.34,
+    "unit_count": 0.8756,
+    "discount_description": "-11%",
+    "billa_bonus_only": true,
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Baldovská ochutená minerálna voda",
+    "generic_name": "minerálka",
+    "brand": "Baldovská",
+    "price": 0.99,
+    "original_price": 1.36,
+    "unit": "l",
+    "unit_count": 1.5,
+    "package": "1,5 l/ flaška",
+    "discount_description": "-28%",
+    "billa_bonus_only": true,
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Fa sprchový gél rôzne druhy",
+    "generic_name": "sprchový gél",
+    "brand": "Fa",
+    "price": 3.29,
+    "unit_count": 400.0,
+    "unit": "ml",
+    "package": "400ml/ kus",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Banány XXL zle v kolážke",
+    "generic_name": "banány",
+    "brand": "",
+    "price": 0.85,
+    "unit_count": 60.0,
+    "package": "60g/ balenie",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-24"
+  }
+]

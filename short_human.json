@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Pomaranče",
+    "generic_name": "pomaranč",
+    "price": 0.99,
+    "original_price": 2.29,
+    "unit_count": 1,
+    "unit": "kg",
+    "package": "1kg",
+    "discount_description": "-56%",
+    "tags": [
+      "ovocie"
+    ],
+    "category": "ovocie a zelenina",
+    "start_date": "2025-12-01",
+    "end_date": "2025-01-07"
+  },
+  {
+    "name": "Čučoriedky",
+    "generic_name": "čucoriedka",
+    "price": 3.39,
+    "original_price": 5.99,
+    "unit_count": 1,
+    "package": "1kg",
+    "discount_description": "-56%",
+    "tags": [
+      "ovocie"
+    ],
+    "category": "ovocie a zelenina",
+    "start_date": "2025-12-01",
+    "end_date": "2025-01-07"
+  },

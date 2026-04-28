@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Banány",
+    "generic_name": "banán",
+    "price": 1.19,
+    "original_price": 1.68,
+    "unit_count": 1000.0,
+    "discount_description": "-45%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Mamičkine dobroty Kuracie prsia s kostou a kožou a horné stehná chladené",
+    "generic_name": "kuracie prsia",
+    "price": 4.79,
+    "unit_count": 1000.0,
+    "category": "mäso",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Mana smotanová náterka",
+    "generic_name": "naterka",
+    "brand": "MANA",
+    "price": 1.29,
+    "unit_count": 200.0,
+    "package": "200g/ kus",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2024-10-08",
+    "end_date": "2024-10-15"
+  },
+  {
+    "name": "Tekovský salámový syr údený",
+    "generic_name": "syr",
+    "price": 1.4,
+    "original_price": 1.7,
+    "unit_count": 100.0,
+    "discount_description": "-17%",
+    "category": "mliečne výrobky",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Mlieko polotučné bezlaktózové, 1.5%",
+    "generic_name": "mlieko",
+    "brand": "Rajo Laktó free",
+    "price": 1.29,
+    "original_price": 1.99,
+    "unit_count": 1.0,
+    "package": "1l/ balenie",
+    "discount_description": "-35%",
+    "tags": [
+      "bezlaktózové"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2024-10-08",
+    "end_date": "2024-10-14"
+  },
+  {
+    "name": "Od Srdca dezert",
+    "generic_name": "dezert",
+    "price": 3.99,
+    "unit_count": 142.0,
+    "unit": "g",
+    "package": "142g/ kus",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Vajcia Milk",
+    "generic_name": "vajcia",
+    "price": 0.85,
+    "unit": "g",
+    "unit_count": 30.0,
+    "package": "30 g / balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Gambrinus 12%",
+    "generic_name": "pivo",
+    "brand": "Gambrinus",
+    "price": 0.69,
+    "unit": "l",
+    "unit_count": 0.5,
+    "package": "0,5 l/ kus",
+    "discount_description": "",
+    "coop_club_only": false,
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Pigi čaj Citrón",
+    "generic_name": "čaj",
+    "brand": "Popradsky",
+    "price": 0.89,
+    "original_price": 1.09,
+    "unit_count": 30.0,
+    "package": "30g/ balenie",
+    "discount_description": "-18%",
+    "tags": [
+      "nealkoholicke"
+    ],
+    "category": "nápoje",
+    "start_date": "2024-10-07",
+    "end_date": "2024-10-13"
+  },
+  {
+    "name": "Kakaové rezy 3 druhy",
+    "generic_name": "kakaové rezy",
+    "price": 0.65,
+    "unit": "g",
+    "unit_count": 50.0,
+    "package": "50g/ kus",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Levický salámový syr údený 100 g",
+    "generic_name": "syr",
+    "price": 1.29,
+    "original_price": 1.86,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "discount_description": "-23%",
+    "category": "mliečne výrobky",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Debrecínska pečienka",
+    "generic_name": "pečienka",
+    "price": 0.89,
+    "unit_count": 100.0,
+    "unit": "g",
+    "package": "100g/ kus",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Kuracie krídla chladené",
+    "generic_name": "kuracie krídla",
+    "price": 2.59,
+    "original_price": 3.24,
+    "unit_count": 1000.0,
+    "discount_description": "-20%",
+    "coop_club_only": false,
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Smotana kyslá 10%",
+    "generic_name": "smotana",
+    "price": 0.49,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200 g / balenie",
+    "discount_description": "-16%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Müller Riso 200 g",
+    "generic_name": "rizo s mliekom a čokoládou",
+    "brand": "Riso",
+    "price": 0.85,
+    "unit_count": 200.0,
+    "package": "200g/ balenie",
+    "unit": "g",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Savo Kúpeľňa čističi sprej 500 ml",
+    "brand": "SAVO",
+    "price": 2.99,
+    "unit_count": 500.0,
+    "package": "500ml/ balenie",
+    "category": "domácnosť",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Krkavička údená bez kosti 1 kg",
+    "generic_name": "krkavička údená",
+    "price": 5.49,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "1 kg/ kus",
+    "category": "mäso",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Zlaté kuracie stehná chladené 1 kg",
+    "generic_name": "kuracie stehná",
+    "price": 3.99,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "1 kg/ kus",
+    "discount_description": "-15%",
+    "category": "mäso",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Pálava 0,5 l",
+    "generic_name": "víno Pálava",
+    "price": 4.99,
+    "unit": "l",
+    "unit_count": 0.51,
+    "package": "0.725 ml/ kus",
+    "discount_description": "-29%",
+    "category": "alkoholické nápoje",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Rochester Ginger 725 ml",
+    "generic_name": "ginger ale Rochester",
+    "price": 5.99,
+    "unit": "ml",
+    "unit_count": 0.725,
+    "package": "725 ml/ kus",
+    "discount_description": "-25%",
+    "category": "alkoholické nápoje",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Ricotta Cremosa 250 g",
+    "generic_name": "ricotta cremosa",
+    "price": 1.49,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250 g/ kus",
+    "discount_description": "-38%",
+    "category": "mliečne výrobky",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Tuniak 2 druhy 3 x 80 g 1 bal.",
+    "generic_name": "tuniak",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 52.0,
+    "package": "3x80/ kus",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Perwoll Color 60 pracích dávok",
+    "generic_name": "práčik Perwoll Color",
+    "price": 10.99,
+    "unit_count": 60.0,
+    "package": "60/ kus",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Calvo tuniakový šalát 3 druhy",
+    "generic_name": "tuniakový šalát",
+    "brand": "Calvo",
+    "price": 1.59,
+    "unit_count": 150.0,
+    "package": "150g/ balenie",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "name": "Suchá saláma",
+    "generic_name": "saláma",
+    "price": 0.89,
+    "unit_count": 100.0,
+    "unit": "g",
+    "package": "100 g / kus",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  }
+]

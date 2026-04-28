@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Bravčové karé bez kosti",
+    "generic_name": "bravčové karé",
+    "price": 2.99,
+    "original_price": 6.68,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-55%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-03"
+  },
+  {
+    "name": "Pagáč syrový",
+    "generic_name": "pagac",
+    "price": 0.44,
+    "original_price": 0.78,
+    "unit": "kus",
+    "unit_count": 3.0,
+    "package": "od 3 ks/ balenie",
+    "discount_description": "-44%",
+    "category": "pekárenské výrobky",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-03"
+  },
+  {
+    "name": "Haribo Mega-Roulette cukriký",
+    "generic_name": "cukriký",
+    "brand": "Haribo",
+    "price": 0.44,
+    "original_price": 0.88,
+    "unit_count": 1.0,
+    "package": "45g/ kus",
+    "discount_description": "-50%",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-03"
+  },
+  {
+    "name": "Rajec ochutená minerálna voda viac druhov",
+    "generic_name": "minerálna voda",
+    "price": 0.99,
+    "original_price": 1.45,
+    "unit": "l",
+    "unit_count": 1.5,
+    "package": "1,5L/ kus",
+    "discount_description": "-31%",
+    "tags": [
+      "nealkoholicke"
+    ],
+    "category": "nápoje",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-03"
+  },
+  {
+    "name": "Corgoň svetlé pivo",
+    "generic_name": "svetlé pivo",
+    "brand": "Corgoň",
+    "price": 0.59,
+    "unit": "l",
+    "unit_count": 0.55,
+    "package": "plechovka, 1 l = 1.073 € + záloha za plechovku 0.15 €",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-03"
+  },
+  {
+    "name": "Tesori d'Oriente aviváž",
+    "generic_name": "aviváž",
+    "brand": "Tesori d'Oriente",
+    "price": 2.99,
+    "original_price": 4.99,
+    "unit_count": 760.0,
+    "package": "ml/38 práni",
+    "discount_description": "-40%",
+    "tags": [],
+    "category": "domácnosť",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-03"
+  }
+]

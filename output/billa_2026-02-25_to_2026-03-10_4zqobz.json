@@ -1,0 +1,275 @@
+[
+  {
+    "name": "Chute Slovenska maslova vianocka",
+    "price": 1.29,
+    "unit_count": 0.18,
+    "unit": "kg",
+    "package": "0.18kg/ kus",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Chute Slovenska mlieko 3,6 % tuku najmenej",
+    "brand": "Chute Slovenska",
+    "price": 1.19,
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Chute Slovenska smotana na slahanie",
+    "brand": "Chute Slovenska",
+    "price": 1.29,
+    "unit_count": 0.25,
+    "unit": "kg",
+    "package": "0.25kg/ kus",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Chute Slovenska slivky polene",
+    "brand": "Chute Slovenska",
+    "price": 1.79,
+    "unit_count": 0.66,
+    "unit": "kg",
+    "package": "0.66kg/ kus",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Chute Slovenska cvikla",
+    "generic_name": "cvikla",
+    "price": 0.79,
+    "unit": "kg",
+    "tags": [
+      "lokálne"
+    ],
+    "category": "ovocie a zelenina",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Chute Slovenska zemiaky",
+    "generic_name": "zemiaky",
+    "price": 1.29,
+    "original_price": 0.86,
+    "unit_count": 1500.0,
+    "unit": "g",
+    "tags": [
+      "lokálne"
+    ],
+    "category": "ovocie a zelenina",
+    "package": "1500g/ kus",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Chute Slovenska údená krkovička",
+    "price": 9.5,
+    "unit": "kg",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Včeli med Kvetový",
+    "generic_name": "med",
+    "brand": "Medas",
+    "price": 4.39,
+    "unit_count": 900.0,
+    "unit": "g",
+    "package": "900g/ kus",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Tatratea Original čajovo-bylinný likér",
+    "generic_name": "čajovo-bylinný likér",
+    "brand": "Tatratea",
+    "price": 18.99,
+    "original_price": 27.13,
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Plnotučná bryndza Letná",
+    "generic_name": "bryndza",
+    "brand": "Chute Slovenska",
+    "price": 2.59,
+    "unit_count": 250.0,
+    "unit": "g",
+    "package": "250g/ kus",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Cisárska šunka",
+    "generic_name": "šunka",
+    "package": "1 kg = 8,90 €",
+    "price": 0.99,
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Chute Slovenska spišské párky",
+    "generic_name": "párky",
+    "brand": "Chute Slovenska",
+    "price": 2.59,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250 g/ balenie",
+    "discount_description": "",
+    "billa_bonus_only": false,
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Chute Slovenska včelí med kvetový pasterizovaný",
+    "generic_name": "med",
+    "brand": "Chute Slovenska",
+    "price": 2.39,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250 g/ balenie",
+    "discount_description": "",
+    "billa_bonus_only": false,
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Chute Slovenska bravčová mast",
+    "brand": "Chute Slovenska",
+    "price": 1.99,
+    "unit_count": 500.0,
+    "unit": "g",
+    "package": "500g/ kus",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Mäspoma bio cesnak granulovaný",
+    "brand": "Mäspoma",
+    "price": 0.69,
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Morčacie prsia plátky",
+    "generic_name": "morčacie prsia",
+    "price": 8.39,
+    "unit": "kg",
+    "category": "mäso",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Klátsovský olej de luxe",
+    "brand": "de lux",
+    "price": 3.99,
+    "package": "1L/ balenie",
+    "tags": [
+      "bio",
+      "organické"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Rajo mlieko 0,5 % nízkotučné trvanlivé",
+    "brand": "rajo",
+    "price": 0.89,
+    "unit_count": 1.0,
+    "package": "1L/ balenie",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Snico horčica pinietučná kremšková",
+    "price": 0.79,
+    "unit_count": 200.0,
+    "package": "1kg = 3,95 €/ balenie",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Naše vinohrady",
+    "generic_name": "vino",
+    "price": 5.99,
+    "unit_count": 0.75,
+    "package": "0,75 l / kus",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "nápoje",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Villa Vino Rača Exclusive",
+    "generic_name": "vino",
+    "price": 4.99,
+    "unit_count": 0.75,
+    "package": "0,75 l / kus",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "nápoje",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Topoľčianky Château Noir",
+    "generic_name": "vino",
+    "price": 3.59,
+    "unit_count": 0.75,
+    "package": "0,75 l / kus",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "nápoje",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Premium Vráble Rizling vlášský",
+    "generic_name": "vino",
+    "price": 6.99,
+    "unit_count": 0.75,
+    "package": "0,75 l / kus",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "nápoje",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Sulinka prírodná minerálna alkalická voda dva druhy",
+    "generic_name": "minerálna voda",
+    "price": 0.59,
+    "unit": "l",
+    "unit_count": 1.25,
+    "package": "1.25l/ kus",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Zlatý Bažant",
+    "generic_name": "svetlé pivo",
+    "brand": "Zlatý",
+    "price": 0.99,
+    "unit": "l",
+    "unit_count": 0.5,
+    "package": "plechovka",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-10"
+  }
+]

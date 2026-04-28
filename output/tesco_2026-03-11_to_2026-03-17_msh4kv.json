@@ -1,0 +1,451 @@
+[
+  {
+    "name": "Tesco vajcia podstielkový chov veľkosť M",
+    "generic_name": "vajcia",
+    "brand": "Tesco",
+    "price": 4.99,
+    "original_price": 5.69,
+    "unit_count": 20.0,
+    "discount_description": "-12%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Banány",
+    "generic_name": "banán",
+    "price": 0.99,
+    "original_price": 1.59,
+    "unit": "kg",
+    "discount_description": "-37%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Uhorka šalátová",
+    "generic_name": "uhorky",
+    "price": 0.75,
+    "original_price": 1.49,
+    "unit": "kus",
+    "discount_description": "-49%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Farmárske kuracie rezne chladené, balené",
+    "generic_name": "kuracia pečenka",
+    "price": 6.29,
+    "original_price": 8.99,
+    "unit": "kg",
+    "discount_description": "-30%",
+    "category": "mäso",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Kukkonia žltoostrovské maslo",
+    "generic_name": "maslo",
+    "price": 1.35,
+    "original_price": 3.19,
+    "unit": "g",
+    "unit_count": 250.0,
+    "discount_description": "-57%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "package": "250g/ kus",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Kukkonia bravčová krkovička bez kosti chladená, balená",
+    "generic_name": "bravčové krkovičky",
+    "price": 4.95,
+    "original_price": 7.59,
+    "unit": "kg",
+    "discount_description": "-34%",
+    "category": "mäso",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Rajo mlieko polotučné 1,5 %",
+    "generic_name": "mlieko",
+    "price": 0.64,
+    "original_price": 1.39,
+    "unit": "l",
+    "discount_description": "-53%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Pilsner Urquell fľaša",
+    "generic_name": "pivo",
+    "price": 0.93,
+    "original_price": 1.49,
+    "unit": "l",
+    "discount_description": "-37%",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "nápoje",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Coccolino aviváž",
+    "generic_name": "aviváž",
+    "price": 3.29,
+    "original_price": 3.99,
+    "unit_count": 68.0,
+    "discount_description": "-17%",
+    "category": "domácnosť",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Hrozno biele bezkôstkové balené, 500 g.",
+    "price": 1.65,
+    "original_price": 3.29,
+    "unit_count": 500.0,
+    "discount_description": "-49%",
+    "category": "ovocie a zelenina",
+    "unit": "g",
+    "package": "500g/ kus",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Karfiol voľný predaj, 1 ks",
+    "price": 1.79,
+    "original_price": 2.99,
+    "unit_count": 1.0,
+    "discount_description": "-40%",
+    "category": "ovocie a zelenina",
+    "unit": "kus",
+    "package": "1kus/ kus",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Red'kovka červená",
+    "generic_name": "red'kovka",
+    "price": 0.49,
+    "original_price": 0.89,
+    "unit_count": 1.0,
+    "package": "zväzoček, 1 ks",
+    "discount_description": "-44%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Jablká Evelína",
+    "generic_name": "jablká",
+    "price": 1.55,
+    "original_price": 2.49,
+    "unit_count": 1000.0,
+    "package": "volný predaj, 1 kg",
+    "discount_description": "-37%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Tesco parádajky cherry na stonke balené",
+    "generic_name": "parádajky cherry",
+    "price": 2.29,
+    "original_price": 3.99,
+    "unit_count": 200.0,
+    "package": "balené, (1 kg = 11,45)",
+    "discount_description": "-42%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Tesco zemiaky konzumné typ B",
+    "generic_name": "zemiaky",
+    "price": 0.99,
+    "original_price": 2.19,
+    "unit_count": 2000.0,
+    "package": "balené, (1 kg = 0,50)",
+    "discount_description": "-54%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Zemiaky sladké",
+    "generic_name": "sladké zemiaky",
+    "price": 1.39,
+    "original_price": 2.99,
+    "unit_count": 1000.0,
+    "package": "volný predaj, 1 kg",
+    "discount_description": "-53%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Panzani cestoviny",
+    "generic_name": "cestoviny",
+    "price": 1.69,
+    "original_price": 2.79,
+    "unit_count": 500.0,
+    "discount_description": "-39%",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Veselá kráva sýr a krupice",
+    "generic_name": "syr & chrumkave tycinky",
+    "price": 0.69,
+    "original_price": 1.15,
+    "unit_count": 35.0,
+    "discount_description": "-40%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Nutrilon detské mlieko",
+    "generic_name": "detské mlieko",
+    "price": 14.95,
+    "original_price": 17.99,
+    "unit_count": 800.0,
+    "discount_description": "-16%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "drogéria",
+    "start_date": "2024-10-03",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Heny kuracie stehná celé bez kože a kosti chladené, balené",
+    "generic_name": "kuracie stehná",
+    "price": 3.99,
+    "original_price": 6.49,
+    "unit_count": 1000.0,
+    "discount_description": "-38%",
+    "category": "mäso",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Tesco mleté maso z bravčového pleca chladené, balené",
+    "generic_name": "mleté maso",
+    "price": 1.65,
+    "original_price": 3.29,
+    "unit_count": 500.0,
+    "discount_description": "-49%",
+    "category": "mäso",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Tesco kurča chladené, balené",
+    "generic_name": "kurča",
+    "price": 2.49,
+    "original_price": 2.99,
+    "unit_count": 1000.0,
+    "discount_description": "-16%",
+    "category": "mäso",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Tesco losos chladený, balený",
+    "generic_name": "losos",
+    "price": 1.89,
+    "original_price": 2.29,
+    "unit_count": 100.0,
+    "discount_description": "-17%",
+    "category": "ryby a morské plody",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Tauris Toreador saláma balená",
+    "generic_name": "saláma",
+    "price": 1.49,
+    "original_price": 2.75,
+    "unit_count": 75.0,
+    "discount_description": "-45%",
+    "category": "mäso",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Tesco hovädzia falošná z plecka chladená, balená",
+    "generic_name": "hovädzia falošná",
+    "price": 12.99,
+    "unit_count": 1000.0,
+    "category": "mäso",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Tesco údená oravská slanina balená",
+    "generic_name": "oravská slanina",
+    "price": 6.9,
+    "original_price": 9.39,
+    "unit_count": 1000.0,
+    "discount_description": "-26%",
+    "category": "mäso",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Ryba Košice tuniaková pochútka balená",
+    "generic_name": "tuniaková pochútka",
+    "price": 1.29,
+    "original_price": 2.09,
+    "unit_count": 140.0,
+    "discount_description": "-38%",
+    "category": "ryby a morské plody",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Hellmann's Majolenka originál",
+    "generic_name": "majonéza",
+    "brand": "Hellmann's",
+    "price": 4.09,
+    "original_price": 5.99,
+    "unit_count": 855.0,
+    "discount_description": "-31%",
+    "club_card_only": true,
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Grécky jogurt 0 % biely",
+    "generic_name": "jogurt",
+    "price": 2.99,
+    "original_price": 4.79,
+    "unit_count": 1.0,
+    "discount_description": "-37%",
+    "club_card_only": true,
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Vinica špenátový pretlak",
+    "generic_name": "špenátový pretlak",
+    "brand": "Vinica",
+    "price": 0.59,
+    "original_price": 0.79,
+    "unit_count": 450.0,
+    "discount_description": "-26%",
+    "club_card_only": true,
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Tesco olej slnečnicový",
+    "generic_name": "slnečnicový olej",
+    "price": 1.29,
+    "original_price": 1.59,
+    "unit_count": 1.0,
+    "discount_description": "-35%",
+    "club_card_only": true,
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Zlatá studňa ochutená voda",
+    "generic_name": "ochutená voda",
+    "price": 0.79,
+    "original_price": 1.29,
+    "unit_count": 1.5,
+    "discount_description": "-41%",
+    "club_card_only": true,
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Babičkina volba múka na kysnuté cesto",
+    "generic_name": "múka",
+    "brand": "Babičkina volba",
+    "price": 0.79,
+    "original_price": 1.39,
+    "unit_count": 1.0,
+    "package": "kg/ balenie",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Dr.Oetker vanilková pasta Bourbon*",
+    "generic_name": "vanilková pasta",
+    "brand": "Dr.Oetker",
+    "price": 6.69,
+    "original_price": 8.39,
+    "unit_count": 100.0,
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Maslový croissant",
+    "generic_name": "croissant",
+    "price": 0.36,
+    "unit": "g",
+    "unit_count": 52.0,
+    "package": "52g/ kus",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Tesco Finest marinované plátky lososa atlantského so struhaným syrom a s olivovým olejom balené, 119 g",
+    "brand": "Tesco Finest",
+    "price": 4.49,
+    "original_price": 5.99,
+    "unit_count": 0.119,
+    "package": "balenie",
+    "discount_description": "-25%",
+    "club_card_only": true,
+    "unit": "g",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Penam Fít deň celozrnný ražný chlieb",
+    "generic_name": "chlieb",
+    "price": 1.95,
+    "original_price": 2.45,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250 g / kus",
+    "discount_description": "-20%",
+    "club_card_only": true,
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  },
+  {
+    "name": "Rio Cold Press Jablko cvikla",
+    "generic_name": "džus z jablek a červenej řepy",
+    "brand": "rio",
+    "price": 1.99,
+    "original_price": 2.59,
+    "unit_count": 1.0,
+    "package": "1l/ balenie",
+    "discount_description": "-23%",
+    "club_card_only": true,
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Lupilu SOFT Premium Pants",
+    "generic_name": "plienky",
+    "brand": "Lupilu",
+    "price": 5.0,
+    "unit": "kus",
+    "unit_count": 20.0,
+    "package": "20 kusov",
+    "category": "domácnosť",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Lupilu SOFT Premium Pants",
+    "generic_name": "plienky",
+    "brand": "Lupilu",
+    "price": 6.0,
+    "unit": "kus",
+    "unit_count": 18.0,
+    "package": "18 kusov",
+    "category": "domácnosť",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Detské bavlnené vlhčené obrúsky Natural care",
+    "generic_name": "vlhčené obrúsky",
+    "brand": "Lupilu",
+    "price": 1.99,
+    "unit": "kus",
+    "unit_count": 72.0,
+    "package": "72 kusov",
+    "category": "osobná starostlivosť",
+    "start_date": "2026-04-25",
+    "end_date": "2026-04-30"
+  },
+  {
+    "name": "Detské vlhčené obrúsky Comfort",
+    "generic_name": "vlhčené obrúsky",
+    "brand": "Lupilu",
+    "price": 2.29,
+    "unit": "kus",
+    "unit_count": 80.0,
+    "package": "80 kusov",
+    "category": "osobná starostlivosť",
+    "start_date": "2026-04-25",
+    "end_date": "2026-04-30"
+  }
+]

@@ -1,0 +1,691 @@
+[
+  {
+    "name": "Balkónové rastliny",
+    "generic_name": "rastliny",
+    "price": 3.49,
+    "original_price": 0.35,
+    "unit": "kus",
+    "unit_count": 10.0,
+    "package": "10 kusov v balení",
+    "discount_description": "Mimoriadna ponuka",
+    "tags": [
+      "záhrada a hobby"
+    ],
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Muškát vzpriamenený alebo plnokvetý previslý",
+    "generic_name": "rastliny",
+    "price": 5.99,
+    "unit": "kus",
+    "unit_count": 10.0,
+    "package": "10 kusov v balení",
+    "discount_description": "Mimoriadna ponuka",
+    "tags": [
+      "záhrada a hobby"
+    ],
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Tyčinky na pelargónie",
+    "generic_name": "hnojive tyčinky",
+    "price": 1.29,
+    "original_price": 2.29,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "1 balenie",
+    "discount_description": "-43%",
+    "tags": [
+      "záhrada a hobby"
+    ],
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Kvetinový substrát",
+    "generic_name": "substrát",
+    "price": 2.49,
+    "original_price": 2.99,
+    "unit": "litry",
+    "unit_count": 20.0,
+    "package": "1 balenie",
+    "discount_description": "Ušetrite 0,50 €",
+    "tags": [
+      "záhrada a hobby"
+    ],
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Hnojivo univerzálne alebo na pelargónie",
+    "generic_name": "hnojivo",
+    "price": 2.29,
+    "original_price": 3.69,
+    "unit": "ml",
+    "unit_count": 500.0,
+    "package": "1 kus",
+    "discount_description": "-37%",
+    "tags": [
+      "záhrada a hobby"
+    ],
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Petúnia tahavá",
+    "generic_name": "Petúnia",
+    "price": 2.49,
+    "unit": "cm",
+    "unit_count": 10.5,
+    "package": "1 kus",
+    "discount_description": "Mimoriadna ponuka",
+    "category": "záhrada a hobby",
+    "start_date": "2024-04-09",
+    "end_date": "2024-04-15"
+  },
+  {
+    "name": "Fuksia vzpriamenená alebo previslá",
+    "generic_name": "Fuchsia Hybr.",
+    "price": 2.49,
+    "unit": "cm",
+    "unit_count": 10.5,
+    "package": "1 kus",
+    "discount_description": "Mimoriadna ponuka",
+    "category": "záhrada a hobby",
+    "start_date": "2024-04-09",
+    "end_date": "2024-04-15"
+  },
+  {
+    "name": "Levandula francúzska",
+    "generic_name": "Lavandula stoechas Toscane",
+    "price": 3.99,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "discount_description": "do vyčerpania zásob",
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Flox šidlolistý",
+    "generic_name": "Phlox subulata",
+    "price": 3.49,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "discount_description": "do vyčerpania zásob",
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Klinček záhradný",
+    "generic_name": "Dianthus caryophyllus",
+    "price": 1.99,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "discount_description": "do vyčerpania zásob",
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Okrasný cesnak",
+    "generic_name": "Allium",
+    "price": 4.99,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "discount_description": "do vyčerpania zásob",
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "PARKSIDE Samozavlažovacia truhlica",
+    "generic_name": "Samozavlažovacia truhlica",
+    "price": 4.49,
+    "unit": "cm",
+    "unit_count": 40.0,
+    "package": "1 kus",
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "PARKSIDE Samozavlažovacia truhlica",
+    "generic_name": "Samozavlažovacia truhlica",
+    "price": 4.99,
+    "unit": "cm",
+    "unit_count": 60.0,
+    "package": "1 kus",
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "PARKSIDE Samozavlažovacia truhlica",
+    "generic_name": "Samozavlažovacia truhlica",
+    "price": 5.99,
+    "unit": "cm",
+    "unit_count": 80.0,
+    "package": "1 kus",
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "PARKSIDE Držiaky na truhlicu",
+    "generic_name": "Držiaky na truhlicu",
+    "price": 2.49,
+    "unit": "balenie",
+    "unit_count": 1.0,
+    "package": "1 balenie (=1 kus 1,25)",
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Horká sol",
+    "generic_name": "hnojivo",
+    "price": 2.29,
+    "original_price": 3.19,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "1 kg",
+    "discount_description": "-28%",
+    "category": "záhrada a hobby",
+    "start_date": "2024-04-16",
+    "end_date": "2024-04-22"
+  },
+  {
+    "name": "PARKSIDE Netkaná textilia",
+    "generic_name": "textilia",
+    "price": 1.99,
+    "unit": "m",
+    "unit_count": 5.0,
+    "package": "5 x 1,5 m",
+    "category": "záhrada a hobby",
+    "start_date": "2024-04-16",
+    "end_date": "2024-04-22"
+  },
+  {
+    "name": "Mulčovacia kôra",
+    "generic_name": "kôra",
+    "price": 3.49,
+    "original_price": 3.99,
+    "unit": "l",
+    "unit_count": 50.0,
+    "package": "50 l",
+    "discount_description": "Ušetríte 0,50 €",
+    "category": "záhrada a hobby",
+    "start_date": "2024-04-16",
+    "end_date": "2024-04-22"
+  },
+  {
+    "name": "Magnólia",
+    "generic_name": "kvetináč",
+    "price": 14.99,
+    "unit": "cm",
+    "unit_count": 19.0,
+    "package": "1 kus",
+    "category": "záhrada a hobby",
+    "start_date": "2024-04-16",
+    "end_date": "2024-04-22"
+  },
+  {
+    "name": "Pivonka drevitá",
+    "generic_name": "kvetináč",
+    "price": 12.99,
+    "unit": "cm",
+    "unit_count": 19.0,
+    "package": "1 kus",
+    "category": "záhrada a hobby",
+    "start_date": "2024-04-16",
+    "end_date": "2024-04-22"
+  },
+  {
+    "name": "Oleander obyčajný na kmienku",
+    "generic_name": "Nerium oleander",
+    "price": 21.99,
+    "unit": "cm",
+    "unit_count": 21.0,
+    "package": "1 kus",
+    "discount_description": "do vyčerpania zásob",
+    "tags": [
+      "záhrada a hobby"
+    ],
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Konifery mix",
+    "price": 1.99,
+    "unit": "cm",
+    "unit_count": 9.0,
+    "package": "1 kus",
+    "discount_description": "do vyčerpania zásob",
+    "tags": [
+      "záhrada a hobby"
+    ],
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Rododendron",
+    "generic_name": "Rhododendron",
+    "price": 12.99,
+    "unit": "cm",
+    "unit_count": 23.0,
+    "package": "1 kus",
+    "discount_description": "do vyčerpania zásob",
+    "tags": [
+      "záhrada a hobby"
+    ],
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Javor dlánovitolistý",
+    "generic_name": "Acer palmatum",
+    "price": 4.99,
+    "unit": "cm",
+    "unit_count": 10.5,
+    "package": "1 kus",
+    "discount_description": "do vyčerpania zásob",
+    "tags": [
+      "záhrada a hobby"
+    ],
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Ruža na kmienku",
+    "generic_name": "Rosa Hybr.",
+    "price": 12.99,
+    "unit": "cm",
+    "unit_count": 17.0,
+    "package": "1 kus",
+    "discount_description": "do vyčerpania zásob",
+    "tags": [
+      "záhrada a hobby"
+    ],
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Levandula francúzska",
+    "generic_name": "Levandula",
+    "brand": "Lavandula stoechas Toscane",
+    "price": 9.99,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "discount_description": "Mimoriadna ponuka",
+    "tags": [
+      "záhrada a hobby"
+    ],
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Levandula úzkolistá",
+    "generic_name": "Levandula",
+    "brand": "Lavandel angustifolia",
+    "price": 5.99,
+    "unit": "kus",
+    "unit_count": 6.0,
+    "package": "1 balenie",
+    "discount_description": "Mimoriadna ponuka",
+    "tags": [
+      "záhrada a hobby"
+    ],
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Zvonček „Get Mee“",
+    "generic_name": "Zvonček",
+    "brand": "Campanula",
+    "price": 3.99,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "discount_description": "Mimoriadna ponuka",
+    "tags": [
+      "záhrada a hobby"
+    ],
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "COUNTRYSIDE Stojan na kvety",
+    "generic_name": "Stojan na kvety",
+    "price": 7.99,
+    "original_price": 9.99,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "1 kus / 1 balenie",
+    "discount_description": "-20%",
+    "tags": [
+      "záhrada a hobby"
+    ],
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Strieborný dážd’ (Dichondra argentea)",
+    "generic_name": "Strieborný dážd’",
+    "price": 2.79,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "category": "záhrada a hobby",
+    "package": "1kus/ kus",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Brečtan popínavý (Hedera helix)",
+    "generic_name": "Brečtan popínavý",
+    "price": 1.49,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "category": "záhrada a hobby",
+    "package": "1kus/ kus",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Koleus (Coleus)",
+    "generic_name": "Koleus",
+    "price": 2.99,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "category": "záhrada a hobby",
+    "package": "1kus/ kus",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "PARKSIDE Kvetináč s mriežkou",
+    "generic_name": "Kvetináč s mriežkou",
+    "price": 24.99,
+    "original_price": 39.99,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "discount_description": "-37%",
+    "category": "záhrada a hobby",
+    "package": "1kus/ kus",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "COUNTRYSIDE Schodíky na kvety",
+    "generic_name": "Schodíky na kvety",
+    "price": 12.99,
+    "original_price": 19.99,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "discount_description": "-35%",
+    "category": "záhrada a hobby",
+    "package": "1kus/ kus",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Klinček „ILoveU“",
+    "generic_name": "Dianthus „ILoveU“",
+    "price": 2.49,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "10,5 cm",
+    "category": "záhrada a hobby",
+    "start_date": "2024-04-23",
+    "end_date": "2024-04-29"
+  },
+  {
+    "name": "Ruža v kvetináči",
+    "generic_name": "Rosa hybrid",
+    "price": 3.49,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "12 cm",
+    "category": "záhrada a hobby",
+    "start_date": "2024-04-23",
+    "end_date": "2024-04-29"
+  },
+  {
+    "name": "Hnojivo univerzálne alebo na balkónové rastliny",
+    "generic_name": "Hnojivo",
+    "price": 2.99,
+    "original_price": 4.29,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "1L",
+    "discount_description": "-30%",
+    "category": "záhrada a hobby",
+    "start_date": "2024-04-23",
+    "end_date": "2024-04-29"
+  },
+  {
+    "name": "Miska pod truhlicu",
+    "brand": "PARKSIDE",
+    "price": 0.79,
+    "unit": "cm",
+    "unit_count": 37.0,
+    "package": "1 kus",
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Miska pod truhlicu",
+    "brand": "PARKSIDE",
+    "price": 0.99,
+    "unit": "cm",
+    "unit_count": 57.0,
+    "package": "1 kus",
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Miska pod truhlicu",
+    "brand": "PARKSIDE",
+    "price": 1.49,
+    "unit": "cm",
+    "unit_count": 77.0,
+    "package": "1 kus",
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Držiaky na truhlicu",
+    "brand": "PARKSIDE",
+    "price": 1.99,
+    "package": "1 balenie (1 kus)",
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Truhlica na kvety",
+    "brand": "PARKSIDE",
+    "price": 1.49,
+    "unit": "cm",
+    "unit_count": 40.0,
+    "package": "1 kus",
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Truhlica na kvety",
+    "brand": "PARKSIDE",
+    "price": 1.99,
+    "unit": "cm",
+    "unit_count": 60.0,
+    "package": "1 kus",
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Truhlica na kvety",
+    "brand": "PARKSIDE",
+    "price": 2.49,
+    "unit": "cm",
+    "unit_count": 80.0,
+    "package": "1 kus",
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Sadenica paradajky",
+    "generic_name": "paradajky",
+    "price": 1.49,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "discount_description": "Mimoriadna ponuka",
+    "tags": [
+      "lokálne"
+    ],
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Sadenica paradajok (Roma)",
+    "generic_name": "paradajok",
+    "price": 1.0,
+    "original_price": 1.99,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "discount_description": "Kúpite 2 zaplatíte 1",
+    "tags": [
+      "lokálne"
+    ],
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Sadenica uhorky",
+    "generic_name": "uhorky",
+    "price": 0.75,
+    "original_price": 1.49,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "discount_description": "Kúpite 2 zaplatíte 1",
+    "tags": [
+      "lokálne"
+    ],
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Dipladénia (Dipladenia)",
+    "generic_name": "dipladénia",
+    "price": 8.99,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "discount_description": "Mimoriadna ponuka",
+    "tags": [
+      "lokálne"
+    ],
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Klinček „Pink Kisses“ (Dianthus Pink Kisses)",
+    "generic_name": "klinček",
+    "price": 2.99,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "discount_description": "Mimoriadna ponuka",
+    "tags": [
+      "lokálne"
+    ],
+    "category": "záhrada a hobby",
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Poukazka",
+    "generic_name": "poukazka",
+    "price": 120.0,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "1kus/ kus",
+    "discount_description": null,
+    "k_card_only": false,
+    "tags": null,
+    "category": null,
+    "start_date": "2026-04-09",
+    "end_date": "2026-05-06"
+  },
+  {
+    "name": "Sadenice jahód",
+    "generic_name": "jahody",
+    "price": 5.99,
+    "unit": "kus",
+    "unit_count": 6.0,
+    "package": "1 balenie",
+    "discount_description": "do vyčerpania zásob",
+    "category": "záhrada a hobby",
+    "start_date": "2024-04-30",
+    "end_date": "2024-05-06"
+  },
+  {
+    "name": "Sadenica jahody stáloplodiacej",
+    "generic_name": "jahody",
+    "price": 2.99,
+    "unit": "kus",
+    "package": "1 kus",
+    "discount_description": "do vyčerpania zásob",
+    "category": "záhrada a hobby",
+    "start_date": "2024-04-30",
+    "end_date": "2024-05-06"
+  },
+  {
+    "name": "Čučoriedka chocholíková",
+    "generic_name": "čučoriedka",
+    "price": 4.99,
+    "unit": "kus",
+    "package": "1 kus",
+    "discount_description": "do vyčerpania zásob",
+    "category": "záhrada a hobby",
+    "start_date": "2024-04-30",
+    "end_date": "2024-05-06"
+  },
+  {
+    "name": "Agrominerálne hnojivo",
+    "generic_name": "hnojivo",
+    "price": 3.99,
+    "original_price": 5.49,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "discount_description": "-27%",
+    "category": "záhrada a hobby",
+    "start_date": "2024-04-30",
+    "end_date": "2024-05-06"
+  }
+]

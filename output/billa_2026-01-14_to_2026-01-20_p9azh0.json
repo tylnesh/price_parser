@@ -1,0 +1,852 @@
+[
+  {
+    "name": "Debrecínska pečienka",
+    "generic_name": "pečienka",
+    "brand": "Billa",
+    "price": 1.99,
+    "original_price": 2.99,
+    "unit": "g",
+    "unit_count": 150.0,
+    "package": "150g/ kus",
+    "discount_description": "-33%",
+    "tags": [],
+    "category": "mäso",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Čučoriedky",
+    "generic_name": "čučoriedky",
+    "price": 2.39,
+    "original_price": 3.99,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ balenie",
+    "discount_description": "-40%",
+    "tags": [
+      "bio",
+      "organické"
+    ],
+    "category": "ovocie a zelenina",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Rajčiaky červené cherry ovalné",
+    "generic_name": "rajčiaky",
+    "brand": "Bon Via",
+    "price": 0.99,
+    "original_price": 1.99,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/1 balenie",
+    "discount_description": "-50%",
+    "tags": [],
+    "category": "ovocie a zelenina",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Hrozno biele bezjadierkové",
+    "generic_name": "hrozno",
+    "price": 1.99,
+    "original_price": 3.2,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/1 balenie",
+    "discount_description": "-39%",
+    "tags": [
+      "bez cukru"
+    ],
+    "category": "ovocie a zelenina",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Bravčové karé bez kosti",
+    "price": 3.49,
+    "original_price": 6.49,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-47%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Farmárske kurča bez drobkov",
+    "price": 3.19,
+    "original_price": 4.29,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-25%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Bravčová panenka",
+    "price": 7.49,
+    "original_price": 8.99,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-16%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Morčacie prsia bez kosti a kože Kubus",
+    "price": 8.29,
+    "original_price": 9.79,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-15%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Kurcie stehná bez kosti a kože Domáško",
+    "price": 4.99,
+    "original_price": 6.89,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-27%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Bravčové stehno bez kosti",
+    "price": 3.79,
+    "original_price": 6.49,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-41%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Bravčový bok bez kosti s kožou Kukkonia",
+    "price": 4.89,
+    "original_price": 7.19,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-32%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Zabíjačkový balíček Mäsiarov výber",
+    "price": 3.99,
+    "original_price": 4.99,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-20%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Kurcie stehná celé Mäsiarov výber, Domáško, HSH",
+    "price": 3.19,
+    "original_price": 3.9,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-18%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Zlatý Bažant nealkoholický radler",
+    "generic_name": "nealkoholický radler",
+    "brand": "Zlatý Bažant",
+    "price": 0.79,
+    "original_price": 1.19,
+    "unit": "l",
+    "unit_count": 0.5,
+    "package": "plechovka",
+    "discount_description": "2+1",
+    "tags": [
+      "nealkoholicke"
+    ],
+    "category": "nápoje",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Milsy Bánovecký smotanový jogurt",
+    "generic_name": "jogurt",
+    "brand": "Milsy",
+    "price": 0.39,
+    "original_price": 0.76,
+    "unit": "g",
+    "unit_count": 145.0,
+    "discount_description": "-48%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "package": "145g/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever paprika zeleninová",
+    "brand": "Clever",
+    "price": 2.29,
+    "original_price": 2.99,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/1 balenie",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever cibuľa",
+    "brand": "Clever",
+    "price": 0.59,
+    "original_price": 1.19,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "1kg/1 balenie",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever bravčová šunka",
+    "brand": "Clever",
+    "price": 0.85,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "category": "mäso",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever mlieko",
+    "brand": "Clever",
+    "price": 0.75,
+    "unit": "L",
+    "unit_count": 1.0,
+    "package": "1L/ balenie",
+    "category": "mliečne výrobky",
+    "tags": [
+      "mliečne"
+    ],
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever Lyonská saláma",
+    "brand": "Clever",
+    "price": 0.89,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ kus",
+    "category": "mäso",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever Oravská a Anglická slanina",
+    "brand": "Clever",
+    "price": 9.39,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "cena za 1 kg",
+    "category": "mäso",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever tvaroh",
+    "brand": "Clever",
+    "price": 1.19,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ kus",
+    "category": "mliečne výrobky",
+    "tags": [
+      "mliečne"
+    ],
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever mozzarella",
+    "brand": "Clever",
+    "price": 0.94,
+    "unit": "g",
+    "unit_count": 125.0,
+    "package": "125g/ kus",
+    "category": "mliečne výrobky",
+    "tags": [
+      "mliečne"
+    ],
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever linecké pečivo s marhuľovou náplňou",
+    "brand": "Clever",
+    "price": 1.95,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ kus",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Niva Originál",
+    "generic_name": "syr",
+    "brand": "Niva",
+    "price": 1.29,
+    "original_price": 1.69,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ balenie",
+    "discount_description": "-23%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Babička puding",
+    "generic_name": "vanilkový puding",
+    "brand": "Babička",
+    "price": 0.99,
+    "original_price": 1.38,
+    "unit": "g",
+    "unit_count": 100.0,
+    "discount_description": "-28%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "package": "100g/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Kačacia stehná s kožou",
+    "generic_name": "kačacia stehná",
+    "price": 0.99,
+    "original_price": 1.55,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-36%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever univerzálne ochucovadlo",
+    "brand": "Clever",
+    "price": 1.19,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever repkový olej",
+    "brand": "Clever",
+    "price": 1.59,
+    "unit": "L",
+    "unit_count": 1.0,
+    "package": "1L/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever med s kvetovým",
+    "brand": "Clever",
+    "price": 3.29,
+    "unit": "g",
+    "unit_count": 900.0,
+    "package": "900g/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever popcorn maslový",
+    "brand": "Clever",
+    "price": 1.75,
+    "unit": "g",
+    "unit_count": 300.0,
+    "package": "300g/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever zelený hrášok",
+    "brand": "Clever",
+    "price": 0.98,
+    "unit": "g",
+    "unit_count": 450.0,
+    "package": "450g/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever fazulové struky",
+    "brand": "Clever",
+    "price": 1.69,
+    "unit": "ml",
+    "unit_count": 425.0,
+    "package": "425ml/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever müsli tyčinka",
+    "brand": "Clever",
+    "price": 0.35,
+    "unit": "g",
+    "unit_count": 30.0,
+    "package": "30g/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever sušenky s kakaovou náplňou",
+    "brand": "Clever",
+    "price": 1.95,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever ľadový čaj",
+    "brand": "Clever",
+    "price": 1.15,
+    "unit": "L",
+    "unit_count": 1.5,
+    "package": "1.5L/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever ochutená minerálna voda",
+    "brand": "Clever",
+    "price": 1.19,
+    "unit": "L",
+    "unit_count": 1.5,
+    "package": "1.5L/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever kuchynské utierky",
+    "brand": "Clever",
+    "price": 2.49,
+    "unit": "m",
+    "unit_count": 300.0,
+    "package": "300m/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Clever vrecia na odpad",
+    "brand": "Clever",
+    "price": 0.82,
+    "unit": "kus",
+    "unit_count": 50.0,
+    "package": "50kus/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Ötz vianočka",
+    "generic_name": "vianočka",
+    "price": 1.69,
+    "original_price": 3.79,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ kus",
+    "discount_description": "-55%",
+    "category": "pekárenské výrobky",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Brumík",
+    "generic_name": "jemné pečivo s náplňou",
+    "brand": "Opavia BeBe",
+    "price": 0.39,
+    "unit": "g",
+    "unit_count": 30.0,
+    "package": "1 kg = 13,00 €",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "merci",
+    "generic_name": "dezert",
+    "brand": "merci",
+    "price": 4.99,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "1 kg = 21,96 €",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "KitKat Double chocolate",
+    "generic_name": "rózne druhy",
+    "brand": "KitKat",
+    "price": 1.79,
+    "unit": "g",
+    "unit_count": 99.0,
+    "package": "1 kg = 18,08 €",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Kinder Surprise",
+    "generic_name": "čokoládové vajičko s prekvapením",
+    "brand": "Kinder",
+    "price": 1.29,
+    "unit": "g",
+    "unit_count": 20.0,
+    "package": "1 kg = 64,50 €",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Lindt Lindor",
+    "generic_name": "dezert",
+    "brand": "Lindt",
+    "price": 4.39,
+    "unit": "g",
+    "unit_count": 137.0,
+    "package": "1 kg = 32,04 €",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Milka",
+    "generic_name": "rózne druhy",
+    "brand": "Milka",
+    "price": 3.79,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "1 kg = 15,16 € - 12,63 €",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Mozart Kugeln",
+    "generic_name": "marcipánové guličky",
+    "brand": "Mozart",
+    "price": 2.79,
+    "unit": "g",
+    "unit_count": 148.0,
+    "package": "1 kg = 18,85 €",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Piškotíky",
+    "generic_name": "detské piškoty",
+    "brand": "Opavia",
+    "price": 1.39,
+    "unit": "g",
+    "unit_count": 220.0,
+    "package": "1 kg = 6,31 €",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Záhorácky sýr",
+    "generic_name": "sýr",
+    "price": 0.79,
+    "original_price": 0.99,
+    "unit": "g",
+    "unit_count": 45.0,
+    "package": "45g/ kus",
+    "discount_description": "-20%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Laurenza Prosecco",
+    "generic_name": "prosecco frizzante",
+    "brand": "Laurenza",
+    "price": 2.99,
+    "original_price": 5.18,
+    "unit": "l",
+    "unit_count": 0.75,
+    "package": "0.75l/ balenie",
+    "discount_description": "-42%",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Mistral Baza čaj",
+    "generic_name": "čaj",
+    "brand": "Mistral",
+    "price": 1.69,
+    "original_price": 2.49,
+    "unit": "g",
+    "unit_count": 30.0,
+    "discount_description": "-32%",
+    "tags": [
+      "bez cukru"
+    ],
+    "category": "nápoje",
+    "package": "30g/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Vitaflóra múka",
+    "generic_name": "múka",
+    "brand": "Vitaflóra",
+    "price": 0.49,
+    "original_price": 0.85,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "1 kg",
+    "discount_description": "-42%",
+    "tags": [
+      "celozrnné"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Popradská Crema espresso",
+    "generic_name": "zrnková káva",
+    "price": 18.99,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "category": "trvanlivé potraviny",
+    "package": "1kg/ kus",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "BI CARE telové mlieko",
+    "generic_name": "telové mlieko",
+    "price": 1.89,
+    "unit": "ml",
+    "unit_count": 400.0,
+    "package": "400 ml",
+    "category": "osobná starostlivosť",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Persil pračie disky 22 – 29 práni",
+    "brand": "Persil",
+    "price": 9.99,
+    "original_price": 15.48,
+    "unit_count": 1.0,
+    "package": "2 ks",
+    "discount_description": "-35%",
+    "category": "domácnosť",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Lenor vonné perličky do prania",
+    "brand": "Lenor",
+    "price": 8.99,
+    "unit_count": 2.0,
+    "package": "2 druhy 495 g",
+    "category": "domácnosť",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Domestos tuhý WC blok",
+    "brand": "Domestos",
+    "price": 3.29,
+    "unit_count": 3.0,
+    "package": "3 x 50 g",
+    "category": "domácnosť",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Cif sprej 2 druhy",
+    "brand": "Cif",
+    "price": 2.99,
+    "unit_count": 1.0,
+    "package": "750 ml",
+    "category": "domácnosť",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Glade osviežovač vzduchu",
+    "brand": "Glade",
+    "price": 1.99,
+    "original_price": 2.73,
+    "unit_count": 1.0,
+    "package": "300 ml",
+    "discount_description": "-27%",
+    "category": "domácnosť",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Beef stick snack pre psy",
+    "brand": "Beef stick",
+    "price": 0.65,
+    "unit_count": 1.0,
+    "package": "12 g",
+    "category": "záhrada a hobby",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Real Meal konzerva pre psy",
+    "brand": "Real Meal",
+    "price": 2.19,
+    "original_price": 2.99,
+    "unit_count": 1.0,
+    "package": "400 g",
+    "discount_description": "-26%",
+    "category": "záhrada a hobby",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Felix fantastic kapsičky pre mačky",
+    "brand": "Felix",
+    "price": 10.99,
+    "unit_count": 24.0,
+    "package": "24 x 85 g",
+    "category": "záhrada a hobby",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Zooroyal konzerva pre psy s hovädzími srdcami",
+    "brand": "Zooroyal",
+    "price": 1.69,
+    "unit_count": 1.0,
+    "package": "400 g",
+    "category": "záhrada a hobby",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Rajo Acidko",
+    "generic_name": "biele rôzne druhy",
+    "brand": "Rajo",
+    "price": 1.19,
+    "original_price": 1.75,
+    "unit": "g",
+    "unit_count": 950.0,
+    "discount_description": "-32%",
+    "category": "mliečne výrobky",
+    "start_date": "2024-01-16",
+    "end_date": "2024-01-18",
+    "package": "950g/ kus"
+  },
+  {
+    "name": "Lacnejšie",
+    "price": 1.6,
+    "original_price": 2.2,
+    "discount_description": "-37%",
+    "tags": [
+      "nový v Billa"
+    ],
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Super cena",
+    "price": 1.29,
+    "discount_description": "-37%",
+    "tags": [
+      "super cena"
+    ],
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Kuracie razne Chute Slovenska",
+    "generic_name": "kuracie razne",
+    "price": 7.29,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "1 kg",
+    "category": "mäso",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Franz Josef Extra Virgin",
+    "generic_name": "olivovy olej",
+    "price": 4.99,
+    "unit": "L",
+    "unit_count": 0.75,
+    "package": "750 ml",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Viacerná tyčinka MAXI",
+    "generic_name": "tyčinka",
+    "price": 0.65,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "tags": [
+      "bez cukru"
+    ],
+    "category": "sladkosti a snacky",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  },
+  {
+    "name": "Nikola Husova",
+    "generic_name": "chlieb",
+    "price": 1.29,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "category": "pekárenské výrobky",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20"
+  }
+]

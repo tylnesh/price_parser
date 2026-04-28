@@ -1,0 +1,199 @@
+[
+  {
+    "name": "Súprava náradia na jemnú mechaniku",
+    "brand": "PARKSIDE",
+    "price": 5.99,
+    "original_price": 7.99,
+    "unit_count": 1.0,
+    "package": "balenie",
+    "discount_description": "-25%",
+    "category": "",
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  },
+  {
+    "name": "Súprava vrtákov",
+    "brand": "PARKSIDE",
+    "price": 3.99,
+    "original_price": 4.99,
+    "unit_count": 1.0,
+    "package": "balenie",
+    "discount_description": "-20%",
+    "category": "",
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  },
+  {
+    "name": "Nápine do tavnej pištole nízkotepelné rozmery Ø 11 x 280 mm",
+    "brand": "PARKSIDE",
+    "price": 2.99,
+    "original_price": 3.99,
+    "unit_count": 1.0,
+    "package": "balenie",
+    "discount_description": "-25%",
+    "category": "",
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  },
+  {
+    "name": "Sortiment na brúsenie rôzne druhy",
+    "brand": "PARKSIDE",
+    "price": 0.99,
+    "original_price": 1.99,
+    "unit_count": 1.0,
+    "package": "balenie",
+    "discount_description": "-50%",
+    "category": "",
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  },
+  {
+    "name": "Sortiment malých súčiastok",
+    "brand": "PARKSIDE",
+    "price": 3.99,
+    "original_price": 4.99,
+    "unit_count": 1.0,
+    "package": "balenie",
+    "discount_description": "-20%",
+    "category": "",
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  },
+  {
+    "name": "Súprava špachtlí rôzne druhy",
+    "brand": "PARKSIDE",
+    "price": 2.49,
+    "original_price": 3.99,
+    "unit_count": 1.0,
+    "package": "balenie",
+    "discount_description": "-37%",
+    "category": "",
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  },
+  {
+    "name": "Súprava rezných kotúčov",
+    "brand": "PARKSIDE",
+    "price": 4.99,
+    "original_price": 5.99,
+    "unit_count": 1.0,
+    "package": "balenie",
+    "discount_description": "-Card CENA Ušetríte: 1,- BEŽNÁ CENA 5,99 €",
+    "category": "",
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  },
+  {
+    "name": "Naslúchadlo plynule nastaviteľná hlasitosť",
+    "generic_name": "nasluchadlo",
+    "brand": "weinberger",
+    "price": 9.99,
+    "original_price": 12.99,
+    "unit_count": 1.0,
+    "package": "balenie",
+    "discount_description": "-23%",
+    "category": "osobná starostlivosť",
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  },
+  {
+    "name": "PARKSIDE Aku príklepový vŕtací skrutkovač PSBSA 20-Li C3",
+    "generic_name": "príklepový vŕtací skrutkovač",
+    "brand": "PARKSIDE",
+    "price": 24.99,
+    "original_price": 39.99,
+    "unit_count": 1.0,
+    "package": "balenie",
+    "discount_description": "-37%",
+    "tags": [],
+    "category": null,
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  },
+  {
+    "name": "Naparovačia žehlička FV2C50",
+    "generic_name": "žehlička",
+    "brand": "Tefal",
+    "price": 17.99,
+    "original_price": 19.99,
+    "unit_count": 1.0,
+    "package": "1 kus",
+    "discount_description": "-20%",
+    "k_card_only": true,
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  },
+  {
+    "name": "Napínacia plachta",
+    "generic_name": "plachta na matrace",
+    "brand": "LIV&BO",
+    "price": 5.99,
+    "original_price": 6.99,
+    "unit_count": 140.0,
+    "package": "balenie",
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  },
+  {
+    "name": "Napínacia plachta",
+    "generic_name": "plachta na matrace",
+    "brand": "LIV&BO",
+    "price": 6.99,
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  },
+  {
+    "name": "Vákuový ochranný obal",
+    "generic_name": "ochranný obal",
+    "brand": "LIV&BO",
+    "price": 1.99,
+    "unit_count": 0.5,
+    "package": "balenie",
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  },
+  {
+    "name": "Návleky na vankúš",
+    "generic_name": "návleky",
+    "brand": "LIV&BO",
+    "price": 1.99,
+    "original_price": 2.99,
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  },
+  {
+    "name": "Prikrývka na postel",
+    "generic_name": "prikrývka",
+    "brand": "LIV&BO",
+    "price": 9.99,
+    "original_price": 12.99,
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  },
+  {
+    "name": "Postelná bielizeň saténová",
+    "generic_name": "postelné prádlo",
+    "brand": "LIV&BO",
+    "price": 7.99,
+    "original_price": 14.99,
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  },
+  {
+    "name": "Koberec",
+    "generic_name": "koberec",
+    "brand": "LIV&BO",
+    "price": 12.99,
+    "original_price": 19.99,
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  },
+  {
+    "name": "Taburet s úložným priestorom",
+    "generic_name": "taburet",
+    "brand": "LIV&BO",
+    "price": 9.99,
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Tesori d'Oriente koncentrovaná aviváž",
+    "generic_name": "koncentrovaná aviváž",
+    "brand": "Tesori d'Oriente",
+    "price": 4.99,
+    "unit_count": 1160.0,
+    "unit": "ml",
+    "package": "1 ks",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Persil Color Deep Clean",
+    "generic_name": "práč gél",
+    "brand": "Persil",
+    "price": 13.99,
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Tento Finest kuchynská utierka",
+    "generic_name": "kuchynská utierka",
+    "brand": "Tento",
+    "price": 3.49,
+    "unit_count": 3.0,
+    "package": "1 ks",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-24"
+  }
+]

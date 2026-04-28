@@ -1,0 +1,1648 @@
+[
+  {
+    "name": "BILLA brie",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ kus",
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "BILLA Čerstvý Syr",
+    "price": 1.19,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ kus",
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Syrokrém Čerstvá chut XXL",
+    "price": 1.69,
+    "unit": "g",
+    "unit_count": 150.0,
+    "package": "150g/ kus",
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Feta Marca Hellas",
+    "price": 2.69,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ kus",
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Žervé krémové",
+    "price": 0.79,
+    "unit": "g",
+    "unit_count": 80.0,
+    "package": "80g/ kus",
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Karička sýr na gril",
+    "price": 3.59,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ kus",
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Leerdammer Original",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Chute Slovenska nite neúdené",
+    "price": 1.39,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "category": "mäso",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Kiri",
+    "price": 2.99,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ kus",
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Veselá kráva lahodná",
+    "price": 1.69,
+    "unit": "g",
+    "unit_count": 120.0,
+    "package": "120g/ kus",
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Zámocká šunka",
+    "price": 0.99,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "1 kg = 9.90 €",
+    "category": "mäso",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Wellness šunka",
+    "price": 2.29,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "1 kg = 22.90 €",
+    "category": "mäso",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Poctivé párky",
+    "price": 1.09,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "1 kg = 10.90 €",
+    "category": "mäso",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Kuracia šunka",
+    "price": 1.09,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "1 kg = 10.90 €",
+    "category": "mäso",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Mortadella Bologna",
+    "price": 2.19,
+    "unit": "g",
+    "unit_count": 150.0,
+    "package": "1 kg = 14.60 €",
+    "category": "mäso",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "BILLA Schwarzwaldská šunka",
+    "price": 1.39,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "1 kg = 13.90 €",
+    "category": "mäso",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Treska Cottage Exklusiv",
+    "price": 1.59,
+    "unit": "g",
+    "unit_count": 140.0,
+    "package": "1 kg = 11.35 €",
+    "category": "ryby a morské plody",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Active & Fit vajičkový sendvič",
+    "price": 2.59,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "1 kg = 12.95 €",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Protein bar original",
+    "price": 1.69,
+    "unit": "g",
+    "unit_count": 22.5,
+    "package": "1 kg = 75.11 €",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Morčacie prsia plátky Hydina Kubus",
+    "generic_name": "morčacie prsia plátky",
+    "price": 8.59,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Kuracie stehenné štvrte Domáško",
+    "generic_name": "kuracie stehenné štvrte",
+    "price": 2.99,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Chute Slovenska bravčové karé plátky",
+    "generic_name": "bravčové karé plátky",
+    "price": 6.89,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Ugo šalát",
+    "generic_name": "ugo šalát",
+    "price": 3.99,
+    "unit": "kg",
+    "unit_count": 260.0,
+    "category": "ovocie a zelenina",
+    "package": "260kg/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Sushi Oyshi",
+    "generic_name": "sushi",
+    "price": 3.49,
+    "unit": "kg",
+    "unit_count": 250.0,
+    "category": "mrazené potraviny",
+    "package": "250kg/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Sushi maki kombo",
+    "generic_name": "sushi maki",
+    "price": 3.99,
+    "unit": "kg",
+    "unit_count": 320.0,
+    "category": "mrazené potraviny",
+    "package": "320kg/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Protein kurací šalát",
+    "generic_name": "protein kurací šalát",
+    "price": 2.29,
+    "unit": "kg",
+    "unit_count": 180.0,
+    "category": "ovocie a zelenina",
+    "package": "180kg/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Kuracie rezne Chute Slovenska",
+    "generic_name": "kuracie rezne",
+    "price": 7.29,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "tags": [
+      "lokálne"
+    ],
+    "category": "mäso",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27",
+    "package": "1kg/ kus"
+  },
+  {
+    "name": "Franz Josef Extra Virgin",
+    "generic_name": "olivový olej",
+    "brand": "Franz Josef",
+    "price": 4.99,
+    "original_price": 19.96,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "package": "250ml/ balenie",
+    "tags": [
+      "bio",
+      "organické"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Len v Billa",
+    "generic_name": "viacerná tyčinka",
+    "price": 0.65,
+    "unit": "g",
+    "unit_count": 82.0,
+    "package": "82g/ kus",
+    "tags": [
+      "vegetariánske",
+      "vegánske"
+    ],
+    "category": "sladkosti a snacky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Nika Kleopatra",
+    "generic_name": "syr",
+    "price": 1.29,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Müllermilch protein",
+    "generic_name": "protein",
+    "brand": "Müller",
+    "price": 1.59,
+    "unit": "g",
+    "unit_count": 400.0,
+    "package": "400g/ kus",
+    "category": "mliečne výrobky",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Müller Riso protein",
+    "generic_name": "protein",
+    "brand": "Müller",
+    "price": 1.19,
+    "unit": "g",
+    "unit_count": 180.0,
+    "package": "180g/ kus",
+    "category": "mliečne výrobky",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Rajo Fit tvaroh",
+    "generic_name": "tvaroh",
+    "brand": "Rajo",
+    "price": 1.49,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ kus",
+    "category": "mliečne výrobky",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Barebells white choco almond protein bar",
+    "generic_name": "protein bar",
+    "brand": "Barebells",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 55.0,
+    "package": "55g/ kus",
+    "category": "sladkosti a snacky",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Excelent ribez. brus protein tyč",
+    "generic_name": "protein bar",
+    "brand": "Excelent",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 85.0,
+    "package": "85g/ kus",
+    "category": "sladkosti a snacky",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Corny protein soft peanut caramel",
+    "generic_name": "protein bar",
+    "brand": "Corny",
+    "price": 2.19,
+    "unit": "g",
+    "unit_count": 45.0,
+    "package": "45g/ kus",
+    "category": "sladkosti a snacky",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "BILLA Wild Pink Salmon Fillets",
+    "generic_name": "losos",
+    "brand": "BILLA",
+    "price": 3.49,
+    "original_price": 13.96,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "2 x 125g",
+    "category": "ryby a morské plody",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Vici losos",
+    "generic_name": "losos",
+    "brand": "Vici",
+    "price": 7.59,
+    "original_price": 30.36,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g",
+    "category": "ryby a morské plody",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Hamé tuniaková náterka",
+    "generic_name": "tuniaková náterka",
+    "brand": "Hamé",
+    "price": 0.89,
+    "original_price": 13.23,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "2 druhy, 100 g",
+    "category": "ryby a morské plody",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Mylord krevety",
+    "generic_name": "krevety",
+    "brand": "Mylord",
+    "price": 16.99,
+    "original_price": 21.23,
+    "unit": "g",
+    "unit_count": 800.0,
+    "package": "800g",
+    "category": "ryby a morské plody",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Rio mare tuniakový šalát",
+    "generic_name": "tuniakový šalát",
+    "brand": "Rio mare",
+    "price": 7.99,
+    "original_price": 16.64,
+    "unit": "g",
+    "unit_count": 480.0,
+    "package": "3 druhy, 3 x 160g",
+    "category": "ryby a morské plody",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Franz Josef makrela",
+    "generic_name": "makrela",
+    "brand": "Franz Josef",
+    "price": 2.49,
+    "original_price": 23.71,
+    "unit": "g",
+    "unit_count": 170.0,
+    "package": "170g",
+    "category": "ryby a morské plody",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Oskar kváskový suncicnicový chlieb",
+    "generic_name": "chlieb",
+    "price": 2.19,
+    "unit": "g",
+    "unit_count": 505.0,
+    "package": "505g/ kus",
+    "category": "pekárenské výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Minerva Extra Virgin olivový olej",
+    "generic_name": "olivový olej",
+    "price": 11.99,
+    "unit": "ml",
+    "unit_count": 500.0,
+    "package": "500ml/ balenie",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "BILLA cicer v konzerve",
+    "generic_name": "cicer",
+    "price": 1.49,
+    "unit": "g",
+    "unit_count": 400.0,
+    "package": "400g/ kus",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Franz Josef sušené paradajky",
+    "generic_name": "sušené paradajky",
+    "price": 1.59,
+    "unit": "g",
+    "unit_count": 180.0,
+    "package": "180g/ kus",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "BILLA Balkánsky sýr",
+    "generic_name": "sýr",
+    "price": 1.69,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ kus",
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Chute Slovenska smotanová nátierka Natur",
+    "generic_name": "smotanová nátierka",
+    "price": 1.09,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ kus",
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Lagris šošovica",
+    "generic_name": "šošovica",
+    "brand": "Lagris",
+    "price": 1.69,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ balenie",
+    "tags": [
+      "bio",
+      "organické"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "BILLA Bio šošovica",
+    "generic_name": "šošovica",
+    "brand": "BILLA",
+    "price": 2.19,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ balenie",
+    "tags": [
+      "bio",
+      "organické"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "BILLA fazula mungo",
+    "generic_name": "fazula",
+    "brand": "BILLA",
+    "price": 0.99,
+    "unit": "g",
+    "unit_count": 400.0,
+    "package": "400g/ balenie",
+    "tags": [
+      "bio",
+      "organické"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Franz Josef losos filety",
+    "generic_name": "losos filety",
+    "brand": "Franz Josef",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 110.0,
+    "package": "2 druhy/ balenie",
+    "tags": [
+      "ryby a morské plody"
+    ],
+    "category": "ryby a morské plody",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "BILLA biela fazula",
+    "generic_name": "fazula",
+    "brand": "BILLA",
+    "price": 0.89,
+    "unit": "g",
+    "unit_count": 580.0,
+    "package": "580g/ balenie",
+    "tags": [
+      "bio",
+      "organické"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "BILLA cícer",
+    "generic_name": "cícer",
+    "brand": "BILLA",
+    "price": 1.09,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ balenie",
+    "tags": [
+      "bio",
+      "organické"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Pagáč so zníženým obsahom sacharidov",
+    "generic_name": "pagáč",
+    "price": 0.59,
+    "unit": "g",
+    "unit_count": 70.0,
+    "package": "70g/ kus",
+    "category": "pekárenské výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Chute Slovenska zemiaky",
+    "generic_name": "zemiaky",
+    "price": 1.29,
+    "unit": "kg",
+    "unit_count": 1.5,
+    "package": "1.5kg/ balenie",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Zemiaková žemľa špaldová",
+    "generic_name": "žemľa",
+    "price": 0.59,
+    "unit": "g",
+    "unit_count": 105.0,
+    "package": "105g/ kus",
+    "category": "pekárenské výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Natur farm brezový cukor krystal",
+    "generic_name": "cukor",
+    "price": 5.39,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ balenie",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Chlebík večerný",
+    "generic_name": "chlebík",
+    "price": 2.69,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ kus",
+    "category": "pekárenské výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Bebe dobré ráno",
+    "generic_name": "bebe",
+    "price": 0.49,
+    "unit": "g",
+    "unit_count": 50.0,
+    "package": "50g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Nominal cereálna kaša pšenová",
+    "generic_name": "kaša",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 300.0,
+    "package": "300g/ balenie",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Riceup flapjack",
+    "generic_name": "flapjack",
+    "price": 1.39,
+    "unit": "g",
+    "unit_count": 70.0,
+    "package": "70g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Franz Josef bio kokosový olej",
+    "generic_name": "kokosový olej",
+    "brand": "Franz Josef",
+    "price": 5.99,
+    "unit": "ml",
+    "unit_count": 500.0,
+    "package": "500 ml",
+    "tags": [
+      "bio",
+      "organické"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "BILLA arašidové maslo",
+    "generic_name": "arašidové maslo",
+    "brand": "BILLA",
+    "price": 2.59,
+    "unit": "g",
+    "unit_count": 350.0,
+    "package": "350 g",
+    "tags": [
+      "vegetariánske"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "BILLA Premium tekvicový olej",
+    "generic_name": "tekvicový olej",
+    "brand": "BILLA Premium",
+    "price": 6.99,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "package": "250 ml",
+    "tags": [
+      "bio",
+      "organické"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Dr. Ensa sézam",
+    "generic_name": "sézamové semienko",
+    "brand": "Dr. Ensa",
+    "price": 0.59,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100 g",
+    "tags": [
+      "bio",
+      "organické"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "SOS quinoa",
+    "generic_name": "quinoa",
+    "brand": "SOS",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ balenie",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Billa kuskus",
+    "generic_name": "kuskus",
+    "brand": "Billa",
+    "price": 1.49,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ balenie",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Chute Slovenska fliačky",
+    "generic_name": "fliačky",
+    "brand": "Chute Slovenska",
+    "price": 1.19,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ balenie",
+    "category": "pekárenské výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Mutti krájané paradajky",
+    "generic_name": "paradajky",
+    "brand": "Mutti",
+    "price": 1.79,
+    "unit": "g",
+    "unit_count": 400.0,
+    "package": "400g/ balenie",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Heinz kečup",
+    "generic_name": "kečup",
+    "brand": "Heinz",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 460.0,
+    "package": "460g/ balenie",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Chute Slovenska ovsené vločky",
+    "generic_name": "ovsené vločky",
+    "brand": "Chute Slovenska",
+    "price": 0.75,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ balenie",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Billa ryža basmati",
+    "generic_name": "ryža basmati",
+    "brand": "Billa",
+    "price": 1.69,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ balenie",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "BILLA skyr natur",
+    "generic_name": "skyr",
+    "price": 1.49,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ kus",
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Medas med kvetový",
+    "generic_name": "med",
+    "price": 3.99,
+    "unit": "g",
+    "unit_count": 900.0,
+    "package": "900g/ kus",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Fit ryzová kaša jahoda",
+    "generic_name": "ryzová kaša",
+    "price": 0.69,
+    "unit": "g",
+    "unit_count": 60.0,
+    "package": "60g/ kus",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Dr. Oetker ryzová kaša",
+    "generic_name": "ryzová kaša",
+    "price": 0.69,
+    "unit": "g",
+    "unit_count": 50.0,
+    "package": "50g/ kus",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Emco Super Mysli",
+    "generic_name": "mysli",
+    "price": 3.99,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ kus",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Milko tvaroh odtučnený",
+    "brand": "Milko",
+    "price": 0.99,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ balenie",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Sabi jogurt biely",
+    "brand": "Sabi",
+    "price": 0.75,
+    "unit": "g",
+    "unit_count": 150.0,
+    "package": "150g/ balenie",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Mäspoma bio cesnak granulovaný",
+    "brand": "Mäspoma",
+    "price": 0.69,
+    "unit": "g",
+    "unit_count": 15.0,
+    "package": "15g/ balenie",
+    "tags": [
+      "bio",
+      "organické"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Billa Bio kokosové mlieko",
+    "generic_name": "kokosové mlieko",
+    "brand": "Billa Bio",
+    "price": 2.99,
+    "unit": "ml",
+    "unit_count": 400.0,
+    "package": "400ml/ balenie",
+    "tags": [
+      "bezlaktózové",
+      "bio"
+    ],
+    "category": "bezmliečne",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Alpro vanilkový nápoj",
+    "generic_name": "vanilkový nápoj",
+    "brand": "Alpro",
+    "price": 1.15,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "package": "250ml/ balenie",
+    "tags": [
+      "bezlaktózové"
+    ],
+    "category": "bezmliečne",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Alpro čokoládový nápoj",
+    "generic_name": "čokoládový nápoj",
+    "brand": "Alpro",
+    "price": 1.15,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "package": "250ml/ balenie",
+    "tags": [
+      "bezlaktózové"
+    ],
+    "category": "bezmliečne",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Tina chia semienka",
+    "generic_name": "chia semienka",
+    "price": 1.79,
+    "unit": "g",
+    "unit_count": 150.0,
+    "package": "150g/ balenie",
+    "tags": [
+      "bio",
+      "organické"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Nice bites jablkové lupienky sušené",
+    "generic_name": "jablkové lupienky",
+    "price": 0.99,
+    "unit": "g",
+    "unit_count": 40.0,
+    "package": "40g/ balenie",
+    "tags": [
+      "bez pridaného cukru",
+      "bio",
+      "organické"
+    ],
+    "category": "sladkosti a snacky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Franz Josef olivy",
+    "generic_name": "olivy",
+    "price": 1.59,
+    "unit": "ml",
+    "unit_count": 314.0,
+    "package": "314ml/ kus",
+    "tags": [
+      "bio",
+      "organické"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Tekov syr Delakto neúdený blok",
+    "generic_name": "syr",
+    "brand": "Tekov",
+    "price": 3.59,
+    "unit": "kg",
+    "unit_count": 0.2,
+    "package": "200g/ balenie",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Mini Babybel Protein",
+    "generic_name": "syr",
+    "brand": "Babybel",
+    "price": 2.19,
+    "unit": "kg",
+    "unit_count": 0.1,
+    "package": "100g/ balenie",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Chopok saláma",
+    "generic_name": "saláma",
+    "brand": "Chopok",
+    "price": 1.29,
+    "unit": "kg",
+    "unit_count": 0.1,
+    "package": "100g/ kus",
+    "tags": [
+      "mäso"
+    ],
+    "category": "mäso",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Bob snail malinová rolka",
+    "generic_name": "malinová rolka",
+    "brand": "Bob snail",
+    "price": 1.19,
+    "original_price": 39.67,
+    "unit": "g",
+    "unit_count": 30.0,
+    "package": "30g/ kus",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Naše Bio detská výživa",
+    "generic_name": "dojčenská výživa",
+    "brand": "Billa Bio",
+    "price": 0.99,
+    "unit": "g",
+    "unit_count": 190.0,
+    "package": "190g/ balenie",
+    "tags": [
+      "bio",
+      "organické"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Billa Bio Organic Butter",
+    "generic_name": "maslo",
+    "brand": "Billa Bio",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 125.0,
+    "package": "125g/ balenie",
+    "tags": [
+      "bio",
+      "organické",
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Billa Bio Yoghurt Drink Strawberry-Mint",
+    "generic_name": "jogurtový nápoj",
+    "brand": "Billa Bio",
+    "price": 0.79,
+    "unit": "g",
+    "unit_count": 230.0,
+    "package": "230g/ balenie",
+    "tags": [
+      "bio",
+      "organické",
+      "mliečne"
+    ],
+    "category": "nápoje",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Billa Bio Organic Sweet Corn",
+    "generic_name": "kukurica",
+    "brand": "Billa Bio",
+    "price": 1.69,
+    "unit": "g",
+    "unit_count": 340.0,
+    "package": "340g/ balenie",
+    "tags": [
+      "bio",
+      "organické"
+    ],
+    "category": "ovocie a zelenina",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Billa Bio Babiččina šálka kávovina",
+    "generic_name": "kávový prášok",
+    "brand": "Billa Bio",
+    "price": 2.99,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ balenie",
+    "tags": [
+      "bio",
+      "organické"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Billa Bio jablečný ocot 5%",
+    "generic_name": "ocot",
+    "brand": "Billa Bio",
+    "price": 1.79,
+    "unit": "ml",
+    "unit_count": 500.0,
+    "package": "500ml/ flaša",
+    "tags": [
+      "bio",
+      "organické"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Lunter Tofu",
+    "generic_name": "tofu",
+    "brand": "Lunter",
+    "price": 0.95,
+    "unit": "g",
+    "unit_count": 180.0,
+    "tags": [
+      "vegánske"
+    ],
+    "category": "vegetariánske a vegánske",
+    "package": "180g/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Zott Pure Joy",
+    "generic_name": "rastlinná alternativa",
+    "brand": "Zott",
+    "price": 0.99,
+    "unit": "g",
+    "unit_count": 140.0,
+    "tags": [
+      "vegánske"
+    ],
+    "category": "mliečne výrobky",
+    "package": "140g/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Lunter nátierka maxi",
+    "generic_name": "nátierka",
+    "brand": "Lunter",
+    "price": 0.89,
+    "unit": "g",
+    "unit_count": 120.0,
+    "category": "vegetariánske a vegánske",
+    "package": "120g/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Vici vegan gyoza",
+    "generic_name": "gyoza",
+    "brand": "Vici",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 300.0,
+    "tags": [
+      "vegánske"
+    ],
+    "category": "vegetariánske a vegánske",
+    "package": "300g/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Nutella plant based",
+    "generic_name": "nutella",
+    "brand": "Nutella",
+    "price": 4.99,
+    "unit": "g",
+    "unit_count": 350.0,
+    "category": "sladkosti a snacky",
+    "package": "350g/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Billa ready hummus",
+    "generic_name": "hummus",
+    "brand": "Billa",
+    "price": 1.35,
+    "unit": "g",
+    "unit_count": 160.0,
+    "tags": [
+      "vegánske"
+    ],
+    "category": "vegetariánske a vegánske",
+    "package": "160g/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Don Pepe bezlepkové jahodové knedličky",
+    "generic_name": "jahodové knedličky",
+    "brand": "Don Pepe",
+    "price": 3.29,
+    "unit": "g",
+    "unit_count": 600.0,
+    "package": "600g/ balenie",
+    "tags": [
+      "bezlepkové"
+    ],
+    "category": "sladkosti a snacky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Schär pizza base",
+    "generic_name": "pizza base",
+    "brand": "Schär",
+    "price": 3.99,
+    "unit": "g",
+    "unit_count": 300.0,
+    "package": "300g/ balenie",
+    "tags": [
+      "bezlepkové"
+    ],
+    "category": "pekárenské výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Schär Pain campagnard bezlepkový",
+    "generic_name": "chlieb",
+    "brand": "Schär",
+    "price": 3.39,
+    "unit": "g",
+    "unit_count": 240.0,
+    "package": "240g/ kus",
+    "tags": [
+      "bezlepkové"
+    ],
+    "category": "pekárenské výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Barilla gluten free cestoviny",
+    "generic_name": "cestoviny",
+    "brand": "Barilla",
+    "price": 3.49,
+    "unit": "g",
+    "unit_count": 400.0,
+    "package": "400g/ balenie",
+    "tags": [
+      "bezlepkové"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Natur farm kokosový cukor",
+    "generic_name": "cukor",
+    "brand": "Natur farm",
+    "price": 2.99,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ balenie",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Clever cukríky",
+    "generic_name": "cukríky",
+    "brand": "Clever",
+    "price": 1.79,
+    "unit": "g",
+    "unit_count": 300.0,
+    "package": "300g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Ristorante salame gluten free",
+    "generic_name": "salame",
+    "brand": "Ristorante",
+    "price": 3.99,
+    "unit": "g",
+    "unit_count": 315.0,
+    "package": "315g/ balenie",
+    "tags": [
+      "bezlepkové"
+    ],
+    "category": "mäso",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Rio H2O",
+    "generic_name": "ochutená pramenitá voda",
+    "brand": "Rio H20",
+    "price": 0.99,
+    "unit": "l",
+    "unit_count": 0.4,
+    "package": "0.4l/ balenie",
+    "category": "nápoje",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Vitamin Well",
+    "generic_name": "funkčný nápoj",
+    "price": 1.99,
+    "unit": "l",
+    "unit_count": 0.5,
+    "package": "0.5l/ balenie",
+    "category": "nápoje",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Pfanner kokosová voda",
+    "generic_name": "kokosová voda",
+    "price": 1.99,
+    "unit": "l",
+    "unit_count": 0.5,
+    "package": "0.5l/ balenie",
+    "category": "nápoje",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Natura",
+    "generic_name": "minerálna voda",
+    "price": 0.69,
+    "unit": "l",
+    "unit_count": 1.5,
+    "package": "1.5l/ balenie",
+    "category": "nápoje",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Natura",
+    "generic_name": "ochutená minerálna voda",
+    "price": 0.99,
+    "unit": "l",
+    "unit_count": 1.5,
+    "package": "1.5l/ balenie",
+    "category": "nápoje",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Mattoni Essence",
+    "generic_name": "ochutená minerálna voda",
+    "price": 0.89,
+    "unit": "l",
+    "unit_count": 0.75,
+    "package": "0.75l/ balenie",
+    "category": "nápoje",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Pfanner Pure Tea BIO",
+    "generic_name": "zelený biely čaj",
+    "price": 1.49,
+    "unit": "l",
+    "unit_count": 1.0,
+    "package": "1l/ balenie",
+    "category": "nápoje",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Nocco",
+    "generic_name": "funkčný nápoj",
+    "price": 2.59,
+    "unit": "ml",
+    "unit_count": 330.0,
+    "package": "330ml/ plechovka",
+    "category": "nápoje",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Powerade",
+    "generic_name": "izotonický športový nápoj",
+    "price": 1.59,
+    "unit": "l",
+    "unit_count": 0.33,
+    "package": "0.33l/ plechovka",
+    "category": "nápoje",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Fľaša tritánová",
+    "unit_count": 1000.0,
+    "unit": "ml",
+    "price": 7.99,
+    "package": "1000ml/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Súprava plastových dôz",
+    "unit_count": 370.0,
+    "unit": "ml",
+    "price": 1.99,
+    "package": "370ml/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Súprava plastových dôz",
+    "unit_count": 600.0,
+    "unit": "ml",
+    "price": 1.99,
+    "package": "600ml/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Odšťavovač sklenený",
+    "unit_count": 300.0,
+    "unit": "ml",
+    "price": 1.99,
+    "package": "300ml/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Súprava plastových dôz",
+    "unit_count": 0.51,
+    "unit": "kus",
+    "price": 1.99,
+    "package": "0.51kus/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Osobná váha Weinberger",
+    "price": 9.99,
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Dóza na jogurt/šalát s príborom",
+    "unit_count": 700.0,
+    "unit": "ml",
+    "price": 2.99,
+    "package": "700ml/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Herbex pestrec a máta",
+    "generic_name": "bylinný čaj",
+    "brand": "Herbex",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 60.0,
+    "package": "60g/ balenie",
+    "category": "nápoje",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Popradský zelený čaj",
+    "generic_name": "zelený čaj",
+    "brand": "Popradský",
+    "price": 1.39,
+    "unit": "g",
+    "unit_count": 35.0,
+    "package": "35g/ balenie",
+    "category": "nápoje",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Teekanne žaludok a črevo",
+    "generic_name": "bylinný čaj",
+    "brand": "Teekanne",
+    "price": 1.59,
+    "unit": "g",
+    "unit_count": 20.0,
+    "package": "20g/ balenie",
+    "category": "nápoje",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Caro Originál",
+    "generic_name": "cereálny nápoj",
+    "brand": "Nestlé Caro",
+    "price": 4.29,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ balenie",
+    "category": "nápoje",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Tchibo Gold Selection",
+    "generic_name": "zrnková káva",
+    "brand": "Tchibo",
+    "price": 23.99,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "1kg/ balenie",
+    "category": "nápoje",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Fytopharma slnečné ráno",
+    "generic_name": "bylinný čaj",
+    "brand": "Fytopharma",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 30.0,
+    "package": "30g/ balenie",
+    "category": "nápoje",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  },
+  {
+    "name": "Rio Ginger Shot",
+    "generic_name": "lisovaná šťava",
+    "brand": "Rio",
+    "price": 1.19,
+    "unit": "ml",
+    "unit_count": 180.0,
+    "package": "180ml/ balenie",
+    "category": "nápoje",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-27"
+  }
+]

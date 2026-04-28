@@ -1,0 +1,113 @@
+[
+  {
+    "name": "Gazdovská šunka",
+    "generic_name": "šunka",
+    "price": 0.99,
+    "original_price": 1.25,
+    "unit": "g",
+    "unit_count": 100.0,
+    "discount_description": "-26%",
+    "category": "mäso",
+    "package": "100g/ kus",
+    "start_date": "2026-03-04",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Bravčové karé XXL Kukkonia",
+    "generic_name": "bravčové karé",
+    "price": 4.99,
+    "original_price": 7.69,
+    "unit": "kg",
+    "discount_description": "-35%",
+    "category": "mäso",
+    "start_date": "2026-03-04",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Lipánek Maxi tvarohovosmotanový krém",
+    "generic_name": "tvarohový smotanový krém",
+    "brand": "Madeta",
+    "price": 0.69,
+    "original_price": 1.15,
+    "unit_count": 130.0,
+    "discount_description": "-40%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2026-03-04",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Lavazza Crema e Gusto Classico",
+    "generic_name": "mletá káva",
+    "brand": "Lavazza",
+    "price": 5.99,
+    "original_price": 8.2,
+    "unit_count": 250.0,
+    "package": "1 balenie",
+    "discount_description": "-27%",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-03-04",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Vína z Vulcanesti Blanco, Rozato, Negru",
+    "generic_name": "víno",
+    "price": 3.49,
+    "original_price": 4.48,
+    "unit": "L",
+    "unit_count": 0.75,
+    "package": "0.75 L / balenie",
+    "discount_description": "-22%",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2026-03-04",
+    "end_date": "2026-03-10"
+  },
+  {
+    "name": "Tradičné ríbezléové víno",
+    "generic_name": "víno",
+    "brand": "TRADICNE",
+    "price": 3.49,
+    "original_price": 5.1,
+    "unit_count": 750.0,
+    "package": "750 ml/ balenie",
+    "discount_description": "-32%",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "nápoje",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-7"
+  },
+  {
+    "name": "Tesori d'Oriente koncentrát na mycie nádobia",
+    "price": 4.99,
+    "unit_count": 750.0,
+    "start_date": "2026-03-04",
+    "end_date": "2026-03-10"
+  },
+  {
+    "brand": "Persil",
+    "name": "Color Deep Clean",
+    "generic_name": "práčik",
+    "price": 13.89,
+    "original_price": 24.69,
+    "unit_count": 750.0,
+    "start_date": "2026-03-04",
+    "end_date": "2026-03-10"
+  },
+  {
+    "brand": "Tento Finest",
+    "name": "Papierové utieračiky",
+    "generic_name": "papierové utieračky",
+    "price": 3.49,
+    "original_price": 6.28,
+    "unit_count": 150.0,
+    "start_date": "2026-03-04",
+    "end_date": "2026-03-10"
+  }
+]

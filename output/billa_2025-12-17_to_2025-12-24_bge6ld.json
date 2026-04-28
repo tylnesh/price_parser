@@ -1,0 +1,1217 @@
+[
+  {
+    "name": "BILLA Premium prosecco Superiore D.O.C.G. Extra dry",
+    "brand": "BILLA Premium",
+    "price": 9.99,
+    "unit": "L",
+    "unit_count": 0.75,
+    "package": "0.75L / balenie",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2023-12-17",
+    "end_date": "2023-12-24"
+  },
+  {
+    "name": "BILLA Premium tiramisu",
+    "brand": "BILLA Premium",
+    "price": 4.39,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g / balenie",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "category": "sladkosti a snacky",
+    "start_date": "2023-12-17",
+    "end_date": "2023-12-24"
+  },
+  {
+    "name": "BILLA Premium fuet ibérico",
+    "brand": "BILLA Premium",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 150.0,
+    "package": "150g / balenie",
+    "tags": [
+      "mäso"
+    ],
+    "category": "mäso",
+    "start_date": "2023-12-17",
+    "end_date": "2023-12-24"
+  },
+  {
+    "name": "BILLA Premium burrata",
+    "brand": "BILLA Premium",
+    "price": 1.49,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g / balenie",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2023-12-17",
+    "end_date": "2023-12-24"
+  },
+  {
+    "name": "BILLA Premium saláma s hľuzovkami",
+    "brand": "BILLA Premium",
+    "price": 2.59,
+    "unit": "g",
+    "unit_count": 80.0,
+    "package": "80g/ kus",
+    "category": "mäso",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium prosciutto crudo s hľuzovkami",
+    "brand": "BILLA Premium",
+    "price": 2.99,
+    "unit": "g",
+    "unit_count": 90.0,
+    "package": "90g/ kus",
+    "category": "mäso",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium mini jamón serrano",
+    "brand": "BILLA Premium",
+    "price": 19.49,
+    "unit": "g",
+    "unit_count": 900.0,
+    "package": "900g/ kus",
+    "category": "mäso",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium madarska saláma",
+    "brand": "BILLA Premium",
+    "price": 8.29,
+    "unit": "g",
+    "unit_count": 380.0,
+    "package": "380g/ kus",
+    "category": "mäso",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium prosciutto cotto s hľuzovkou",
+    "brand": "BILLA Premium",
+    "price": 2.99,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "category": "mäso",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium prosciutto di Parma",
+    "brand": "BILLA Premium",
+    "price": 4.69,
+    "unit": "g",
+    "unit_count": 90.0,
+    "package": "90g/ kus",
+    "category": "mäso",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium Duroc Bacon",
+    "brand": "BILLA Premium",
+    "price": 2.19,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "category": "mäso",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium šunka s brusnicami",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "category": "mäso",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium Speck Alto Adige",
+    "price": 3.09,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "category": "mäso",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium fuet ibérico",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 150.0,
+    "package": "150g/ kus",
+    "category": "mäso",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium chorizo ibérico",
+    "price": 2.19,
+    "unit": "g",
+    "unit_count": 80.0,
+    "package": "80g/ kus",
+    "category": "mäso",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium Guanciale",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "category": "mäso",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium antipasto salami Trio",
+    "price": 2.79,
+    "unit": "g",
+    "unit_count": 120.0,
+    "package": "120g/ kus",
+    "category": "mäso",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium antipasto misto",
+    "price": 4.99,
+    "unit": "g",
+    "unit_count": 150.0,
+    "package": "150g/ kus",
+    "category": "mäso",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium jamón ibérico",
+    "price": 4.49,
+    "unit": "g",
+    "unit_count": 70.0,
+    "package": "70g/ kus",
+    "category": "mäso",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium hovädzí steak zo sviečkovej",
+    "price": 3.85,
+    "unit": "g",
+    "unit_count": 100.0,
+    "category": "mäso",
+    "package": "100g/ kus",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium losos údený studeným dymom",
+    "price": 3.49,
+    "unit": "g",
+    "unit_count": 100.0,
+    "category": "ryby a morské plody",
+    "package": "100g/ kus",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium antipasto fume",
+    "price": 3.19,
+    "unit": "g",
+    "unit_count": 120.0,
+    "category": "sladkosti a snacky",
+    "package": "120g/ kus",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium carpaccio s parmezánom a olivovým olejom",
+    "price": 4.79,
+    "unit": "g",
+    "unit_count": 100.0,
+    "category": "mäso",
+    "package": "100g/ kus",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium filety z aljašskej tresky, sviečková",
+    "price": 4.99,
+    "unit": "g",
+    "unit_count": 600.0,
+    "category": "ryby a morské plody",
+    "package": "600g/ kus",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium torta",
+    "generic_name": "torta",
+    "brand": "BILLA Premium",
+    "price": 5.59,
+    "unit": "g",
+    "unit_count": 600.0,
+    "package": "600g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium rezy",
+    "generic_name": "rezy",
+    "brand": "BILLA Premium",
+    "price": 1.99,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "1kg/ balenie",
+    "category": "mrazené potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium makrónky",
+    "generic_name": "makrónky",
+    "brand": "BILLA Premium",
+    "price": 2.99,
+    "unit": "g",
+    "unit_count": 74.0,
+    "package": "12 kusov/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium zmrzlina",
+    "generic_name": "zmrzlina",
+    "brand": "BILLA Premium",
+    "price": 3.99,
+    "unit": "ml",
+    "unit_count": 500.0,
+    "package": "500ml/ balenie",
+    "category": "mrazené potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium lávový koláč",
+    "generic_name": "lávový koláč",
+    "brand": "BILLA Premium",
+    "price": 2.59,
+    "unit": "g",
+    "unit_count": 90.0,
+    "package": "2 kusy/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium mochi",
+    "generic_name": "mochi",
+    "brand": "BILLA Premium",
+    "price": 2.79,
+    "unit": "g",
+    "unit_count": 35.0,
+    "package": "4 kusy/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium mochi coconut",
+    "generic_name": "mochi coconut",
+    "brand": "BILLA Premium",
+    "price": 0.59,
+    "unit": "g",
+    "unit_count": 50.0,
+    "package": "50g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium dezerty z francúzska",
+    "generic_name": "dezerty z francúzska",
+    "brand": "BILLA Premium",
+    "price": 3.39,
+    "unit": "g",
+    "unit_count": 90.0,
+    "package": "2 kusy/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium Vintage Cheddar Cheese",
+    "brand": "BILLA Premium",
+    "price": 4.29,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ kus",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium provensalské krevety s cesnakom a petržlenom",
+    "brand": "BILLA Premium",
+    "price": 4.99,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ balenie",
+    "category": "ryby a morské plody",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium Gingerbread dessert",
+    "price": 1.79,
+    "unit": "g",
+    "unit_count": 95.0,
+    "package": "1kg = 18.84 €",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium crème brulée",
+    "price": 2.59,
+    "unit": "g",
+    "unit_count": 90.0,
+    "package": "2 x 90g, 1kg = 14.389 €",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium chokoládový dezert",
+    "price": 1.39,
+    "unit": "g",
+    "unit_count": 60.0,
+    "package": "1kg = 23.167 €",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium panna cotta karamel",
+    "price": 1.79,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "2 x 100g, 1kg = 8.950 €",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium tiramisu",
+    "price": 1.69,
+    "unit": "g",
+    "unit_count": 90.0,
+    "package": "2 x 90g, 1kg = 9.389 €",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium mini Bavarios mix",
+    "price": 4.29,
+    "unit": "g",
+    "unit_count": 180.0,
+    "package": "1kg = 23.833 €",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium ovčí jogurt",
+    "price": 0.89,
+    "unit": "g",
+    "unit_count": 150.0,
+    "package": "1kg = 5.933 €",
+    "category": "mliečne výrobky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium rizoto s cherry rajčinami",
+    "price": 4.49,
+    "unit": "g",
+    "unit_count": 300.0,
+    "package": "1kg = 14.967 €",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium truffles",
+    "price": 2.69,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium horká čokoláda",
+    "price": 2.29,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium pistáciové guľčiky",
+    "price": 5.49,
+    "unit": "g",
+    "unit_count": 140.0,
+    "package": "140g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium pralinky z mliečnej čokolády",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 113.0,
+    "package": "113g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Billa Premium mandľové sušenky",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 175.0,
+    "package": "175g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Billa Premium Almond Biscuits",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 110.0,
+    "package": "110g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Billa Premium maslové vafle",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 110.0,
+    "package": "110g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Billa Premium Butter Waffle",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 175.0,
+    "package": "175g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Billa Premium Butter Crisps",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 125.0,
+    "package": "125g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Billa Premium maslové sušenky máčané",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Billa Premium Butter Biscuits",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Billa Premium raw koláčiky",
+    "price": 2.79,
+    "unit": "g",
+    "unit_count": 80.0,
+    "package": "80g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium olivový olej extra panenský",
+    "generic_name": "olivový olej",
+    "brand": "BILLA Premium",
+    "price": 11.99,
+    "unit": "ml",
+    "unit_count": 500.0,
+    "package": "500 ml/ balenie",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium tekvicový olej",
+    "generic_name": "tekvicový olej",
+    "brand": "BILLA Premium",
+    "price": 6.99,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "package": "250 ml/ balenie",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium špagety",
+    "generic_name": "špagety",
+    "brand": "BILLA Premium",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500 g/ balenie",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium fusilli",
+    "generic_name": "fusilli",
+    "brand": "BILLA Premium",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500 g/ balenie",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium tagliatelle s hribami",
+    "generic_name": "tagliatelle",
+    "brand": "BILLA Premium",
+    "price": 3.19,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250 g/ balenie",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium lumache",
+    "generic_name": "lumache",
+    "brand": "BILLA Premium",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500 g/ balenie",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium tortiglioni",
+    "generic_name": "tortiglioni",
+    "brand": "BILLA Premium",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500 g/ balenie",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium avokádový olej",
+    "generic_name": "avokádový olej",
+    "brand": "BILLA Premium",
+    "price": 6.19,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "package": "250 ml/ balenie",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium pomaranče zo Seville ovocná nátierka",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ balenie",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium figový džem",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ balenie",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium jahodová guava",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ balenie",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium lieskovooriešková nátierka",
+    "price": 4.99,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ balenie",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium pistáciová nátierka",
+    "price": 5.99,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ balenie",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium chokoládový krém so slaným karamelom",
+    "price": 3.29,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ balenie",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium omáčka s pečeným cesnakom",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 280.0,
+    "package": "280g/ balenie",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium omáčka s hľuzovkou",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 280.0,
+    "package": "280g/ balenie",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium Alfredo so 4 syrmi",
+    "price": 2.99,
+    "unit": "g",
+    "unit_count": 270.0,
+    "package": "270g/ balenie",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium nátierka tuniaková, homárová",
+    "price": 2.59,
+    "unit": "g",
+    "unit_count": 115.0,
+    "package": "115g/ balenie",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium ochutené pesto",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 130.0,
+    "package": "130g/ balenie",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium paradajková omáčka z cherry paradajok",
+    "price": 2.15,
+    "unit": "g",
+    "unit_count": 330.0,
+    "package": "330g/ balenie",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium medová horčica",
+    "price": 2.19,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ balenie",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium tuniakové filety",
+    "price": 6.49,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ balenie",
+    "category": "ryby a morské plody",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium dijonská horčica",
+    "price": 1.95,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ balenie",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium čierne korenie, korenie mix",
+    "price": 2.09,
+    "unit": "g",
+    "unit_count": 40.0,
+    "package": "40g/ balenie",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium údené mušle v oleji",
+    "price": 2.79,
+    "unit": "g",
+    "unit_count": 120.0,
+    "package": "120g/ balenie",
+    "category": "ryby a morské plody",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium údený osos v oleji",
+    "price": 3.19,
+    "unit": "g",
+    "unit_count": 120.0,
+    "package": "120g/ balenie",
+    "category": "ryby a morské plody",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium ančovičky v olivovom oleji",
+    "price": 2.79,
+    "unit": "g",
+    "unit_count": 70.0,
+    "package": "70g/ balenie",
+    "category": "ryby a morské plody",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium polené slivky v sirupe so škoricou",
+    "price": 2.45,
+    "unit": "g",
+    "unit_count": 580.0,
+    "package": "280 g",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium polené hrušky v sirupe s vanilkou",
+    "price": 3.29,
+    "unit": "g",
+    "unit_count": 540.0,
+    "package": "300 g",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium polené broskyne v sirupe so škoricou",
+    "price": 3.19,
+    "unit": "g",
+    "unit_count": 880.0,
+    "package": "330 g",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium čereše v likéri Tsipouro",
+    "price": 4.49,
+    "unit": "g",
+    "unit_count": 550.0,
+    "package": "1 kg",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium granola",
+    "price": 2.99,
+    "unit": "g",
+    "unit_count": 300.0,
+    "package": "2 druhy",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium panettone mini",
+    "price": 4.99,
+    "unit": "g",
+    "unit_count": 400.0,
+    "package": "1 kg",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium aceto balsamico di Modena IPD",
+    "price": 3.49,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "package": "1 l = 13,96 €",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium olivový olej",
+    "price": 5.19,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "package": "1 l = 20,76 €",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium hlúzovkový olivový olej",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "3 druhy",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium aceto balsamico di Modena IGP",
+    "brand": "BILLA Premium",
+    "price": 3.49,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "package": "250 ml",
+    "discount_description": "Do vyprédania zásob",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium condimento bianco",
+    "brand": "BILLA Premium",
+    "price": 3.49,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "package": "250 ml",
+    "discount_description": "Do vyprédania zásob",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium glazé s fígovou príchutou",
+    "brand": "BILLA Premium",
+    "price": 1.99,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "package": "250 ml",
+    "discount_description": "Do vyprédania zásob",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium glazé classic",
+    "brand": "BILLA Premium",
+    "price": 1.99,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "package": "250 ml",
+    "discount_description": "Do vyprédania zásob",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium čierne olivy kalamata",
+    "brand": "BILLA Premium",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 370.0,
+    "package": "370/200 g",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium čierne olivy leccino bez kôstky",
+    "brand": "BILLA Premium",
+    "price": 2.99,
+    "unit": "g",
+    "unit_count": 300.0,
+    "package": "300/160 g",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium zelené olivy s madlami",
+    "brand": "BILLA Premium",
+    "price": 4.19,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250 ml",
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Pilsner Urquell Čiapka",
+    "brand": "Pilsner Urquell",
+    "price": 9.99,
+    "unit": "l",
+    "unit_count": 0.5,
+    "package": "7x0.5l",
+    "tags": [
+      "alkohol"
+    ],
+    "start_date": "2023-11-15",
+    "end_date": "2023-11-11"
+  },
+  {
+    "name": "Gillette Mach 3 & Old Spice Set",
+    "brand": "Gillette",
+    "price": 12.99,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "package": "1x balenie",
+    "tags": [
+      "osobná starostlivosť"
+    ],
+    "start_date": "2023-11-15",
+    "end_date": "2023-11-11"
+  },
+  {
+    "name": "Anjel's LED",
+    "price": 14.99,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "1x kus",
+    "start_date": "2023-11-15",
+    "end_date": "2023-11-11"
+  },
+  {
+    "name": "BILLA Premium GE Limoncello",
+    "brand": "BILLA Premium",
+    "price": 6.99,
+    "unit": "l",
+    "unit_count": 0.5,
+    "price_per_unit": 13.98,
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "package": "0.5l/ kus",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium GE Blanc de blanc",
+    "brand": "BILLA Premium",
+    "price": 6.99,
+    "unit": "l",
+    "unit_count": 0.75,
+    "price_per_unit": 9.32,
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "package": "0.75l/ kus",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium prosecco D.O.C",
+    "brand": "BILLA Premium",
+    "price": 9.99,
+    "unit": "l",
+    "unit_count": 0.75,
+    "price_per_unit": 13.32,
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "package": "0.75l/ kus",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium Grande Alberone rosé extra dry",
+    "brand": "BILLA Premium",
+    "price": 7.99,
+    "unit": "l",
+    "unit_count": 0.75,
+    "price_per_unit": 10.65,
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "package": "0.75l/ kus",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium Grande Alberone nealkoholické 0%",
+    "brand": "BILLA Premium",
+    "price": 7.99,
+    "unit": "l",
+    "unit_count": 0.75,
+    "price_per_unit": 10.65,
+    "tags": [
+      "nealkoholicke"
+    ],
+    "category": "nápoje",
+    "package": "0.75l/ kus",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium Pinot Grigio",
+    "brand": "BILLA Premium",
+    "price": 5.99,
+    "unit": "l",
+    "unit_count": 0.75,
+    "price_per_unit": 7.987,
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "package": "0.75l/ kus",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "BILLA Premium Appassimento",
+    "brand": "BILLA Premium",
+    "price": 5.99,
+    "unit": "l",
+    "unit_count": 0.75,
+    "price_per_unit": 7.987,
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "package": "0.75l/ kus",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-24"
+  },
+  {
+    "name": "Jack Daniels + Coca Cola",
+    "generic_name": "alkoholický koktail",
+    "brand": "Jack Daniels",
+    "price": 10.99,
+    "unit": "ml",
+    "unit_count": 330.0,
+    "package": "330ml/ balenie",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2023-12-10",
+    "end_date": "2023-12-31"
+  },
+  {
+    "name": "Kvaskový orechový chlieb",
+    "generic_name": "chlieb",
+    "price": 2.75,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ kus",
+    "category": "pekárenské výrobky",
+    "start_date": "2023-12-10",
+    "end_date": "2023-12-31"
+  },
+  {
+    "name": "Leerdammer Original Maxi",
+    "generic_name": "syr",
+    "price": 2.99,
+    "unit": "g",
+    "unit_count": 140.0,
+    "package": "140g/ kus",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2023-12-10",
+    "end_date": "2023-12-31"
+  },
+  {
+    "name": "Domáca udená krkovička",
+    "generic_name": "krkovička",
+    "price": 1.29,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "category": "mäso",
+    "start_date": "2023-12-10",
+    "end_date": "2023-12-31"
+  }
+]

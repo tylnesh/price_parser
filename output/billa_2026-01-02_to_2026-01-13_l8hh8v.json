@@ -1,0 +1,387 @@
+[
+  {
+    "name": "Chute Slovenska jablká Evelína",
+    "generic_name": "jablká",
+    "price": 1.79,
+    "original_price": 2.79,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-35%",
+    "billa_bonus_only": true,
+    "category": "ovocie a zelenina",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13",
+    "package": "1kg/ kus"
+  },
+  {
+    "name": "Michalovská tehla blok",
+    "generic_name": "tehla blok",
+    "price": 1.39,
+    "original_price": 1.79,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "discount_description": "-22%",
+    "billa_bonus_only": true,
+    "category": "pekárenské výrobky",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Chute Slovenska kapusta biela",
+    "generic_name": "kapusta biela",
+    "price": 0.79,
+    "original_price": 0.99,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-20%",
+    "billa_bonus_only": true,
+    "category": "ovocie a zelenina",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07",
+    "package": "1kg/ kus"
+  },
+  {
+    "name": "Zabíjačková paštéta",
+    "price": 2.99,
+    "unit": "g",
+    "unit_count": 220.0,
+    "package": "220g/ balenie",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Tlačenka s ciboulou",
+    "price": 1.49,
+    "original_price": 1.89,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ balenie",
+    "discount_description": "-21%",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Chute Slovenska v bravčové oškvarky a mast",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 140.0,
+    "package": "140g/ balenie",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "BILLA jarné závitky s kuracím mäsom/so zeleninou",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 400.0,
+    "package": "400g/ balenie",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Feliciana XL pizza",
+    "price": 2.99,
+    "unit": "kus",
+    "unit_count": 2.0,
+    "package": "2 druhy/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Porcie z filety tresky tmavej",
+    "price": 5.49,
+    "unit": "g",
+    "unit_count": 400.0,
+    "package": "400g/ balenie",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "BILLA ready tortelloni",
+    "price": 1.65,
+    "original_price": 1.95,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ balenie",
+    "discount_description": "-15%",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Kukuričné placky bezglutenové",
+    "price": 2.15,
+    "original_price": 2.69,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ balenie",
+    "discount_description": "-20%",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "BILLA parená knedľa",
+    "price": 1.59,
+    "original_price": 1.89,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ balenie",
+    "discount_description": "-15%",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Knäckebrot s tekvicovými semiačkami a syrom",
+    "price": 3.99,
+    "original_price": 4.69,
+    "unit": "g",
+    "unit_count": 180.0,
+    "package": "180g/ balenie",
+    "discount_description": "-14%",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Diplomatico Reserva Exclusiva",
+    "brand": "Diplomatico",
+    "price": 39.99,
+    "unit": "L",
+    "unit_count": 0.7,
+    "category": "alkoholické nápoje",
+    "tags": [
+      "alkohol"
+    ],
+    "package": "0.7L/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Pepsi Cola Zero",
+    "generic_name": "cola",
+    "brand": "Pepsi",
+    "price": 1.19,
+    "unit": "L",
+    "unit_count": 1.0,
+    "package": "1L/ flaša",
+    "discount_description": "+ záloh za flašu 0,15 €",
+    "billa_bonus_only": true,
+    "tags": [
+      "nealkoholicke"
+    ],
+    "category": "nápoje",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Müller mix jogurt",
+    "generic_name": "jogurt",
+    "brand": "Müller",
+    "price": 0.79,
+    "original_price": 0.99,
+    "unit": "g",
+    "unit_count": 130.0,
+    "discount_description": "-20%",
+    "billa_bonus_only": true,
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "package": "130g/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Palmolive sprchový gél",
+    "generic_name": "sprchový gél",
+    "brand": "Palmolive",
+    "price": 2.29,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "package": "250ml/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Blend-a-dent fixačný krém",
+    "generic_name": "fixačný krém",
+    "brand": "Blend-a-dent",
+    "price": 7.59,
+    "unit": "g",
+    "unit_count": 47.0,
+    "package": "47g/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Sanytol tekuté mydlo",
+    "generic_name": "tekuté mydlo",
+    "brand": "Sanytol",
+    "price": 2.49,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "package": "250ml/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Today kozmetické utierky",
+    "generic_name": "kozmetické utierky",
+    "brand": "Today",
+    "price": 1.19,
+    "unit": "kus",
+    "unit_count": 200.0,
+    "package": "200kus/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Vanish odstraňovač skvrn",
+    "generic_name": "odstraňovač skvrn",
+    "brand": "Vanish",
+    "price": 9.99,
+    "unit": "g",
+    "unit_count": 470.0,
+    "package": "470g/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Silan aviváž",
+    "generic_name": "aviváž",
+    "brand": "Silan",
+    "price": 3.39,
+    "unit": "ml",
+    "unit_count": 60.0,
+    "package": "60ml/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Sanytol dezinfekčný čistič",
+    "generic_name": "dezinfekčný čistič",
+    "brand": "Sanytol",
+    "price": 3.19,
+    "unit": "ml",
+    "unit_count": 500.0,
+    "package": "500ml/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "BILLA toaletný papier",
+    "generic_name": "toaletný papier",
+    "brand": "BILLA",
+    "price": 3.59,
+    "unit": "kus",
+    "unit_count": 8.0,
+    "package": "8kus/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Clever plienky",
+    "generic_name": "detské plienky",
+    "brand": "Clever",
+    "price": 1.69,
+    "unit": "kus",
+    "unit_count": 14.0,
+    "package": "14kus/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Dreamies pochúťky",
+    "generic_name": "pochúťky",
+    "brand": "Dreamies",
+    "price": 1.59,
+    "unit": "g",
+    "unit_count": 60.0,
+    "package": "60g/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Woolite gél na špecialné pranie",
+    "generic_name": "gél na špecialné pranie",
+    "brand": "Woolite",
+    "price": 8.49,
+    "unit": "l",
+    "unit_count": 2.7,
+    "package": "2.7l/ kus",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Lacnejšie",
+    "price": 1.6,
+    "original_price": 2.2,
+    "discount_description": "-28%",
+    "tags": [
+      "nový v Billa"
+    ],
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Super cena",
+    "price": 1.29,
+    "discount_description": "-37%",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-13"
+  },
+  {
+    "name": "Kuracie rezne Chute Slovenska",
+    "generic_name": "kuracie rezne",
+    "price": 7.29,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "category": "mäso",
+    "start_date": "2025-01-02",
+    "end_date": "2025-01-27",
+    "package": "1kg/ kus"
+  },
+  {
+    "name": "Chute SLOVENSKA Cervene maso",
+    "generic_name": "cervene maso",
+    "price": 0.65,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "category": "mäso",
+    "start_date": "2025-01-02",
+    "end_date": "2025-01-27",
+    "package": "1kg/ kus"
+  },
+  {
+    "name": "Nikola Preciosa Niva Klementovka",
+    "generic_name": "Klementovka",
+    "price": 1.29,
+    "unit": "L",
+    "unit_count": 0.75,
+    "category": "nápoje",
+    "start_date": "2025-01-02",
+    "end_date": "2025-01-27",
+    "package": "0.75L/ kus"
+  },
+  {
+    "name": "Franz Josef Extra Virgin",
+    "generic_name": "olivovy olej",
+    "price": 4.99,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "category": "trvanlivé potraviny",
+    "start_date": "2025-01-02",
+    "end_date": "2025-01-27",
+    "package": "250ml/ kus"
+  },
+  {
+    "name": "Len Maxi Viarcerna tycinka",
+    "generic_name": "tycinka",
+    "price": 0.65,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "category": "pekárenské výrobky",
+    "start_date": "2025-01-02",
+    "end_date": "2025-01-27",
+    "package": "1kus/ kus"
+  }
+]

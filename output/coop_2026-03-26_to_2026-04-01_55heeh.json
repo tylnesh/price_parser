@@ -1,0 +1,1141 @@
+[
+  {
+    "name": "Hrozno biele",
+    "generic_name": "hrozno",
+    "price": 1.99,
+    "original_price": 2.62,
+    "unit": "kg",
+    "unit_count": 500.0,
+    "package": "500g/ balenie",
+    "discount_description": "-24%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Banány",
+    "generic_name": "banány",
+    "price": 1.09,
+    "original_price": 1.68,
+    "unit": "kg",
+    "unit_count": 1000.0,
+    "package": "1kg/ kus",
+    "discount_description": "-36%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Uhorka šalátová",
+    "generic_name": "uhorka",
+    "price": 0.69,
+    "original_price": 1.28,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "1ks/ kus",
+    "discount_description": "-46%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Cibula žltá",
+    "generic_name": "cibula",
+    "price": 0.55,
+    "original_price": 0.97,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "1kg/ kus",
+    "discount_description": "-43%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Krúžok varených zemiakov",
+    "generic_name": "krúžok zemiakov",
+    "price": 1.15,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "1ks/ kus",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Slovenské zemiaky",
+    "generic_name": "zemiak",
+    "price": 0.89,
+    "original_price": 1.62,
+    "unit": "kg",
+    "unit_count": 2000.0,
+    "package": "2kg/ balenie",
+    "discount_description": "-45%",
+    "tags": [
+      "lokálne"
+    ],
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Slovenská mrkva",
+    "generic_name": "mrkva",
+    "price": 0.79,
+    "original_price": 1.2,
+    "unit": "kg",
+    "unit_count": 1000.0,
+    "package": "1kg/ balenie",
+    "discount_description": "-34%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Melón vodný červený",
+    "generic_name": "melón",
+    "price": 1.69,
+    "original_price": 2.09,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "19%",
+    "category": "ovocie a zelenina",
+    "package": "1kg/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Rama 2 druhy 400 g",
+    "generic_name": "máslo",
+    "brand": "Rama",
+    "price": 1.69,
+    "original_price": 4.23,
+    "unit": "g",
+    "unit_count": 400.0,
+    "package": "400g/ balenie",
+    "discount_description": "-51%",
+    "category": "mliečne výrobky",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Kuracie stehno dolné a horné chladené 1 kg",
+    "price": 3.19,
+    "original_price": 4.49,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "29%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Tvarôžky olomoucké malé",
+    "generic_name": "tvarôžky",
+    "brand": "AW",
+    "price": 1.39,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ balenie",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Tvaroh mäkký hrudkovitý",
+    "generic_name": "tvaroh",
+    "brand": "Coop",
+    "price": 1.19,
+    "original_price": 1.49,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ balenie",
+    "discount_description": "-20%",
+    "coop_club_only": false,
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Karpatský blok 45%",
+    "generic_name": "syr",
+    "price": 0.79,
+    "original_price": 0.99,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "discount_description": "-20%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Carte D'OR 2 druhy 825 ml",
+    "price": 4.29,
+    "unit": "ml",
+    "unit_count": 825.0,
+    "package": "825ml/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Rybie prsty nemleté Exklusiv hlbokozmrazené 250 g",
+    "price": 2.29,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Pangasius filety hlbokozmrazené 1 kg",
+    "price": 6.49,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "1kg/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Cremore Duo dezert 190 g",
+    "price": 0.79,
+    "original_price": 1.26,
+    "unit": "g",
+    "unit_count": 190.0,
+    "discount_description": "38%",
+    "package": "190g/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Actimel jahodový 4 x 100 g 1 bal.",
+    "price": 2.09,
+    "original_price": 2.91,
+    "unit": "g",
+    "unit_count": 400.0,
+    "discount_description": "28%",
+    "package": "400g/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Tradičná kvalita Pasta pečenová 48 g",
+    "price": 0.35,
+    "unit": "g",
+    "unit_count": 48.0,
+    "package": "48g/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Carpathia original polievka 3 druhy od 44 g do 73 g",
+    "price": 0.79,
+    "unit": "g",
+    "unit_count": 44.0,
+    "package": "44g/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Raciol repkový olej 1 l",
+    "price": 1.79,
+    "unit": "l",
+    "unit_count": 1.0,
+    "package": "1l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Hrášok jemný 400 g",
+    "price": 1.39,
+    "original_price": 1.67,
+    "unit": "g",
+    "unit_count": 400.0,
+    "discount_description": "17%",
+    "package": "400g/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Hellmann's originál majonéza 625 ml",
+    "price": 2.99,
+    "original_price": 6.43,
+    "unit": "ml",
+    "unit_count": 625.0,
+    "discount_description": "53%",
+    "package": "625ml/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Fólia na potraviny",
+    "generic_name": "fólia",
+    "price": 1.19,
+    "unit": "m",
+    "unit_count": 20.0,
+    "package": "20m/ balenie",
+    "category": "domácnosť",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Papier na pečenie",
+    "generic_name": "papier",
+    "price": 1.45,
+    "unit": "kus",
+    "unit_count": 20.0,
+    "package": "20ks/ balenie",
+    "category": "domácnosť",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Čokoláda na varenie",
+    "generic_name": "čokoláda",
+    "price": 2.39,
+    "unit": "g",
+    "unit_count": 180.0,
+    "package": "180g/ kus",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Hrozienka sušené",
+    "generic_name": "hrozienka",
+    "price": 0.69,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Piškoty",
+    "generic_name": "piškoty",
+    "price": 1.39,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ kus",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Tuzemská liehovina",
+    "generic_name": "liehovina",
+    "price": 4.99,
+    "unit": "l",
+    "unit_count": 0.5,
+    "package": "0.5l/ kus",
+    "category": "alkoholické nápoje",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Jojo želé 3 druhy",
+    "generic_name": "želé",
+    "brand": "Jojo",
+    "price": 1.49,
+    "original_price": 1.99,
+    "unit": "g",
+    "unit_count": 170.0,
+    "discount_description": "25%",
+    "coop_club_only": true,
+    "tags": [],
+    "category": "sladkosti a snacky",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07",
+    "package": "170g/ kus"
+  },
+  {
+    "name": "Popradská Extra špecial mletá káva",
+    "generic_name": "mletá káva",
+    "brand": "Popradská Extra",
+    "price": 8.99,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ balenie",
+    "discount_description": null,
+    "coop_club_only": false,
+    "tags": [],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Chren tradičný",
+    "generic_name": "chren",
+    "price": 0.99,
+    "original_price": 1.38,
+    "unit": "g",
+    "unit_count": 200.0,
+    "package": "200g/ kus",
+    "discount_description": "-28%",
+    "tags": [],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Rex Amazonia Freshness",
+    "generic_name": "prací prášok",
+    "brand": "Rex",
+    "price": 4.99,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "900 ml",
+    "category": "domácnosť",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Losos filet s kožou",
+    "generic_name": "losos",
+    "price": 1.99,
+    "original_price": 3.61,
+    "unit": "g",
+    "unit_count": 100.0,
+    "discount_description": "zľava 45%",
+    "category": "ryby a morské plody",
+    "package": "100g/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Kurča bez drobov a 2x kuracie štvrte zadné",
+    "generic_name": "kurča",
+    "price": 2.99,
+    "original_price": 4.34,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "31%",
+    "category": "mäso",
+    "start_date": "2026-03-26",
+    "end_date": "2026-03-28",
+    "package": "1kg/ kus"
+  },
+  {
+    "name": "Kubík waterrr jahoda",
+    "generic_name": "minerálna voda",
+    "price": 0.79,
+    "unit": "l",
+    "unit_count": 0.5,
+    "package": "0.5l/ kus",
+    "category": "nápoje",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Bezlaktózové mlieko",
+    "generic_name": "mlieko",
+    "brand": "Coop ToMu Ver",
+    "price": 1.39,
+    "unit": "L",
+    "unit_count": 1.0,
+    "package": "1L/ balenie",
+    "tags": [
+      "bezlaktózové"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Dobrôtka kakaovo-oriešok",
+    "generic_name": "kakaovo-oriešok",
+    "brand": "Coop",
+    "price": 1.29,
+    "original_price": 1.62,
+    "unit": "g",
+    "unit_count": 60.0,
+    "package": "6 x 60g/ balenie",
+    "discount_description": "-18%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Syr na vyprázanie údený",
+    "generic_name": "syr",
+    "price": 1.19,
+    "original_price": 1.9,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "discount_description": "-33%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Zemiakový šalát",
+    "generic_name": "šalát",
+    "brand": "Piknik",
+    "price": 1.49,
+    "original_price": 2.1,
+    "unit": "g",
+    "unit_count": 280.0,
+    "package": "280g/ balenie",
+    "discount_description": "29%",
+    "coop_club_only": false,
+    "category": "vegetariánske a vegánske",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Hrozienka sušené v čokoláde Minions",
+    "generic_name": "hrozienka sušená v čokoláde",
+    "brand": "Choco & Toy",
+    "price": 1.99,
+    "original_price": 2.39,
+    "unit": "g",
+    "unit_count": 40.0,
+    "package": "40g/ balenie",
+    "discount_description": "-16%",
+    "coop_club_only": false,
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Smotana kyslá 14%",
+    "generic_name": "smotana",
+    "brand": "rajo",
+    "price": 1.29,
+    "original_price": 1.63,
+    "unit": "g",
+    "unit_count": 375.0,
+    "package": "375g/ balenie",
+    "discount_description": "-21%",
+    "coop_club_only": false,
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Popradská Espresso",
+    "generic_name": "káva",
+    "price": 8.99,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ balenie",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Eduscho Family",
+    "generic_name": "káva",
+    "price": 3.99,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ balenie",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Pringles",
+    "generic_name": "chips",
+    "price": 2.49,
+    "unit": "g",
+    "unit_count": 165.0,
+    "package": "165g/ balenie",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Nescafé Gold",
+    "generic_name": "káva",
+    "price": 5.69,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ balenie",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Popradský ovocný čaj",
+    "generic_name": "čaj",
+    "price": 1.49,
+    "unit": "g",
+    "unit_count": 36.0,
+    "package": "36g/ balenie",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Stix Slovakia",
+    "generic_name": "kecup",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 120.0,
+    "package": "120g/ balenie",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Lavazza espresso",
+    "generic_name": "káva",
+    "price": 7.99,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "250g/ balenie",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Doritos",
+    "generic_name": "chips",
+    "price": 1.69,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ balenie",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Tuc Bake Rolls",
+    "generic_name": "pečivo",
+    "price": 0.69,
+    "unit": "g",
+    "unit_count": 80.0,
+    "package": "80g/ balenie",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Šproty v paradajkovej omáčke",
+    "generic_name": "šproty",
+    "price": 1.59,
+    "unit": "g",
+    "unit_count": 170.0,
+    "package": "85g/ balenie",
+    "discount_description": "-26%",
+    "coop_club_only": false,
+    "category": "mrazené potraviny",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Lucka dojčenská voda neperlivá",
+    "price": 0.49,
+    "unit": "l",
+    "unit_count": 1.5,
+    "category": "nápoje",
+    "package": "1.5l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "DrWitt 3 druhy",
+    "price": 0.75,
+    "unit": "l",
+    "unit_count": 0.75,
+    "category": "nápoje",
+    "package": "0.75l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Tradičná kvalita ľadový čaj",
+    "price": 1.65,
+    "unit": "l",
+    "unit_count": 1.5,
+    "category": "nápoje",
+    "package": "1.5l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Kofola 2 druhy",
+    "price": 0.79,
+    "unit": "l",
+    "unit_count": 0.33,
+    "category": "nápoje",
+    "package": "0.33l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Rio Cold Press",
+    "price": 1.99,
+    "unit": "l",
+    "unit_count": 1.0,
+    "category": "nápoje",
+    "package": "1l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Hello 100% džús",
+    "price": 0.39,
+    "unit": "l",
+    "unit_count": 0.25,
+    "category": "nápoje",
+    "package": "0.25l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Coca-Cola",
+    "price": 1.59,
+    "unit": "l",
+    "unit_count": 1.5,
+    "category": "nápoje",
+    "package": "1.5l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "ICE Coffee Latte",
+    "price": 0.99,
+    "unit": "l",
+    "unit_count": 0.25,
+    "category": "nápoje",
+    "package": "0.25l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Dobrá úroda sirup",
+    "price": 2.99,
+    "unit": "l",
+    "unit_count": 0.5,
+    "category": "nápoje",
+    "package": "0.5l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Frizzante bianco",
+    "generic_name": "víno",
+    "price": 2.99,
+    "original_price": 3.99,
+    "unit": "L",
+    "unit_count": 0.75,
+    "package": "0.75L/ kus",
+    "category": "alkoholické nápoje",
+    "tags": [
+      "alkohol"
+    ],
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Moscato de Luxe",
+    "generic_name": "víno",
+    "price": 2.39,
+    "original_price": 3.19,
+    "unit": "L",
+    "unit_count": 0.75,
+    "package": "0.75L/ kus",
+    "category": "alkoholické nápoje",
+    "tags": [
+      "alkohol"
+    ],
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Vášen Rulandské šedé",
+    "generic_name": "víno",
+    "price": 4.99,
+    "original_price": 6.85,
+    "unit": "L",
+    "unit_count": 0.75,
+    "package": "0.75L/ kus",
+    "discount_description": "28%",
+    "category": "alkoholické nápoje",
+    "tags": [
+      "alkohol"
+    ],
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Veltlínske zelené",
+    "generic_name": "víno",
+    "price": 2.49,
+    "original_price": 3.32,
+    "unit": "L",
+    "unit_count": 0.75,
+    "package": "0.75L/ kus",
+    "category": "alkoholické nápoje",
+    "tags": [
+      "alkohol"
+    ],
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Radegast rázná 10",
+    "generic_name": "pivo",
+    "price": 0.59,
+    "original_price": 1.18,
+    "unit": "L",
+    "unit_count": 0.5,
+    "package": "0.5L/ kus",
+    "category": "alkoholické nápoje",
+    "tags": [
+      "alkohol"
+    ],
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Gambrinus plná 12",
+    "generic_name": "pivo",
+    "price": 0.85,
+    "original_price": 1.7,
+    "unit": "L",
+    "unit_count": 0.5,
+    "package": "0.5L/ kus",
+    "discount_description": "zláva za obal 0.15 €",
+    "category": "alkoholické nápoje",
+    "tags": [
+      "alkohol"
+    ],
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Jim Beam Bourbon",
+    "brand": "Jim Beam",
+    "price": 13.99,
+    "original_price": 19.99,
+    "unit": "l",
+    "unit_count": 0.7,
+    "category": "alkoholické nápoje",
+    "tags": [
+      "alkohol"
+    ],
+    "package": "0.7l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Zbojnícka Slivovica",
+    "brand": "Zbojnícka",
+    "price": 16.99,
+    "original_price": 24.27,
+    "unit": "l",
+    "unit_count": 0.7,
+    "category": "alkoholické nápoje",
+    "tags": [
+      "alkohol"
+    ],
+    "package": "0.7l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Golden Marhuľa",
+    "brand": "Golden",
+    "price": 7.49,
+    "original_price": 14.98,
+    "unit": "l",
+    "unit_count": 0.5,
+    "category": "alkoholické nápoje",
+    "tags": [
+      "alkohol"
+    ],
+    "package": "0.5l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Finlandia Vodka",
+    "brand": "Finlandia",
+    "price": 12.99,
+    "original_price": 18.56,
+    "unit": "l",
+    "unit_count": 0.7,
+    "category": "alkoholické nápoje",
+    "tags": [
+      "alkohol"
+    ],
+    "package": "0.7l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Becherovka",
+    "brand": "Becherovka",
+    "price": 9.99,
+    "original_price": 14.27,
+    "unit": "l",
+    "unit_count": 0.7,
+    "category": "alkoholické nápoje",
+    "tags": [
+      "alkohol"
+    ],
+    "package": "0.7l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Rum & Spiced",
+    "brand": "Tímón",
+    "price": 24.99,
+    "original_price": 35.7,
+    "unit": "l",
+    "unit_count": 0.7,
+    "category": "alkoholické nápoje",
+    "tags": [
+      "alkohol"
+    ],
+    "package": "0.7l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Ariel Color gélové kapsuly",
+    "generic_name": "pranie",
+    "brand": "Ariel",
+    "price": 15.99,
+    "original_price": 19.99,
+    "unit": "bal",
+    "unit_count": 50.0,
+    "package": "50 dávok",
+    "discount_description": "zľava 20%",
+    "coop_club_only": false,
+    "tags": [],
+    "category": "domácnosť",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Morčacie prsia chladené 1 kg",
+    "price": 9.99,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Veporský plnený bok 100 g",
+    "price": 0.69,
+    "unit": "g",
+    "unit_count": 100.0,
+    "category": "mäso",
+    "package": "100g/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Tomu Ver Bezlaktózový smotanový jogurt 3 druhy 145 g",
+    "price": 0.45,
+    "unit": "g",
+    "unit_count": 145.0,
+    "category": "mliečne výrobky",
+    "tags": [
+      "bezlaktózové"
+    ],
+    "package": "145g/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Mionetto Frizzante DOC 0,75 l",
+    "price": 6.49,
+    "unit": "l",
+    "unit_count": 0.75,
+    "category": "alkoholické nápoje",
+    "package": "0.75l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Bailey's 17% 0,7 l",
+    "price": 13.99,
+    "unit": "l",
+    "unit_count": 0.7,
+    "category": "alkoholické nápoje",
+    "package": "0.7l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Viennetta 2 druhy 650 ml",
+    "price": 1.99,
+    "unit": "ml",
+    "unit_count": 650.0,
+    "category": "sladkosti a snacky",
+    "package": "650ml/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Harmony Soft White XXL 3-vrstvový toaletný papier 24 ks v balení",
+    "price": 4.99,
+    "unit": "kus",
+    "unit_count": 24.0,
+    "category": "domácnosť",
+    "package": "24kus/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Président syr plátky",
+    "generic_name": "syr plátky",
+    "brand": "Président",
+    "price": 2.69,
+    "original_price": 3.89,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ balenie",
+    "discount_description": "31%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Bravcové stehno bez kosti 1 kg",
+    "price": 4.59,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "Cena platí do 28. 3. alebo do vypredania zásob",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Bravcové stehno bez kosti 1 kg",
+    "price": 5.19,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "Cena platí do 28. 3. alebo do vypredania zásob",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Krkovička údená bez kosti 1 kg",
+    "price": 5.19,
+    "original_price": 10.99,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "Zláva 52%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Treska Exklusiv 140 g",
+    "price": 0.89,
+    "original_price": 1.49,
+    "unit": "g",
+    "unit_count": 140.0,
+    "discount_description": "Zláva 40%",
+    "category": "ryby a morské plody",
+    "package": "140g/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Eidam tehla 45% 100 g",
+    "price": 0.59,
+    "original_price": 0.89,
+    "unit": "g",
+    "unit_count": 100.0,
+    "discount_description": "Zláva 38%",
+    "category": "mliečne výrobky",
+    "package": "100g/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Smotana čerstvá na šľahanie 33% 250 ml",
+    "price": 1.19,
+    "original_price": 2.09,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "discount_description": "Zláva 43%",
+    "category": "mliečne výrobky",
+    "package": "250ml/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Mirinda Pomaranč 2 l",
+    "price": 1.49,
+    "unit": "l",
+    "unit_count": 2.0,
+    "category": "nápoje",
+    "package": "2l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Pepsi 2 l",
+    "price": 1.49,
+    "unit": "l",
+    "unit_count": 2.0,
+    "category": "nápoje",
+    "package": "2l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Kelt 10% 1 l",
+    "price": 1.19,
+    "unit": "l",
+    "unit_count": 1.0,
+    "category": "alkoholické nápoje",
+    "package": "1l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Koniferum Borovička 37,5% 0,7 l",
+    "price": 7.49,
+    "original_price": 9.99,
+    "unit": "l",
+    "unit_count": 0.7,
+    "discount_description": "Zláva 25%",
+    "category": "alkoholické nápoje",
+    "package": "0.7l/ kus",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "name": "Vitana pyramídky na syčkovú",
+    "generic_name": "pyramídky",
+    "brand": "Vitana",
+    "price": 0.69,
+    "unit": "g",
+    "unit_count": 20.0,
+    "package": "20g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  }
+]

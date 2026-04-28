@@ -1,0 +1,23 @@
+mistral-small3.2 
+✅ Hotovo! Extrahovaných položiek: 30 -> output/lidl_2025-12-01_to_2025-12-07_p2yc58.json
+python price_parser.py lidl_shortened.pdf lidl  12.77s user 0.65s system 2% cpu 8:45.62 total
+
+
+ministral-3:14b no changes
+✅ Hotovo! Extrahovaných položiek: 11 -> output/lidl_2025-12-01_to_2025-12-07_nx0ydp.json
+python price_parser.py lidl_shortened.pdf lidl  12.41s user 0.61s system 7% cpu 2:48.15 total
+
+ministral-3:14b no changes - upravy top_p num_predict
+✅ Hotovo! Extrahovaných položiek: 14 -> output/lidl_2025-12-01_to_2025-12-07_b9e4pr.json
+python price_parser.py lidl_shortened.pdf lidl  12.21s user 0.58s system 7% cpu 2:45.94 total
+
+ministral-3:14b no changes - zvolnenie filtrovania produktov
+
+
+
+mistral-small3.2
+✅ Hotovo! Extrahovaných položiek: 25 -> shortmistral.json
+./price_parser.py lidl_shortened.pdf lidl shortmistral.json  11.96s user 0.58s system 4% cpu 4:48.51 total
+
+
+qwen3.5:27b

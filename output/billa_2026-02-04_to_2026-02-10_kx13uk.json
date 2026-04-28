@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Madeta mlieko 1,5 % trvanlivé",
+    "generic_name": "mlieko",
+    "price": 0.49,
+    "original_price": 1.19,
+    "unit_count": 1.0,
+    "package": "1 l/ balenie",
+    "discount_description": "-58%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-10"
+  },
+  {
+    "name": "Kurča bez drobkov Hyza",
+    "generic_name": "kurča",
+    "price": 3.19,
+    "original_price": 3.78,
+    "unit": "kg",
+    "discount_description": "-15%",
+    "category": "mäso",
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-10"
+  },
+  {
+    "name": "Hovädzie zadné bez kosti Mäsiarov výber",
+    "generic_name": "hovädzie zadné",
+    "price": 12.9,
+    "original_price": 14.52,
+    "unit": "kg",
+    "discount_description": "-11%",
+    "category": "mäso",
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-10"
+  },
+  {
+    "name": "Kačacia pečené foie gras",
+    "generic_name": "foie gras",
+    "price": 3.39,
+    "original_price": 4.68,
+    "unit_count": 100.0,
+    "discount_description": "-27%",
+    "category": "mäso",
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-10"
+  },
+  {
+    "name": "Donut ružový so srdieckami",
+    "price": 0.49,
+    "original_price": 0.61,
+    "unit_count": 56.0,
+    "discount_description": "-19%",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-10"
+  },
+  {
+    "name": "Pinsa šunka-syr-kukurica",
+    "price": 1.39,
+    "original_price": 1.74,
+    "unit_count": 140.0,
+    "discount_description": "-20%",
+    "tags": [
+      "pekárenské výrobky"
+    ],
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-10"
+  },
+  {
+    "name": "Perníkové srdiečko",
+    "price": 0.69,
+    "original_price": 0.82,
+    "unit_count": 60.0,
+    "discount_description": "-15%",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-10"
+  },
+  {
+    "name": "Kinder čokoláda",
+    "brand": "Kinder",
+    "price": 0.89,
+    "unit_count": 50.0,
+    "package": "50g/ kus",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-10"
+  },
+  {
+    "name": "Marlenka guličky malinové, medové, kakaové",
+    "brand": "Marlenka",
+    "price": 4.39,
+    "unit_count": 235.0,
+    "package": "235g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-10"
+  },
+  {
+    "name": "Kinder bueno mini plnené obľatky",
+    "brand": "Kinder",
+    "price": 2.59,
+    "original_price": 3.89,
+    "unit_count": 108.0,
+    "package": "108g/ balenie",
+    "discount_description": "-33%",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-10"
+  },
+  {
+    "name": "Lindt pralinky",
+    "brand": "Lindor",
+    "price": 6.49,
+    "original_price": 9.89,
+    "unit_count": 100.0,
+    "package": "100g/ balenie",
+    "discount_description": "-34%",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-10"
+  },
+  {
+    "name": "Lindt Lindor srdiečko",
+    "brand": "Lindor",
+    "price": 2.79,
+    "unit_count": 50.0,
+    "package": "50g/ kus",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-10"
+  },
+  {
+    "name": "Merci Together dezert",
+    "brand": "merci together",
+    "price": 3.99,
+    "unit_count": 175.0,
+    "package": "175g/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-10"
+  },
+  {
+    "name": "Deva Excelent dezert",
+    "brand": "Deva",
+    "price": 3.49,
+    "original_price": 4.8,
+    "unit_count": 140.0,
+    "package": "140g/ balenie",
+    "discount_description": "-30%",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-10"
+  },
+  {
+    "name": "Templárske sklepy viac druhov",
+    "generic_name": "víno",
+    "brand": "Templárske Sklepy",
+    "price": 2.99,
+    "original_price": 4.13,
+    "unit": "l",
+    "unit_count": 0.75,
+    "package": "0,75 l/ balenie",
+    "discount_description": "-28%",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2024-10-01",
+    "end_date": "2026-02-29"
+  },
+  {
+    "name": "Becherovka Original",
+    "generic_name": "bylinný likér",
+    "brand": "Becherovka",
+    "price": 6.99,
+    "original_price": 13.8,
+    "unit_count": 500.0,
+    "package": "0,5 l/ fláša",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-10"
+  },
+  {
+    "name": "Rajec pramenená voda",
+    "generic_name": "voda",
+    "price": 0.43,
+    "original_price": 0.68,
+    "unit": "l",
+    "unit_count": 1.5,
+    "package": "2ks/ balenie",
+    "discount_description": "-37%",
+    "tags": [
+      "nealkoholicke"
+    ],
+    "category": "nápoje",
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-10"
+  }
+]

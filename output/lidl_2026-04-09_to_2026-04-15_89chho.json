@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Lupilu SOFT Premium Pants",
+    "generic_name": "plienky",
+    "brand": "Lupilu",
+    "price": 5.0,
+    "unit": "kus",
+    "unit_count": 20.0,
+    "package": "20 kusov",
+    "category": "domácnosť",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Lupilu SOFT Premium Pants",
+    "generic_name": "plienky",
+    "brand": "Lupilu",
+    "price": 6.0,
+    "unit": "kus",
+    "unit_count": 18.0,
+    "package": "18 kusov",
+    "category": "domácnosť",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  }
+]

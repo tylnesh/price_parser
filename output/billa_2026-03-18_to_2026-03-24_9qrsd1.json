@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Redkovka červená",
+    "generic_name": "redkovka",
+    "price": 0.49,
+    "original_price": 0.99,
+    "unit": "kus",
+    "package": "1 ks/ balenie",
+    "discount_description": "-50%",
+    "tags": [],
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Bravcové stehno bez kosti",
+    "generic_name": "stehno",
+    "price": 3.19,
+    "original_price": 6.48,
+    "unit": "kg",
+    "discount_description": "-50%",
+    "category": "mäso",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Kurča bez drobkov Masiarov výber",
+    "generic_name": "kurča",
+    "price": 2.89,
+    "unit": "kg",
+    "tags": [
+      "lokálne"
+    ],
+    "category": "mäso",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Morčacie krídla Kubus",
+    "generic_name": "krídla",
+    "price": 2.99,
+    "original_price": 4.18,
+    "unit": "kg",
+    "discount_description": "-28%",
+    "category": "mäso",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Morčacie prsia bez kosti a kože Kubus",
+    "generic_name": "prsia",
+    "price": 8.29,
+    "original_price": 9.76,
+    "unit": "kg",
+    "discount_description": "-15%",
+    "category": "mäso",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Kuracie stehné horné, dolné Hyza, Domäsko, HSH",
+    "generic_name": "stehno",
+    "price": 3.29,
+    "original_price": 3.8,
+    "unit": "kg",
+    "discount_description": "-17%",
+    "category": "mäso",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Králik mladý celý",
+    "generic_name": "králik",
+    "price": 7.59,
+    "original_price": 8.94,
+    "unit": "kg",
+    "discount_description": "-15%",
+    "category": "mäso",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Bohemia šunka",
+    "generic_name": "šunka",
+    "price": 0.89,
+    "original_price": 1.37,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "1 kg = 8,90 €",
+    "discount_description": "-35%",
+    "category": "mäso",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Giana ryža gulatozrnná",
+    "generic_name": "ryža",
+    "brand": "Giana",
+    "price": 1.39,
+    "unit_count": 1000.0,
+    "package": "1 kg/ balenie",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Milko tvaroh odtučnený",
+    "generic_name": "tvaroh",
+    "brand": "Milko",
+    "price": 0.99,
+    "original_price": 1.29,
+    "unit": "g",
+    "unit_count": 250.0,
+    "discount_description": "-23%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "package": "250g/ kus",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Mitická minerálna voda perlivá, jemne perlivá tichá",
+    "generic_name": "minerálna voda",
+    "brand": "Mitická",
+    "price": 0.43,
+    "unit": "l",
+    "unit_count": 1.5,
+    "package": "1,5 l/ fláška",
+    "discount_description": "+ záloha za flášu 0,15 €",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Segafredo Intermezzo mletá káva",
+    "generic_name": "mletá káva",
+    "brand": "Segafredo",
+    "price": 3.99,
+    "unit_count": 250.0,
+    "unit": "g",
+    "package": "250g/ kus",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Víno Nitra Salamandra",
+    "generic_name": "víno",
+    "brand": "Nitra Salamandra",
+    "price": 2.99,
+    "original_price": 3.86,
+    "unit": "l",
+    "unit_count": 0.75,
+    "package": "0,75L/ balenie",
+    "discount_description": "-24%",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2023-10-01",
+    "end_date": "2023-10-07"
+  }
+]

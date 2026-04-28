@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Palmarin na pečenie",
+    "generic_name": "palmarin",
+    "brand": "Palma",
+    "price": 0.69,
+    "original_price": 1.29,
+    "unit_count": 250.0,
+    "discount_description": "-46%",
+    "tags": [
+      "bezlepkové"
+    ],
+    "category": "pekárenské výrobky",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Tesco jahody balené",
+    "generic_name": "jahoda",
+    "brand": "Tesco",
+    "price": 2.69,
+    "original_price": 4.99,
+    "unit": "g",
+    "unit_count": 500.0,
+    "package": "500g/ kus",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Paradajky koktelové",
+    "generic_name": "paradajka",
+    "price": 2.19,
+    "original_price": 3.49,
+    "unit": "g",
+    "unit_count": 300.0,
+    "package": "300g/ kus",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Tesco kuracie rezne chladené balené",
+    "generic_name": "kuracia pečenka",
+    "brand": "Tesco",
+    "price": 5.29,
+    "original_price": 7.19,
+    "unit": "kg",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Bravčové plece bez kosti chladené pultový predaj",
+    "generic_name": "bravcove pleco",
+    "price": 2.79,
+    "original_price": 5.39,
+    "unit": "kg",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Mlieko 3,5%",
+    "brand": "Lunter",
+    "generic_name": "mlieko",
+    "price": 0.59,
+    "original_price": 1.09,
+    "package": "1 l",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Palma Raciol repkový olej",
+    "brand": "Raciol",
+    "generic_name": "repkovy olej",
+    "price": 1.65,
+    "original_price": 3.29,
+    "package": "1 l",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Persil prací prostriedok viac druhov",
+    "brand": "Persil",
+    "generic_name": "praci prostriedok",
+    "price": 13.99,
+    "original_price": 23.99,
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Tesco mrkva balená, 1 kg",
+    "price": 0.55,
+    "original_price": 0.89,
+    "unit_count": 1.0,
+    "discount_description": "-38%",
+    "category": "ovocie a zelenina",
+    "unit": "kg",
+    "package": "1kg/ kus",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Tesco mandarinky balené, 1 kg",
+    "price": 1.29,
+    "original_price": 2.49,
+    "unit_count": 1.0,
+    "discount_description": "-48%",
+    "category": "ovocie a zelenina",
+    "unit": "kg",
+    "package": "1kg/ kus",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Jablká Golden Delicious ukladané, voľný predaj",
+    "price": 0.99,
+    "original_price": 1.79,
+    "unit_count": 1.0,
+    "discount_description": "-44%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Avokádo voľný predaj",
+    "price": 0.99,
+    "original_price": 1.45,
+    "unit_count": 1.0,
+    "discount_description": "-31%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Zelerínárska kráľovské zemiaky balené",
+    "price": 1.39,
+    "original_price": 3.09,
+    "unit_count": 2.5,
+    "discount_description": "-55%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Zeler buľový voľný predaj",
+    "price": 0.75,
+    "original_price": 1.55,
+    "unit_count": 1.0,
+    "discount_description": "-51%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Hrozno tmavé bezkôstkové balené",
+    "price": 1.49,
+    "original_price": 3.29,
+    "unit_count": 0.5,
+    "discount_description": "-54%",
+    "category": "ovocie a zelenina",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Nestlé Beba dojčenské mlieko",
+    "generic_name": "dojčenské mlieko",
+    "brand": "Beba",
+    "price": 15.69,
+    "original_price": 17.49,
+    "unit": "g",
+    "unit_count": 800.0,
+    "package": "800 g/ balenie",
+    "discount_description": "-10%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Slovenské bravčové stehno bez kosti chladené, puitový predaj",
+    "generic_name": "bravčové stehno",
+    "price": 4.19,
+    "original_price": 7.19,
+    "unit_count": 1000.0,
+    "discount_description": "-41%",
+    "category": "mäso",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Tesco mleté morčacie mäso chladené balené",
+    "generic_name": "mleté mäso",
+    "price": 2.59,
+    "original_price": 3.19,
+    "unit_count": 500.0,
+    "discount_description": "-18%",
+    "category": "mäso",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Tesco mandle jadrá natural balené, 500 g",
+    "generic_name": "mandle",
+    "brand": "Tesco",
+    "price": 7.49,
+    "original_price": 10.98,
+    "unit_count": 500.0,
+    "package": "500g/ balenie",
+    "discount_description": "-26%",
+    "club_card_only": true,
+    "unit": "g",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Poex veľ'konočné mandle balené, 200 g",
+    "price": 3.49,
+    "original_price": 17.45,
+    "unit_count": 200.0,
+    "package": "balené/ kus",
+    "discount_description": "-20%",
+    "club_card_only": true,
+    "unit": "g",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Údený sušený bok",
+    "generic_name": "bok",
+    "brand": "Bauchispeck",
+    "price": 7.99,
+    "original_price": 11.99,
+    "unit": "g",
+    "unit_count": 300.0,
+    "package": "balené, 300 g/ kus",
+    "discount_description": "-33%",
+    "club_card_only": true,
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Dr. Oetker holandské kakao klasické",
+    "generic_name": "kakao",
+    "brand": "Dr. Oetker",
+    "price": 1.89,
+    "original_price": 2.99,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100 g / balenie",
+    "discount_description": "-36%",
+    "club_card_only": true,
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Lotus Biscoff originálna karamelizovaná sušenka",
+    "generic_name": "sušenky",
+    "brand": "Biscoff",
+    "price": 1.19,
+    "original_price": 1.85,
+    "unit": "g",
+    "unit_count": 250.0,
+    "package": "balenie",
+    "discount_description": "-35%",
+    "club_card_only": true,
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Veľkokonôč plstený košík zelený",
+    "price": 3.69,
+    "original_price": 2.89,
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Veľkokonôčné farby na vajička v tabletách",
+    "price": 2.69,
+    "original_price": 2.09,
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Dekorácia zápich zajacik",
+    "price": 2.69,
+    "original_price": 2.09,
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Veľkokonôčné polystyrenové vajička",
+    "unit_count": 12.0,
+    "price": 2.69,
+    "original_price": 2.09,
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Kreatívna súprava na maľovanie",
+    "price": 3.69,
+    "original_price": 2.69,
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Závesný veľkokonôc s nápisom",
+    "price": 4.39,
+    "original_price": 3.49,
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Family gouda",
+    "generic_name": "syr",
+    "price": 3.89,
+    "original_price": 4.89,
+    "unit_count": 500.0,
+    "discount_description": "-20%",
+    "club_card_only": true,
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  },
+  {
+    "name": "Jägermeister",
+    "generic_name": "alkoholický nápoj",
+    "brand": "Jägermeister",
+    "price": 12.99,
+    "original_price": 18.99,
+    "unit": "l",
+    "unit_count": 0.7,
+    "package": "0,7 l/ kus",
+    "discount_description": "-31%",
+    "club_card_only": true,
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-31"
+  },
+  {
+    "name": "Pronamel Kids zubná kefka pre deti",
+    "generic_name": "zubná kefka",
+    "price": 2.99,
+    "original_price": 3.99,
+    "unit_count": 1.0,
+    "package": "1 ks/ balenie",
+    "discount_description": "-25%",
+    "club_card_only": true,
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24"
+  }
+]

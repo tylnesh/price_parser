@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Kuracie rezne chladené",
+    "generic_name": "kuracie rezy",
+    "price": 5.49,
+    "original_price": 7.36,
+    "unit_count": 1000.0,
+    "discount_description": "-38%",
+    "category": "mäso",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Lahôdka z karé údená",
+    "generic_name": "karé údené",
+    "price": 5.99,
+    "original_price": 12.07,
+    "unit_count": 1000.0,
+    "discount_description": "-51%",
+    "category": "mäso",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Hellmann's Originál majonéza",
+    "generic_name": "majonéza",
+    "brand": "Hellman's",
+    "price": 1.99,
+    "original_price": 3.56,
+    "unit_count": 405.0,
+    "discount_description": "-44%",
+    "category": "trvanlivé potraviny",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Monte dezert",
+    "generic_name": "dezert",
+    "brand": "Monte",
+    "price": 0.79,
+    "original_price": 1.23,
+    "unit_count": 150.0,
+    "discount_description": "-35%",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Lacey Swiss syr",
+    "generic_name": "syr",
+    "price": 0.99,
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "tags": [
+      "bezlaktózové"
+    ],
+    "category": "mliečne výrobky",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Mascarpone 250 g",
+    "generic_name": "mascarpone",
+    "price": 2.69,
+    "unit_count": 250.0,
+    "discount_description": "-23%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečné výrobky",
+    "unit": "g",
+    "package": "250g/ kus",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Donut mini",
+    "generic_name": "donuty",
+    "price": 0.29,
+    "unit_count": 18.0,
+    "package": "od 18 g do 20 g/ kus",
+    "discount_description": "-15%",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "category": "pekárenské výrobky",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Snickers",
+    "brand": "SNICKERS",
+    "price": 0.79,
+    "original_price": 1.08,
+    "unit_count": 50.0,
+    "package": "50g/ kus",
+    "discount_description": "-27%",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Bounty",
+    "brand": "BOUNTY",
+    "price": 0.65,
+    "original_price": 0.91,
+    "unit_count": 57.0,
+    "package": "57g/ kus",
+    "discount_description": "-40%",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "3Bit tyčinka 2 druhy",
+    "brand": "3BIT",
+    "price": 0.65,
+    "original_price": 0.81,
+    "unit_count": 46.0,
+    "package": "46g/ kus",
+    "discount_description": "-34%",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "3Bit tyčinka 2 druhy",
+    "brand": "3BIT",
+    "price": 0.79,
+    "original_price": 0.98,
+    "unit_count": 46.0,
+    "package": "46g/ kus",
+    "discount_description": "-20%",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "name": "Margot",
+    "generic_name": "waffle",
+    "brand": "Orion",
+    "price": 0.79,
+    "unit_count": 80.0,
+    "package": "2 druhy/ balenie",
+    "category": "sladkosti a snacky",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  }
+]

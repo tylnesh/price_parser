@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Kera kvapalné hnojivo na balkónové rastliny",
+    "generic_name": "hnojivo",
+    "brand": "Kera",
+    "price": 3.29,
+    "original_price": 4.09,
+    "unit_count": 1.0,
+    "package": "1 l/ balenie",
+    "discount_description": "-19%",
+    "club_card_only": true,
+    "start_date": "2026-03-03",
+    "end_date": "2026-04-06"
+  },
+  {
+    "club_card_only": true,
+    "name": "Tesco hrabličky",
+    "generic_name": "uhliková ocel, drevo",
+    "price": 1.59,
+    "original_price": 1.99,
+    "start_date": "2026-03-03",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "Luxol origínal farba",
+    "generic_name": "farba na kov a drevo",
+    "brand": "LUXOL",
+    "price": 7.99,
+    "original_price": 9.99,
+    "unit_count": 0.75,
+    "package": "1/ balenie",
+    "discount_description": "-20%",
+    "club_card_only": true,
+    "start_date": "2026-03-03",
+    "end_date": "2026-04-06"
+  }
+]

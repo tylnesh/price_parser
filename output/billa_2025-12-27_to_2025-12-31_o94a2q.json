@@ -1,0 +1,933 @@
+[
+  {
+    "name": "Uhorka šalátová",
+    "generic_name": "uhorka",
+    "price": 0.99,
+    "original_price": 1.49,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-33%",
+    "category": "ovocie a zelenina",
+    "package": "1kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Mandarínky",
+    "price": 1.59,
+    "original_price": 2.99,
+    "unit": "kg",
+    "discount_description": "-46%",
+    "category": "ovocie a zelenina",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Pomaranče",
+    "price": 1.39,
+    "original_price": 2.29,
+    "unit": "kg",
+    "discount_description": "-39%",
+    "category": "ovocie a zelenina",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Avokádo",
+    "price": 0.99,
+    "original_price": 1.99,
+    "unit": "kg",
+    "discount_description": "-50%",
+    "category": "ovocie a zelenina",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Kivi",
+    "price": 0.39,
+    "original_price": 0.79,
+    "unit": "kg",
+    "discount_description": "-50%",
+    "category": "ovocie a zelenina",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Čučoriedky",
+    "price": 1.19,
+    "original_price": 2.69,
+    "unit": "g",
+    "unit_count": 125.0,
+    "discount_description": "-55%",
+    "category": "ovocie a zelenina",
+    "package": "125g/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Maliny",
+    "price": 1.79,
+    "original_price": 3.29,
+    "unit": "g",
+    "unit_count": 125.0,
+    "discount_description": "-45%",
+    "category": "ovocie a zelenina",
+    "package": "125g/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Chute Slovenska jablká Evelina",
+    "price": 1.69,
+    "original_price": 2.79,
+    "unit": "kg",
+    "discount_description": "-39%",
+    "category": "ovocie a zelenina",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Jahody",
+    "price": 2.49,
+    "original_price": 3.49,
+    "unit": "g",
+    "unit_count": 250.0,
+    "discount_description": "-28%",
+    "category": "ovocie a zelenina",
+    "package": "250g/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Hrozno červené Red Globe",
+    "price": 3.99,
+    "original_price": 4.99,
+    "unit": "kg",
+    "discount_description": "-20%",
+    "category": "ovocie a zelenina",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Torrero saláma",
+    "generic_name": "saláma",
+    "price": 0.99,
+    "original_price": 1.29,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "discount_description": "-23%",
+    "category": "mäso",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Detská šunka",
+    "generic_name": "šunka",
+    "price": 0.99,
+    "original_price": 1.59,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "discount_description": "-37%",
+    "category": "mäso",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Chopok saláma",
+    "generic_name": "saláma",
+    "price": 0.99,
+    "original_price": 1.56,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "discount_description": "-36%",
+    "category": "mäso",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Billa bravčová šunka",
+    "generic_name": "šunka",
+    "price": 1.26,
+    "original_price": 1.99,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "discount_description": "2+1",
+    "category": "mäso",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Mortadella Bologna",
+    "generic_name": "mortadella",
+    "price": 1.99,
+    "original_price": 2.6,
+    "unit": "g",
+    "unit_count": 150.0,
+    "package": "150g/ kus",
+    "discount_description": "-23%",
+    "category": "mäso",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Billa Lovecká saláma",
+    "generic_name": "saláma",
+    "price": 1.45,
+    "original_price": 1.85,
+    "unit": "g",
+    "unit_count": 75.0,
+    "package": "75g/ kus",
+    "discount_description": "-21%",
+    "category": "mäso",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Billa Premium Prosciutto di Parma",
+    "generic_name": "prosciutto",
+    "price": 3.69,
+    "original_price": 4.69,
+    "unit": "g",
+    "unit_count": 90.0,
+    "package": "90g/ kus",
+    "discount_description": "-21%",
+    "category": "mäso",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Kmotr Kmotrova klobása trio",
+    "generic_name": "klobása",
+    "price": 0.99,
+    "original_price": 1.99,
+    "unit": "g",
+    "unit_count": 75.0,
+    "package": "75g/ kus",
+    "discount_description": "1+1",
+    "category": "mäso",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Bravčová krkovička bez kosti",
+    "generic_name": "krkovička",
+    "price": 4.19,
+    "original_price": 6.69,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-37%",
+    "tags": [],
+    "category": "mäso",
+    "start_date": "2023-12-27",
+    "end_date": "2023-12-31",
+    "package": "1kg/ kus"
+  },
+  {
+    "name": "Radegast Ratar",
+    "generic_name": "svetlé pivo",
+    "brand": "Radegast",
+    "price": 0.89,
+    "original_price": 1.78,
+    "unit": "l",
+    "unit_count": 0.5,
+    "package": "0.5l/ plechovka",
+    "discount_description": "-50%",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Becherovka Original",
+    "generic_name": "bylinný likér",
+    "brand": "Becherovka",
+    "price": 9.99,
+    "unit": "l",
+    "unit_count": 1.0,
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "package": "1l/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Ballantine's",
+    "generic_name": "škótsky whisky",
+    "brand": "Ballantine's",
+    "price": 11.99,
+    "unit": "l",
+    "unit_count": 0.7,
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "package": "0.7l/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Tullamore Dew",
+    "generic_name": "írsky whisky",
+    "brand": "Tullamore Dew",
+    "price": 12.99,
+    "original_price": 16.99,
+    "unit": "l",
+    "unit_count": 0.7,
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "package": "0.7l/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Spišiačka",
+    "generic_name": "borovička",
+    "brand": "Spišiačka",
+    "price": 7.49,
+    "original_price": 11.99,
+    "unit": "%",
+    "unit_count": 40.0,
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "package": "40%/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Absolut Vodka",
+    "generic_name": "vodka",
+    "brand": "Absolut",
+    "price": 11.99,
+    "unit": "l",
+    "unit_count": 0.7,
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "package": "0.7l/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Gordon's",
+    "generic_name": "London dry gin",
+    "brand": "Gordon's",
+    "price": 12.99,
+    "original_price": 18.49,
+    "unit": "%",
+    "unit_count": 37.5,
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "package": "37.5%/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Fernet Stock",
+    "generic_name": "bylinný likér",
+    "brand": "Fernet Stock",
+    "price": 6.49,
+    "unit": "l",
+    "unit_count": 0.5,
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "package": "0.5l/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Metaxa 5*",
+    "generic_name": "brandy",
+    "brand": "Metaxa",
+    "price": 11.99,
+    "unit": "l",
+    "unit_count": 0.7,
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "package": "0.7l/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Miva kukuričné chrumky arašidové",
+    "generic_name": "kukuričné chrumky",
+    "price": 0.43,
+    "original_price": 0.62,
+    "unit": "g",
+    "unit_count": 60.0,
+    "discount_description": "-30%",
+    "tags": [
+      "sladkosti a snacky"
+    ],
+    "package": "60g/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Jogobella",
+    "generic_name": "jogurt",
+    "brand": "Zott",
+    "price": 0.35,
+    "original_price": 0.62,
+    "unit": "g",
+    "unit_count": 150.0,
+    "discount_description": "-43%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mliečne výrobky",
+    "package": "150g/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Poctivé párky",
+    "generic_name": "párky",
+    "price": 0.99,
+    "original_price": 1.39,
+    "unit": "g",
+    "unit_count": 100.0,
+    "package": "100g/ kus",
+    "discount_description": "-28%",
+    "tags": [
+      "mliečne"
+    ],
+    "category": "mäso",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Farmárske kuracie rezne Domáško",
+    "price": 6.19,
+    "original_price": 8.99,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-31%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Kurča bez drobkov Másiarov výber",
+    "price": 2.89,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Kačacie stehná s kožou",
+    "price": 0.89,
+    "original_price": 1.55,
+    "unit": "100g",
+    "unit_count": 1.0,
+    "discount_description": "-42%",
+    "category": "mäso",
+    "package": "1100g/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Kuracie stehná celé Másiarov výber, Domáško, HSH",
+    "price": 3.29,
+    "original_price": 3.89,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-15%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Bravčové plece bez kosti",
+    "price": 3.29,
+    "original_price": 5.59,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-41%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Bravčové karé XXL Kukkonia",
+    "price": 4.99,
+    "original_price": 7.69,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-35%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Bravčový bok s kostou Kostelecké uzeniny",
+    "price": 3.99,
+    "original_price": 6.39,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-37%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Chute Slovenská mäsová prípravok z bravčového mäsa",
+    "price": 3.29,
+    "original_price": 3.99,
+    "unit": "500g",
+    "unit_count": 1.0,
+    "discount_description": "-17%",
+    "category": "mäso",
+    "package": "1500g/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Hovädzí steak - vysoká roštenka",
+    "price": 1.65,
+    "original_price": 1.89,
+    "unit": "100g",
+    "unit_count": 1.0,
+    "discount_description": "-13%",
+    "category": "mäso",
+    "package": "1100g/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Hovädzie na guláš Másiarov výber",
+    "price": 11.8,
+    "original_price": 13.99,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-15%",
+    "category": "mäso",
+    "package": "1kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Orion Margot",
+    "generic_name": "čokoládová tyčinka",
+    "brand": "Margot",
+    "price": 0.49,
+    "original_price": 0.69,
+    "unit": "g",
+    "unit_count": 40.0,
+    "package": "40g/ kus",
+    "discount_description": "-28%",
+    "category": "sladkosti a snacky",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Ďuro trúlo viacernný chlieb",
+    "generic_name": "chlieb",
+    "price": 1.89,
+    "original_price": 2.29,
+    "unit": "g",
+    "unit_count": 405.0,
+    "package": "405g/ kus",
+    "discount_description": "-17%",
+    "category": "pekárenské výrobky",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  },
+  {
+    "name": "Vénusz slnečicový olej",
+    "price": 1.79,
+    "unit": "l",
+    "unit_count": 1.0,
+    "package": "1l/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Ideál rôzne druhy",
+    "price": 0.79,
+    "unit": "kg",
+    "unit_count": 0.4,
+    "package": "0.4kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Asia Time ryžové rezance",
+    "price": 1.69,
+    "original_price": 2.16,
+    "unit": "kg",
+    "unit_count": 0.25,
+    "discount_description": "-22%",
+    "package": "0.25kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Krystálový cukor",
+    "price": 0.75,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "1kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Lagris ryža natural",
+    "price": 1.99,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "package": "1kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Lunter nátierka",
+    "price": 0.75,
+    "unit": "kg",
+    "unit_count": 0.075,
+    "package": "0.075kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Franz Josef olivy",
+    "price": 1.59,
+    "unit": "kg",
+    "unit_count": 0.314,
+    "package": "0.314kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Franz Josef sardelové očká",
+    "price": 2.49,
+    "unit": "kg",
+    "unit_count": 0.045,
+    "package": "0.045kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Santa María tortilla",
+    "price": 1.99,
+    "original_price": 3.53,
+    "unit": "kg",
+    "unit_count": 0.32,
+    "discount_description": "-43%",
+    "package": "0.32kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "BILLA lieskovo-orieškovo-kakaový krém",
+    "price": 2.29,
+    "original_price": 2.67,
+    "unit": "kg",
+    "unit_count": 0.4,
+    "discount_description": "-14%",
+    "package": "0.4kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Ben & Jerry's zmrzlina",
+    "price": 4.99,
+    "unit": "l",
+    "unit_count": 0.465,
+    "package": "0.465l/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Zavináče s cibulkou",
+    "generic_name": "zavináče",
+    "price": 0.85,
+    "original_price": 1.0,
+    "unit": "g",
+    "unit_count": 100.0,
+    "discount_description": "-29%",
+    "package": "100g/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Bambino Maxi",
+    "generic_name": "črievko",
+    "price": 1.55,
+    "original_price": 2.29,
+    "unit": "g",
+    "unit_count": 140.0,
+    "discount_description": "-32%",
+    "package": "140g/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Natur farm trescia pečená",
+    "generic_name": "trescia pečená",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 120.0,
+    "discount_description": "NAŠA CENA",
+    "package": "120g/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Luncheon meat",
+    "generic_name": "luncheon meat",
+    "price": 1.69,
+    "original_price": 2.0,
+    "unit": "g",
+    "unit_count": 190.0,
+    "discount_description": "-15%",
+    "package": "190g/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "BILLA Easy bageta kuracie stripsy",
+    "generic_name": "bageta kuracie stripsy",
+    "price": 2.69,
+    "original_price": 3.25,
+    "unit": "g",
+    "unit_count": 240.0,
+    "discount_description": "-19%",
+    "package": "240g/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "BILLA ready polievky",
+    "generic_name": "polievky",
+    "price": 3.59,
+    "original_price": 4.5,
+    "unit": "g",
+    "unit_count": 210.0,
+    "discount_description": "-21%",
+    "package": "210g/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Nescafé Dolce Gusto kapsuly",
+    "price": 4.99,
+    "unit": "bal",
+    "unit_count": 1.0,
+    "package": "1bal/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Segafredo Intermezzo mletá káva",
+    "price": 3.99,
+    "original_price": 4.99,
+    "unit": "kg",
+    "unit_count": 0.25,
+    "discount_description": "-20%",
+    "package": "0.25kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Jacobs Velvet Crema instantná káva",
+    "price": 7.49,
+    "unit": "kg",
+    "unit_count": 0.2,
+    "package": "0.2kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Kimbo espresso napoletano zrnová káva",
+    "price": 10.99,
+    "original_price": 15.99,
+    "unit": "kg",
+    "unit_count": 0.5,
+    "discount_description": "-31%",
+    "package": "0.5kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Hamé nátierka rôzne druhy",
+    "price": 0.75,
+    "unit": "kg",
+    "unit_count": 0.075,
+    "package": "0.075kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Emco Mysli rôzne druhy",
+    "price": 2.49,
+    "original_price": 4.0,
+    "unit": "kg",
+    "unit_count": 0.75,
+    "discount_description": "-39%",
+    "package": "0.75kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Eduscho Caffè crema zrnová káva",
+    "price": 15.49,
+    "original_price": 24.99,
+    "unit": "kg",
+    "unit_count": 1.0,
+    "discount_description": "-38%",
+    "package": "1kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Maxi Vita šumive tablety vybrané druhy",
+    "price": 1.19,
+    "original_price": 1.69,
+    "unit": "bal",
+    "unit_count": 1.0,
+    "discount_description": "-29%",
+    "package": "1bal/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Tuc Bake Rolls rôzne druhy",
+    "price": 0.69,
+    "unit": "kg",
+    "unit_count": 0.08,
+    "package": "0.08kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Dupetky XXL rôzne druhy",
+    "price": 1.49,
+    "unit": "kg",
+    "unit_count": 0.18,
+    "package": "0.18kg/ kus",
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Red Bull",
+    "generic_name": "energetický nápoj",
+    "price": 1.69,
+    "unit": "kus",
+    "unit_count": 1.0,
+    "package": "2 druhy",
+    "tags": [
+      "nealkoholicke"
+    ],
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Fuzetea",
+    "generic_name": "ladový čaj",
+    "price": 1.89,
+    "unit": "l",
+    "unit_count": 1.5,
+    "package": "11=1,26 €",
+    "tags": [
+      "nealkoholicke"
+    ],
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Jupí",
+    "generic_name": "sirup",
+    "price": 3.99,
+    "unit": "l",
+    "unit_count": 0.7,
+    "package": "11=5,70 €",
+    "tags": [
+      "nealkoholicke"
+    ],
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Alcohol Killer",
+    "generic_name": "cena za 1 ks pri kúpe od 2 ks",
+    "price": 1.79,
+    "original_price": 2.75,
+    "unit": "ml",
+    "unit_count": 250.0,
+    "package": "11=7,16 €",
+    "discount_description": "-34%",
+    "tags": [
+      "alkohol"
+    ],
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Velkopopovický Kozel",
+    "generic_name": "svetlé pivo",
+    "price": 0.59,
+    "unit": "%",
+    "unit_count": 10.0,
+    "package": "plechovka, 0,5 l",
+    "tags": [
+      "alkohol"
+    ],
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Budweiser Budvar",
+    "generic_name": "svetlé pivo",
+    "price": 0.79,
+    "unit": "%",
+    "unit_count": 12.0,
+    "package": "plechovka, 0,5 l",
+    "tags": [
+      "alkohol"
+    ],
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  },
+  {
+    "name": "Heffron",
+    "generic_name": "rum",
+    "price": 11.99,
+    "original_price": 19.4,
+    "unit": "%",
+    "unit_count": 38.0,
+    "package": "0,7 l",
+    "discount_description": "-38%",
+    "tags": [
+      "alkohol"
+    ],
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-31"
+  }
+]

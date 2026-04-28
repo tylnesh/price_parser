@@ -1,0 +1,216 @@
+[
+  {
+    "name": "Chute Slovenska údené bravčové koleno",
+    "generic_name": "bravcove koleno",
+    "brand": "Chute Slovenska",
+    "price": 5.9,
+    "unit_count": 1000.0,
+    "package": "1 kg/ kus",
+    "category": "mäso",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "Gazdovská slanina Chute Slovenska",
+    "generic_name": "slanina",
+    "brand": "Chute Slovenska",
+    "price": 12.99,
+    "unit_count": 0.0,
+    "package": "",
+    "category": "mäso",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "Schär chlieb Maestro vital",
+    "brand": "Schär",
+    "price": 3.29,
+    "unit_count": 350.0,
+    "unit": "g",
+    "package": "350g/ kus",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "Tekovský salámový syr",
+    "generic_name": "syr",
+    "category": "mliečne výrobky",
+    "price": 1.29,
+    "original_price": 12.9,
+    "unit_count": 800.0,
+    "unit": "g",
+    "package": "800g/ kus",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "Pilsner Urquell svetlé pivo, 12 % plechovka",
+    "brand": "Pilsner Urquell",
+    "category": "alkoholické nápoje",
+    "price": 9.49,
+    "unit_count": 0.5,
+    "unit": "L",
+    "package": "0.5L/ kus",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "Domáca údená krkovička",
+    "generic_name": "krkovička",
+    "category": "mäso",
+    "price": 1.19,
+    "original_price": 11.9,
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "Gazda nite",
+    "generic_name": "bryndza",
+    "price": 2.29,
+    "unit": "g",
+    "unit_count": 120.0,
+    "package": "120g/ kus",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "Bánovcecké syrové korbáče",
+    "generic_name": "korbáčik",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 80.0,
+    "package": "80g/ kus",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "Billa Premium ovcia bryndza",
+    "brand": "Premium",
+    "price": 2.29,
+    "generic_name": "bryndza",
+    "unit": "g",
+    "unit_count": 125.0,
+    "package": "125g/ kus",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "Liptov parenica",
+    "price": 1.99,
+    "unit": "g",
+    "unit_count": 105.0,
+    "package": "105g/ kus",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "Sabinovská hrudka",
+    "brand": "hrudka",
+    "generic_name": "syr",
+    "price": 17.5,
+    "discount_description": "cena za 1 kg",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "Karička eidam plátky klasik",
+    "price": 2.39,
+    "discount_description": "-45%",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "XL puding granátové jablko",
+    "generic_name": "puding",
+    "price": 0.65,
+    "unit": "g",
+    "unit_count": 85.0,
+    "package": "85g/ kus",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "Schwartau Extra džem rôzne druhy",
+    "generic_name": "džem",
+    "brand": "Schwartau Extra",
+    "price": 3.29,
+    "unit_count": 1000.0,
+    "package": "340g/ balenie",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "Caro Origínál instantný cerešiný nápoj",
+    "generic_name": "cerešiný nápoj",
+    "brand": "Nestlé Caro",
+    "price": 4.79,
+    "unit_count": 200.0,
+    "package": "1 kg = 23,95 €",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "Sirup rôzne druhy",
+    "generic_name": "sirup",
+    "brand": "Natur farm",
+    "price": 3.99,
+    "unit_count": 0.7,
+    "package": "1l = 5,70 €",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "Château Topoľčianky Prezident",
+    "generic_name": "šumivé víno rôzne druhy",
+    "price": 6.99,
+    "unit": "l",
+    "unit_count": 0.75,
+    "package": "11=93,20 €",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "nápoje",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "Timon rum & spiced",
+    "generic_name": "rum",
+    "brand": "Timon",
+    "price": 29.99,
+    "unit_count": 0.7,
+    "package": "1l = 42,85 €",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "La Gioiosa prosecco D.O.C.G.",
+    "generic_name": "prosecco",
+    "brand": "La Gioiosa",
+    "price": 13.99,
+    "original_price": 18.65,
+    "unit": "l",
+    "unit_count": 0.75,
+    "package": "0.75l/ kus",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-06"
+  },
+  {
+    "name": "Tatratea 62 % lesné ovocie",
+    "generic_name": "alkoholický nápoj s lesnými plodmi",
+    "brand": "TATRATEA",
+    "price": 22.99,
+    "unit_count": 0.7,
+    "package": "0,7L/ balenie",
+    "tags": [
+      "alkohol"
+    ],
+    "category": "alkoholické nápoje",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07"
+  }
+]
